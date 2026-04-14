@@ -1,0 +1,25 @@
+# 敏感配置
+config.json
+
+# 原始数据缓存
+data/
+
+# 同步状态
+.synced_ids
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
