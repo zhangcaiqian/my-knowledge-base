@@ -1,0 +1,292 @@
+{
+  "topic_id": 22255514218288111,
+  "topic_uid": "22255514218288111",
+  "group": {
+    "group_id": 454548818428,
+    "name": "老齐的读书圈",
+    "type": "pay",
+    "background_url": "https://images.zsxq.com/FhKUKP_fcDl7sOWROzpjFJ4GlmJ-?e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:AVZmzwndqjY51Qn5rb0k6pZBT0M="
+  },
+  "type": "talk",
+  "talk": {
+    "owner": {
+      "user_id": 48588884141828,
+      "name": "老齐的读书圈",
+      "alias": "老齐的读书圈",
+      "avatar_url": "https://images.zsxq.com/Fv0R7lwphGFfMBtlT-Af0AxQN_oy?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:-V_dYeQ3MSV4eCGg4T6wrPxtKFE=",
+      "description": "苹果用户续费问题的，请看置顶3！！这里不回答读书无关的问题！问投资请到粉丝群！",
+      "location": "海南"
+    },
+    "text": "更富有、更睿智、更快乐 10：4种不同的估值方法",
+    "files": [
+      {
+        "file_id": 415521845525158,
+        "name": "更富有、更睿智、更快乐 10.mp3",
+        "hash": "7807fcdb9b8bd8e25f3aa7dd59f98c0e47cd9ee1d6eb9509ca989bcfc2a49b78",
+        "size": 13244621,
+        "duration": 551,
+        "download_count": 2798,
+        "create_time": "2026-04-11T07:38:07.414+0800"
+      },
+      {
+        "file_id": 812241852242122,
+        "name": "更富有、更睿智、更快乐 10.docx",
+        "hash": "bd74eb330de219f86633238bff76b62b55e57950fad6b3b457954cb1c9559de4",
+        "size": 18632,
+        "duration": 0,
+        "download_count": 441,
+        "create_time": "2026-04-11T07:38:14.600+0800"
+      }
+    ]
+  },
+  "latest_likes": [
+    {
+      "create_time": "2026-04-11T21:54:13.306+0800",
+      "owner": {
+        "user_id": 28282425141111,
+        "name": "千帆竞发",
+        "avatar_url": "https://images.zsxq.com/FjX8ZlvCxghZz_wcUbzCnqubLgJH?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:D4HfAkCm4VVgHmxzU1M7OAy6HtI="
+      }
+    },
+    {
+      "create_time": "2026-04-11T21:26:04.220+0800",
+      "owner": {
+        "user_id": 15454555151582,
+        "name": "宁静致远®",
+        "avatar_url": "https://images.zsxq.com/FmvHM2k-L9gr68TmHjWGoBlKxRqV?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:_cxVw3_eJZTv-wgQBzpBI9SOHpQ="
+      }
+    },
+    {
+      "create_time": "2026-04-11T21:22:39.029+0800",
+      "owner": {
+        "user_id": 414842825225228,
+        "name": "早日成为富婆丫",
+        "avatar_url": "https://images.zsxq.com/Fo8bL5zTA5JzJs3Y5BIYUmieEy8q?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:yVSHCWXJs1mjUaEDkiera4CD-7k="
+      }
+    },
+    {
+      "create_time": "2026-04-11T21:15:02.064+0800",
+      "owner": {
+        "user_id": 414844221218448,
+        "name": "快乐兔子58",
+        "avatar_url": "https://images.zsxq.com/FujleGO4y3sdY5p_X7tN6LjB9C6N?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:mqnofD37j7ZzFg460FX_1YQKowY="
+      }
+    },
+    {
+      "create_time": "2026-04-11T20:55:40.615+0800",
+      "owner": {
+        "user_id": 51511452512524,
+        "name": "荷塘月色",
+        "avatar_url": "https://images.zsxq.com/Fg3-PUExnjkB_0DAV1h6E8PB1L8G?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:ZA0AjtsbOyElrpQ36pKqvf8eDrs="
+      }
+    },
+    {
+      "create_time": "2026-04-11T20:43:11.013+0800",
+      "owner": {
+        "user_id": 15448254481282,
+        "name": "余泽鹏",
+        "avatar_url": "https://images.zsxq.com/FlmeXe28l72rme29PknS5S59xzjA?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:VLhzb9vxWIPb7tbnXYs2uFVF1Vg="
+      }
+    },
+    {
+      "create_time": "2026-04-11T20:33:30.145+0800",
+      "owner": {
+        "user_id": 544828444481514,
+        "name": "懒虫",
+        "avatar_url": "https://images.zsxq.com/Fpn47UlMqkaqJXLzTd-86KBbuNkf?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:R3VYaifofLFxpz0CbzJ_zZSuQCo="
+      }
+    },
+    {
+      "create_time": "2026-04-11T20:20:18.574+0800",
+      "owner": {
+        "user_id": 818584451512542,
+        "name": "姜汤btl",
+        "avatar_url": "https://images.zsxq.com/Firrred4n8-cHhPzMlGGCeGG7qZM?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:rF7TbO4gwZvJOY6FjAY1aXgobvA="
+      }
+    },
+    {
+      "create_time": "2026-04-11T20:15:13.699+0800",
+      "owner": {
+        "user_id": 422255525488518,
+        "name": "一黎民",
+        "avatar_url": "https://images.zsxq.com/Fr1pSLLyQXymGsNFYkb5KoLawqSY?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:1bCOQdeZjp6rZfJckpvoFe-mrLQ="
+      }
+    },
+    {
+      "create_time": "2026-04-11T19:50:38.635+0800",
+      "owner": {
+        "user_id": 182522112824152,
+        "name": "喜欢红色",
+        "avatar_url": "https://images.zsxq.com/Fm8VoIlcT4KnAZIs7TY_gtG9HGAf?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:WNoE9UJHd4DkEgVbTuMUwqMBv3E="
+      }
+    }
+  ],
+  "show_comments": [
+    {
+      "comment_id": 1524181485454882,
+      "create_time": "2026-04-11T07:38:28.444+0800",
+      "owner": {
+        "user_id": 48588884141828,
+        "name": "老齐的读书圈",
+        "alias": "老齐的读书圈",
+        "avatar_url": "https://images.zsxq.com/Fv0R7lwphGFfMBtlT-Af0AxQN_oy?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:-V_dYeQ3MSV4eCGg4T6wrPxtKFE=",
+        "description": "苹果用户续费问题的，请看置顶3！！这里不回答读书无关的问题！问投资请到粉丝群！",
+        "location": "海南"
+      },
+      "text": "今天要出门早点给",
+      "likes_count": 3,
+      "rewards_count": 0,
+      "sticky": false,
+      "replies_count": 4
+    },
+    {
+      "comment_id": 4845212518518488,
+      "parent_comment_id": 1524181485454882,
+      "create_time": "2026-04-11T08:33:12.731+0800",
+      "owner": {
+        "user_id": 185285422841812,
+        "name": "Karwendish",
+        "avatar_url": "https://images.zsxq.com/FkfprlxRIEXo9NjlnB3ce99TCGlH?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:HIl8c_LvDu3GBc32F-9V680s2NE=",
+        "location": "广西"
+      },
+      "text": "齐老师去哪里",
+      "likes_count": 0,
+      "rewards_count": 0,
+      "sticky": false,
+      "repliee": {
+        "user_id": 48588884141828,
+        "name": "老齐的读书圈",
+        "alias": "老齐的读书圈",
+        "avatar_url": "https://images.zsxq.com/Fv0R7lwphGFfMBtlT-Af0AxQN_oy?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:-V_dYeQ3MSV4eCGg4T6wrPxtKFE=",
+        "description": "苹果用户续费问题的，请看置顶3！！这里不回答读书无关的问题！问投资请到粉丝群！"
+      }
+    },
+    {
+      "comment_id": 1524181485488812,
+      "create_time": "2026-04-11T08:44:45.441+0800",
+      "owner": {
+        "user_id": 544485881888414,
+        "name": "Transcend",
+        "avatar_url": "https://images.zsxq.com/Fu3QTXySiK3MtxADzvlvPkowpY4q?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:A-sWfcGkPUNFJUR-sru528vTJQA=",
+        "location": "江苏"
+      },
+      "text": "感恩齐老师💐",
+      "likes_count": 0,
+      "rewards_count": 0,
+      "sticky": false
+    },
+    {
+      "comment_id": 8852414218412582,
+      "parent_comment_id": 1524181485454882,
+      "create_time": "2026-04-11T09:13:05.231+0800",
+      "owner": {
+        "user_id": 48588414511518,
+        "name": "夏天里的童话",
+        "avatar_url": "https://images.zsxq.com/FgiO800DXCcIOfY09ZN89C5rX6lN?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:QYEeKJUr4HJI9LSCHP9wogkp0LY=",
+        "location": "浙江"
+      },
+      "text": "去踢球",
+      "likes_count": 0,
+      "rewards_count": 0,
+      "sticky": false,
+      "repliee": {
+        "user_id": 185285422841812,
+        "name": "Karwendish",
+        "avatar_url": "https://images.zsxq.com/FkfprlxRIEXo9NjlnB3ce99TCGlH?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:HIl8c_LvDu3GBc32F-9V680s2NE="
+      }
+    },
+    {
+      "comment_id": 1524181481482812,
+      "create_time": "2026-04-11T09:53:52.588+0800",
+      "owner": {
+        "user_id": 841148418855282,
+        "name": "🎖齐俊杰优惠返现💹",
+        "alias": "🎖🈶齐老师优惠返现💹",
+        "avatar_url": "https://images.zsxq.com/Fpyiu3aGnuBx25OpBt4YQsFcpruF?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:oaR5H1F5bXG_OgCEJYM6gw90zfE=",
+        "location": "新疆"
+      },
+      "text": "投资不是打板算卦，是应对之道，是策略、是方法，用正确的投资方法走完一轮牛熊，才是成熟的投资者",
+      "likes_count": 1,
+      "rewards_count": 0,
+      "sticky": false
+    },
+    {
+      "comment_id": 8852414214215142,
+      "create_time": "2026-04-11T09:53:55.161+0800",
+      "owner": {
+        "user_id": 841148418855282,
+        "name": "🎖齐俊杰优惠返现💹",
+        "alias": "🎖🈶齐老师优惠返现💹",
+        "avatar_url": "https://images.zsxq.com/Fpyiu3aGnuBx25OpBt4YQsFcpruF?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:oaR5H1F5bXG_OgCEJYM6gw90zfE=",
+        "location": "新疆"
+      },
+      "text": "多读书，少看盘，少操作",
+      "likes_count": 1,
+      "rewards_count": 0,
+      "sticky": false
+    },
+    {
+      "comment_id": 2852414214484511,
+      "parent_comment_id": 1524181485454882,
+      "create_time": "2026-04-11T10:23:32.058+0800",
+      "owner": {
+        "user_id": 548254548825224,
+        "name": "慢跑的空瓶子",
+        "avatar_url": "https://images.zsxq.com/FgZ1nDKP04yoTl73u3ZNDLQWDYhN?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:RUZj3ca8v4QrnNvEzZHNr7YPgAQ=",
+        "location": "天津"
+      },
+      "text": "别问，鬼子进村，打枪的不要",
+      "likes_count": 0,
+      "rewards_count": 0,
+      "sticky": false,
+      "repliee": {
+        "user_id": 185285422841812,
+        "name": "Karwendish",
+        "avatar_url": "https://images.zsxq.com/FkfprlxRIEXo9NjlnB3ce99TCGlH?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:HIl8c_LvDu3GBc32F-9V680s2NE="
+      }
+    },
+    {
+      "comment_id": 8852414214425882,
+      "parent_comment_id": 1524181485454882,
+      "create_time": "2026-04-11T10:27:43.222+0800",
+      "owner": {
+        "user_id": 51511128814254,
+        "name": "邓普顿",
+        "avatar_url": "https://images.zsxq.com/FkxEkO0W5bTViwpSVSLvbXAE_twX?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:vqlI0LLmfxWByjg5MGiy2A4dNz8=",
+        "location": "江苏"
+      },
+      "text": "齐老师回北京开会，早起赶航班[呲牙]",
+      "likes_count": 0,
+      "rewards_count": 0,
+      "sticky": false,
+      "repliee": {
+        "user_id": 185285422841812,
+        "name": "Karwendish",
+        "avatar_url": "https://images.zsxq.com/FkfprlxRIEXo9NjlnB3ce99TCGlH?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:HIl8c_LvDu3GBc32F-9V680s2NE="
+      }
+    }
+  ],
+  "likes_count": 100,
+  "tourist_likes_count": 0,
+  "likes_detail": {
+    "emojis": [
+      {
+        "emoji_key": "[强]",
+        "likes_count": 100
+      }
+    ]
+  },
+  "rewards_count": 0,
+  "comments_count": 12,
+  "reading_count": 1,
+  "readers_count": 5366,
+  "digested": true,
+  "sticky": false,
+  "create_time": "2026-04-11T07:38:17.729+0800",
+  "user_specific": {
+    "liked": false,
+    "liked_emojis": [],
+    "subscribed": false
+  },
+  "title": "更富有、更睿智、更快乐 10：..."
+}

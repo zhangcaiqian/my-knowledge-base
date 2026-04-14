@@ -1,0 +1,239 @@
+{
+  "topic_id": 82255518814554582,
+  "topic_uid": "82255518814554582",
+  "group": {
+    "group_id": 454548818428,
+    "name": "老齐的读书圈",
+    "type": "pay",
+    "background_url": "https://images.zsxq.com/FhKUKP_fcDl7sOWROzpjFJ4GlmJ-?e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:AVZmzwndqjY51Qn5rb0k6pZBT0M="
+  },
+  "type": "talk",
+  "talk": {
+    "owner": {
+      "user_id": 88288542115152,
+      "name": "齐俊杰",
+      "avatar_url": "https://images.zsxq.com/FogTsJvG5FzZ13tBGWFY3RWAcnEg?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:0T3Js1q0Y39cRGyafq1VF0UIBHo=",
+      "description": "苹果用户续费问题的，请看置顶3！！这里不回答读书无关的问题！问投资请到粉丝群！",
+      "location": "海南"
+    },
+    "text": "<e type=\"web\" href=\"https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F91VKwYn8MWs7bs39q0xJXQ\" title=\"%E6%9C%89%E4%BA%9B%E6%9E%B6%EF%BC%81%E5%8D%B3%E4%BE%BF%E4%BD%A0%E5%90%B5%E2%80%9C%E8%B5%A2%22%E4%BA%86%E5%85%B6%E5%AE%9E%E4%B9%9F%E6%98%AF%22%E8%BE%93%22%EF%BC%81\" />",
+    "files": [
+      {
+        "file_id": 415522841224158,
+        "name": "智慧感悟202603上.mp3",
+        "hash": "911897154d9973d03de65fade082611d13bb3abe30e2b4b6bdda48ba8560f954",
+        "size": 5724483,
+        "duration": 238,
+        "download_count": 8594,
+        "create_time": "2026-04-04T09:10:38.962+0800"
+      }
+    ]
+  },
+  "latest_likes": [
+    {
+      "create_time": "2026-04-11T16:18:11.499+0800",
+      "owner": {
+        "user_id": 215528851528581,
+        "name": "浮沉恰似彼岸花",
+        "avatar_url": "https://images.zsxq.com/FkDZCmCKjp3TY158AK5cofAvYffN?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:tu2ojbyZSrnSfsuok0EtAuOCpKM="
+      }
+    },
+    {
+      "create_time": "2026-04-09T15:30:52.583+0800",
+      "owner": {
+        "user_id": 15448252821212,
+        "name": "美人醉",
+        "avatar_url": "https://images.zsxq.com/Fggnvhho5cHWDo0H8AhXAeUVhZ_I?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:u2URQQwkD0AtZBaXuTBgJr7Ry0Y="
+      }
+    },
+    {
+      "create_time": "2026-04-09T13:17:12.770+0800",
+      "owner": {
+        "user_id": 51515211155554,
+        "name": "何静-Janny",
+        "avatar_url": "https://images.zsxq.com/FqslTgHHIWK9RpFfr6I1E7c4fX9_?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:vF2LrWFQ7ajCzhWi9ZNu5l0-Vng="
+      }
+    },
+    {
+      "create_time": "2026-04-08T21:57:47.570+0800",
+      "owner": {
+        "user_id": 414844584552128,
+        "name": "积源和",
+        "avatar_url": "https://images.zsxq.com/FrpBGPMPUIUtVlIHKnCI5b-kQFD-?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:RrqCZjkpvywdSXKyav6kZ1Uiaqs="
+      }
+    },
+    {
+      "create_time": "2026-04-08T10:13:18.043+0800",
+      "owner": {
+        "user_id": 15455285211452,
+        "name": "谕",
+        "avatar_url": "https://images.zsxq.com/FvkwHM8ah0n4Nd0itDOvIdYOxDxj?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:IyXa4J0dKH9cCwB2AoBQ2r22NTs="
+      }
+    },
+    {
+      "create_time": "2026-04-07T20:57:38.740+0800",
+      "owner": {
+        "user_id": 182511451412412,
+        "name": "莓啤汽",
+        "avatar_url": "https://images.zsxq.com/FqwdKU7JUiq7gnu9ztBvmF46ddtR?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:Q3hq_aAqETPwsQghLfZiAg2zlao="
+      }
+    },
+    {
+      "create_time": "2026-04-07T16:23:33.902+0800",
+      "owner": {
+        "user_id": 48588248558148,
+        "name": "浪淘沙",
+        "avatar_url": "https://images.zsxq.com/Fu0jKiq-hN2R_FlzdV-uren0cco-?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:9H5Vm7bYg9eCjsfu4Y-mDdBEmP0="
+      }
+    },
+    {
+      "create_time": "2026-04-07T15:30:04.523+0800",
+      "owner": {
+        "user_id": 244411525445251,
+        "name": "cqy",
+        "avatar_url": "https://images.zsxq.com/FqCM1jMpSQFL2ifMRiSMik-lbD68?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:7oVH7mqjPiAsQBaj81mTZTxvtnc="
+      }
+    },
+    {
+      "create_time": "2026-04-07T15:18:23.378+0800",
+      "owner": {
+        "user_id": 88882841845222,
+        "name": "晴川树",
+        "avatar_url": "https://images.zsxq.com/FpAL9DhZE0VY0ojkpjCRdY8MChRy?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:DMKCrYkCHBfaxE6EolZvnqsUnCU="
+      }
+    },
+    {
+      "create_time": "2026-04-07T15:02:14.023+0800",
+      "owner": {
+        "user_id": 841551452214882,
+        "name": "小粘糕",
+        "avatar_url": "https://images.zsxq.com/FoafytPAG3mnmfDO-dbPUKKugCTz?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:Ve1E25tjX8H-wEYKjpdlSVwz-lk="
+      }
+    }
+  ],
+  "show_comments": [
+    {
+      "comment_id": 4845215551222458,
+      "create_time": "2026-04-04T09:12:24.506+0800",
+      "owner": {
+        "user_id": 28248542145441,
+        "name": "🈶齐俊杰优惠返现🔶",
+        "alias": "🔶🈶齐老师粉丝群优惠返现👈",
+        "avatar_url": "https://images.zsxq.com/FtzGhnia_Yh1SDCqWgSmH-IwFx2T?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:AqYNLWKaVa7C_U5rFznOPW40Ifk=",
+        "location": "河南"
+      },
+      "text": "学无止境，终身学习，越努力，越幸运！",
+      "likes_count": 0,
+      "rewards_count": 0,
+      "sticky": false
+    },
+    {
+      "comment_id": 5125485558444254,
+      "create_time": "2026-04-04T09:12:28.133+0800",
+      "owner": {
+        "user_id": 28248542145441,
+        "name": "🈶齐俊杰优惠返现🔶",
+        "alias": "🔶🈶齐老师粉丝群优惠返现👈",
+        "avatar_url": "https://images.zsxq.com/FtzGhnia_Yh1SDCqWgSmH-IwFx2T?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:AqYNLWKaVa7C_U5rFznOPW40Ifk=",
+        "location": "河南"
+      },
+      "text": "🌹🌹🌹",
+      "likes_count": 0,
+      "rewards_count": 0,
+      "sticky": false
+    },
+    {
+      "comment_id": 5125485558855544,
+      "create_time": "2026-04-04T09:32:26.800+0800",
+      "owner": {
+        "user_id": 28441152118551,
+        "name": "好好学习，知行合一",
+        "avatar_url": "https://images.zsxq.com/Fl40hPc6CJER5lNKEZSZ_9G9eqWM?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:yJ0QlNDLl5p57cQ_-8VWoJxEr2I=",
+        "location": "广东"
+      },
+      "text": "比如特不靠谱",
+      "likes_count": 1,
+      "rewards_count": 0,
+      "sticky": false
+    },
+    {
+      "comment_id": 8852412221112122,
+      "create_time": "2026-04-04T10:09:47.338+0800",
+      "owner": {
+        "user_id": 48222521845188,
+        "name": "地上的鹰",
+        "avatar_url": "https://images.zsxq.com/FsLo5yrizx9ZuwvtaajKChN0yem8?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:k24-qaEA_tbS6dhtBmB6XBaSD0o=",
+        "location": "江苏"
+      },
+      "text": "川普一直赢",
+      "likes_count": 0,
+      "rewards_count": 0,
+      "sticky": false
+    },
+    {
+      "comment_id": 8852412245281412,
+      "create_time": "2026-04-04T11:51:22.661+0800",
+      "owner": {
+        "user_id": 111851442514282,
+        "name": "小巷里的春天",
+        "avatar_url": "https://images.zsxq.com/Fq5sD1DelxlU6uUWxKd9H7CSXmO4?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:ABvKg3WIo_UGqKwoqwwwgzOetjc=",
+        "location": "江西"
+      },
+      "text": "川普一张嘴抵雄狮百万",
+      "likes_count": 0,
+      "rewards_count": 0,
+      "sticky": false
+    },
+    {
+      "comment_id": 4845215521252888,
+      "create_time": "2026-04-04T22:01:45.258+0800",
+      "owner": {
+        "user_id": 182525488152222,
+        "name": "光阴故事",
+        "avatar_url": "https://images.zsxq.com/Fqk3h-tt3qW7HCNt3FkThd1lHimD?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:9ddvv3CTCT9bGxZAJPd9Lwp34hA=",
+        "location": "新疆"
+      },
+      "text": "1.人群是最容易让人变得平庸的地方\n2.投资最重要的是洞察趋势，勇于决策\n3.真正优秀的人自省能力很强。",
+      "likes_count": 0,
+      "rewards_count": 0,
+      "sticky": false
+    },
+    {
+      "comment_id": 5125485582525814,
+      "create_time": "2026-04-05T05:27:20.361+0800",
+      "owner": {
+        "user_id": 215584181444111,
+        "name": "Jean",
+        "avatar_url": "https://images.zsxq.com/FhQKyGIUUp6x7PzTyy8p0G_1RPjv?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:2U9nlcrr-eF9Y_BKRb4alhfnQok=",
+        "location": "澳大利亚"
+      },
+      "text": "齐老师再出一本书关于这些感悟",
+      "likes_count": 0,
+      "rewards_count": 0,
+      "sticky": false
+    }
+  ],
+  "likes_count": 106,
+  "tourist_likes_count": 0,
+  "likes_detail": {
+    "emojis": [
+      {
+        "emoji_key": "[强]",
+        "likes_count": 106
+      }
+    ]
+  },
+  "rewards_count": 0,
+  "comments_count": 7,
+  "reading_count": 1,
+  "readers_count": 13069,
+  "digested": true,
+  "sticky": false,
+  "create_time": "2026-04-04T09:10:39.658+0800",
+  "user_specific": {
+    "liked": false,
+    "liked_emojis": [],
+    "subscribed": false
+  },
+  "title": "有些架！即便你吵“赢\"了其实也..."
+}

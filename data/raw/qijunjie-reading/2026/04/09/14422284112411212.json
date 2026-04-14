@@ -1,0 +1,263 @@
+{
+  "topic_id": 14422284112411212,
+  "topic_uid": "14422284112411212",
+  "group": {
+    "group_id": 454548818428,
+    "name": "老齐的读书圈",
+    "type": "pay",
+    "background_url": "https://images.zsxq.com/FhKUKP_fcDl7sOWROzpjFJ4GlmJ-?e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:AVZmzwndqjY51Qn5rb0k6pZBT0M="
+  },
+  "type": "talk",
+  "talk": {
+    "owner": {
+      "user_id": 48588884141828,
+      "name": "老齐的读书圈",
+      "alias": "老齐的读书圈",
+      "avatar_url": "https://images.zsxq.com/Fv0R7lwphGFfMBtlT-Af0AxQN_oy?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:-V_dYeQ3MSV4eCGg4T6wrPxtKFE=",
+      "description": "苹果用户续费问题的，请看置顶3！！这里不回答读书无关的问题！问投资请到粉丝群！",
+      "location": "海南"
+    },
+    "text": "更富有、更睿智、更快乐 8：明智的投资决策，一定从我能亏多少钱开始",
+    "files": [
+      {
+        "file_id": 212244185251211,
+        "name": "更富有、更睿智、更快乐 8.docx",
+        "hash": "387babd23a4b55eed118113f9aacde84a1fe30d44d81a40017efe8091a2847c0",
+        "size": 19099,
+        "duration": 0,
+        "download_count": 728,
+        "create_time": "2026-04-09T10:04:10.700+0800"
+      },
+      {
+        "file_id": 212244185251451,
+        "name": "更富有、更睿智、更快乐 8.mp3",
+        "hash": "bdb69a4d546a46cd84a5d73cd742bdcc8d61421f127e32ed2bc03f12eebd171f",
+        "size": 13429917,
+        "duration": 559,
+        "download_count": 6786,
+        "create_time": "2026-04-09T10:04:28.087+0800"
+      }
+    ]
+  },
+  "latest_likes": [
+    {
+      "create_time": "2026-04-11T12:17:08.027+0800",
+      "owner": {
+        "user_id": 48588528851528,
+        "name": "梁红兵",
+        "avatar_url": "https://images.zsxq.com/FsDTNTs5SQOSeaHv6bFX4Wxj2BY6?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:ZDP-fFkLbztRJ0Zlbvf7WP_QZvQ="
+      }
+    },
+    {
+      "create_time": "2026-04-11T10:00:44.601+0800",
+      "owner": {
+        "user_id": 28288512242441,
+        "name": "大白鲨",
+        "avatar_url": "https://images.zsxq.com/FhdPwulc0Ikee2okxcMD8_cKm9Px?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:RcCIvSrzxyb5xgmDFmax3DLa1FE="
+      }
+    },
+    {
+      "create_time": "2026-04-11T06:32:31.025+0800",
+      "owner": {
+        "user_id": 111182145121212,
+        "name": "邵侠",
+        "avatar_url": "https://images.zsxq.com/Fn0ZHutjVDWpIh0e4Y0W6LyYxi5W?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:iYAXNNX3Oe_ClWEiPKCAQpVGrLY="
+      }
+    },
+    {
+      "create_time": "2026-04-10T22:32:21.067+0800",
+      "owner": {
+        "user_id": 244145222281251,
+        "name": "南山",
+        "avatar_url": "https://images.zsxq.com/FkT_iLnsyl0wHRAzU3jGWgC6mCOw?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:wggQmoHdL1lK1Gz_w1pEcecWNB0="
+      }
+    },
+    {
+      "create_time": "2026-04-10T22:08:43.989+0800",
+      "owner": {
+        "user_id": 844185842848182,
+        "name": "Louis",
+        "avatar_url": "https://images.zsxq.com/FnQENJ2eluo-5v487vsLSAZnEQsI?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:LIZF-A4hf0ZBUYJqCA05gyHjGnQ="
+      }
+    },
+    {
+      "create_time": "2026-04-10T21:16:20.569+0800",
+      "owner": {
+        "user_id": 215528851528581,
+        "name": "浮沉恰似彼岸花",
+        "avatar_url": "https://images.zsxq.com/FkDZCmCKjp3TY158AK5cofAvYffN?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:tu2ojbyZSrnSfsuok0EtAuOCpKM="
+      }
+    },
+    {
+      "create_time": "2026-04-10T18:40:53.126+0800",
+      "owner": {
+        "user_id": 51511452512524,
+        "name": "荷塘月色",
+        "avatar_url": "https://images.zsxq.com/Fg3-PUExnjkB_0DAV1h6E8PB1L8G?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:ZA0AjtsbOyElrpQ36pKqvf8eDrs="
+      }
+    },
+    {
+      "create_time": "2026-04-10T18:35:35.832+0800",
+      "owner": {
+        "user_id": 182244145425282,
+        "name": "勇哥",
+        "avatar_url": "https://images.zsxq.com/Fir_JMUYO8AtBEXYNn6qubPFE2bG?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:vdQJMOTFPrIavM4wXM_ZCof_-90="
+      }
+    },
+    {
+      "create_time": "2026-04-10T18:29:59.798+0800",
+      "owner": {
+        "user_id": 544458511412484,
+        "name": "PING",
+        "avatar_url": "https://images.zsxq.com/FqeIIWRly75GFTinnUPJvO0UAIpX?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:Fi6VK41GgR3Vv0hsflV6xTv_710="
+      }
+    },
+    {
+      "create_time": "2026-04-10T12:43:03.932+0800",
+      "owner": {
+        "user_id": 215525114858241,
+        "name": "Vy",
+        "avatar_url": "https://images.zsxq.com/Fq-ay_o5NUnCeuK8qTs2DAtb_arA?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:n_SuUMZLaimwEX0xrWs9qyhf5NI="
+      }
+    }
+  ],
+  "show_comments": [
+    {
+      "comment_id": 8852414541455582,
+      "create_time": "2026-04-09T10:31:08.896+0800",
+      "owner": {
+        "user_id": 28248542145441,
+        "name": "🈶齐俊杰优惠返现🔶",
+        "alias": "🔶🈶齐老师粉丝群优惠返现👈",
+        "avatar_url": "https://images.zsxq.com/FtzGhnia_Yh1SDCqWgSmH-IwFx2T?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:AqYNLWKaVa7C_U5rFznOPW40Ifk=",
+        "location": "河南"
+      },
+      "text": "学无止境，终身学习，越努力，越幸运！",
+      "likes_count": 0,
+      "rewards_count": 0,
+      "sticky": false
+    },
+    {
+      "comment_id": 1524181218122242,
+      "create_time": "2026-04-09T10:31:14.037+0800",
+      "owner": {
+        "user_id": 28248542145441,
+        "name": "🈶齐俊杰优惠返现🔶",
+        "alias": "🔶🈶齐老师粉丝群优惠返现👈",
+        "avatar_url": "https://images.zsxq.com/FtzGhnia_Yh1SDCqWgSmH-IwFx2T?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:AqYNLWKaVa7C_U5rFznOPW40Ifk=",
+        "location": "河南"
+      },
+      "text": "[玫瑰][玫瑰][玫瑰]",
+      "likes_count": 0,
+      "rewards_count": 0,
+      "sticky": false
+    },
+    {
+      "comment_id": 5125484281525554,
+      "create_time": "2026-04-09T13:19:00.189+0800",
+      "owner": {
+        "user_id": 414842825225228,
+        "name": "早日成为富婆丫",
+        "avatar_url": "https://images.zsxq.com/Fo8bL5zTA5JzJs3Y5BIYUmieEy8q?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:yVSHCWXJs1mjUaEDkiera4CD-7k=",
+        "location": "河北"
+      },
+      "text": "讲到埃维拉德从不碰科技股，在纳斯达克大涨的几年业绩严重落后，他的老板兴业银行和投资者都非常不满，老板们抱怨他老了跟不上时代了，董事会也给他施压。业绩落后太久让他也开始怀疑自己，当时教巴菲特炒股的人也比比皆是。当时对冲基金老虎基金的罗伯逊也很惨。虽然埃维拉德还在苦苦坚守但是兴业银行把他和他管理的基金打包卖了，2个月后，科技股泡沫彻底破裂，埃维拉德的低价组合开始表现出色，价值投资开始重新收到市场关注，基金改名叫第一鹰全球基金。随后的3年他分别跑赢纳斯达克很多，2003年获得了终身成就奖。埃维拉德跟巴菲特不一样，他是个传统的基金经理，不是资产的拥有者，他受到投资者的控制，投资者不满意就会大比例赎回基金，这迫使他在必须基督便宜的情况下卖出股票，也收到公司内部管理层的压力，领导们不爽就然给他滚蛋。他的坚持是很难的。巴菲特独特 的商业模式，没有人可以左右巴菲特投资， 他可以不受投资者的约束，可以确保他不受赎回的干扰，也不关心股价的涨跌，金融危机伯克希尔大跌一半他也不怕，反而能实现逆势抄底。其他基金经理净值折损一半，别说抄底，连规模都跑没了。我们普通投资者可以更像巴菲特，没有业绩要求，也没有人给你压力，日常工资收入就是现金流，完全可以手持一半现金，一半投资于高分红资产，从而形成雪球效果，一旦遇到重大危机，刚好可以出手捡便宜。而且底部越久你的自己越充沛，可以源源不断买入滚动雪球。格雷厄姆的助教卡恩就说，投资最重要的就是保存实力，而不是获得丰厚的收益，如果仅仅得到合理的回报且承受最小损失你将成为富人。投资的秘密就是安全。埃维拉德之所以能成功就是因为避开了太多的泡沫，80年代末不吃有日本，90年代末不持有科技，2000年之后不持有金融，避开3次股灾，决定了他的成败。他的继任者马修麦克伦的投资逻辑和他一脉相承都是价值为导向。他觉得投资者应该集中精力避免遭受永久性损失，并建立能够承受各种风险的投资组合，他总强调我们目标不是快速致富，是根据现实条件，创造价值。他也不去预测未来，重视周期，当风险价格合理的时候也就是估值很低的时候，更应该有投资意愿，反之要更加谨慎.麦克伦南认为最受追捧的资产没有安全边际，他第一个淘汰的就是这些时髦股票，也包括不加选择的吸引各种流动资本的国家和行业，躲开热门，资金驱动的地方不存在低估的可能，所以最后一定是买贵了。高点能退出来也变成了奢望。他有两个标准1是有忠实的客户群2.是不是技术革命的受害者。挑出好公司还要等一个衰退的价格，必须低于内在价值30%，这样就能免费赢得一个增长的时机。一旦有这种超低价格就买进去，持有10年之久。且他的组合比较分散多大140只股票，也保持了一个多样化的容错率。低于内在价值30%买股票的逻辑就是股市不崩不出手。一旦机会来临，他就不再保守，而是快速收集筹码，绝对机会来临的时候会有更多的主动权。",
+      "likes_count": 0,
+      "rewards_count": 0,
+      "sticky": false
+    },
+    {
+      "comment_id": 8852414855522222,
+      "create_time": "2026-04-09T17:10:13.520+0800",
+      "owner": {
+        "user_id": 51145448524184,
+        "name": "王哥",
+        "avatar_url": "https://images.zsxq.com/FqJxYtitXT84UZQmocBgxJm4R2E-?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:JlpJLqftuw52HlWR9az8fiOWq8g=",
+        "location": "河北"
+      },
+      "text": "1、投资者最容易犯的错误就是，认为未来会跟现在经历的时期一样。\n2、最受追捧的资产，没有安全边际。\n3、长期收益，和你日常持仓的关系不大，反而取决于在极端的时候做了什么",
+      "likes_count": 0,
+      "rewards_count": 0,
+      "sticky": false
+    },
+    {
+      "comment_id": 8852414855452482,
+      "create_time": "2026-04-09T18:30:42.367+0800",
+      "owner": {
+        "user_id": 241511122555851,
+        "name": "助强",
+        "avatar_url": "https://images.zsxq.com/FtcgD73dTnNEpq88RvVVsQD29jZz?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:ZnJO91LPKTLMcrPW_akNfeeyMEY=",
+        "location": "重庆"
+      },
+      "text": "股票持仓不超过百分之七十，不出现危机，不出手。在危机时，果断推高自己的仓位。未来不可预测，关注周期的变化。",
+      "likes_count": 0,
+      "rewards_count": 0,
+      "sticky": false
+    },
+    {
+      "comment_id": 4845212888112418,
+      "create_time": "2026-04-10T07:15:54.078+0800",
+      "owner": {
+        "user_id": 582252248584884,
+        "name": "汪泽禾",
+        "avatar_url": "https://images.zsxq.com/Fj0RzYHNDeHe6yt91QaW59l9K9iG?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:qP2__BUjJI6KFIHWxftBeGsn40M=",
+        "location": "安徽"
+      },
+      "text": "咋现在不能连续播放了呢？",
+      "likes_count": 1,
+      "rewards_count": 0,
+      "sticky": false
+    },
+    {
+      "comment_id": 5125484115285244,
+      "create_time": "2026-04-10T07:57:48.549+0800",
+      "owner": {
+        "user_id": 15558444212282,
+        "name": "烨烨",
+        "avatar_url": "https://images.zsxq.com/FhfZZoH6AUojiKESHiLOqkueOd1f?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:pEHcCIGZBAFJB11uy89CNyyzjqE=",
+        "location": "广东"
+      },
+      "text": "请教：在读书圈播放中如何才能连续播放多条音频？我调节播放按钮的功能无效，对比粉丝圈里的播放任务条，是直接可以见到连续播放（大约）6条。",
+      "likes_count": 0,
+      "rewards_count": 0,
+      "sticky": false
+    },
+    {
+      "comment_id": 5125484115288814,
+      "create_time": "2026-04-10T08:05:30.596+0800",
+      "owner": {
+        "user_id": 15558444212282,
+        "name": "烨烨",
+        "avatar_url": "https://images.zsxq.com/FhfZZoH6AUojiKESHiLOqkueOd1f?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:pEHcCIGZBAFJB11uy89CNyyzjqE=",
+        "location": "广东"
+      },
+      "text": "是啊，不能连续播放不方便，这可是我的催眠好素材（潜意识学习法）[微笑]",
+      "likes_count": 0,
+      "rewards_count": 0,
+      "sticky": false
+    }
+  ],
+  "likes_count": 111,
+  "tourist_likes_count": 0,
+  "likes_detail": {
+    "emojis": [
+      {
+        "emoji_key": "[强]",
+        "likes_count": 111
+      }
+    ]
+  },
+  "rewards_count": 0,
+  "comments_count": 12,
+  "reading_count": 1,
+  "readers_count": 9910,
+  "digested": true,
+  "sticky": false,
+  "create_time": "2026-04-09T10:06:25.566+0800",
+  "user_specific": {
+    "liked": false,
+    "liked_emojis": [],
+    "subscribed": false
+  },
+  "title": "更富有、更睿智、更快乐 8：明..."
+}

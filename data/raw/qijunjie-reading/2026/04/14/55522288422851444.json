@@ -1,0 +1,211 @@
+{
+  "topic_id": 55522288422851444,
+  "topic_uid": "55522288422851444",
+  "group": {
+    "group_id": 454548818428,
+    "name": "老齐的读书圈",
+    "type": "pay",
+    "background_url": "https://images.zsxq.com/FhKUKP_fcDl7sOWROzpjFJ4GlmJ-?e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:AVZmzwndqjY51Qn5rb0k6pZBT0M="
+  },
+  "type": "talk",
+  "talk": {
+    "owner": {
+      "user_id": 48588884141828,
+      "name": "老齐的读书圈",
+      "alias": "老齐的读书圈",
+      "avatar_url": "https://images.zsxq.com/Fv0R7lwphGFfMBtlT-Af0AxQN_oy?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:-V_dYeQ3MSV4eCGg4T6wrPxtKFE=",
+      "description": "苹果用户续费问题的，请看置顶3！！这里不回答读书无关的问题！问投资请到粉丝群！",
+      "location": "海南"
+    },
+    "text": "更富有、更睿智、更快乐 13：再买入之前，必须回答一个问题",
+    "files": [
+      {
+        "file_id": 212241445588811,
+        "name": "更富有、更睿智、更快乐 13.docx",
+        "hash": "c21e6d412ca8274751a0dfe5aa32338f874142a97b54ea743778541ef4d3e658",
+        "size": 18958,
+        "duration": 0,
+        "download_count": 403,
+        "create_time": "2026-04-14T10:03:20.089+0800"
+      },
+      {
+        "file_id": 184418112255442,
+        "name": "更富有、更睿智、更快乐 13.mp3",
+        "hash": "eb4267bb9040b0d1f14a11cbef27c9798cfbafe3ec057acb05394b21122bdab7",
+        "size": 13292185,
+        "duration": 553,
+        "download_count": 1849,
+        "create_time": "2026-04-14T10:03:32.936+0800"
+      }
+    ]
+  },
+  "latest_likes": [
+    {
+      "create_time": "2026-04-14T19:44:45.127+0800",
+      "owner": {
+        "user_id": 51511282845584,
+        "name": "棉裤哥",
+        "avatar_url": "https://images.zsxq.com/FhdYzzuLoYoVnO75txWlNlMIXzIh?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:Jak9WPxk23WH9mhRapfD2afCpH8="
+      }
+    },
+    {
+      "create_time": "2026-04-14T19:35:09.289+0800",
+      "owner": {
+        "user_id": 88288515188822,
+        "name": "哈格利特",
+        "alias": "新",
+        "avatar_url": "https://images.zsxq.com/FpJ-gP9067mnrXOin4wcFZ2U4qh7?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:X9PjYG8HVsSYqk6ubD6QJCDhd-Y="
+      }
+    },
+    {
+      "create_time": "2026-04-14T19:18:41.256+0800",
+      "owner": {
+        "user_id": 422184541214848,
+        "name": "丁克义",
+        "avatar_url": "https://images.zsxq.com/FppQ0SDH6ZeXQCFcVrAqUvBl02r6?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:8qrxVyoXAprn339bQUqING0yW6o="
+      }
+    },
+    {
+      "create_time": "2026-04-14T19:17:17.809+0800",
+      "owner": {
+        "user_id": 88442284141222,
+        "name": "心平气和",
+        "avatar_url": "https://images.zsxq.com/FsF72B669--zNiIDIM-13rqZd5D2?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:HukM2zYtUmfiRmMR5t6QTGAfS24="
+      }
+    },
+    {
+      "create_time": "2026-04-14T19:15:46.020+0800",
+      "owner": {
+        "user_id": 48582821285228,
+        "name": "笑星",
+        "avatar_url": "https://images.zsxq.com/FqW6MKHvDyy1oyUazFeBfNqVkzDT?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:BKCV6l70W-1mUVLDq6ssNjM8xZQ="
+      }
+    },
+    {
+      "create_time": "2026-04-14T19:13:39.478+0800",
+      "owner": {
+        "user_id": 51511285284254,
+        "name": "积水成渊",
+        "alias": "积水成渊",
+        "avatar_url": "https://images.zsxq.com/FhPEz0E7TOPR2hBB7_FowKaZ6guM?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:t-emp-s41E-yqoy3nndowjDg8rM="
+      }
+    },
+    {
+      "create_time": "2026-04-14T18:49:24.594+0800",
+      "owner": {
+        "user_id": 51188442488144,
+        "name": "淡然",
+        "avatar_url": "https://images.zsxq.com/FjzyVNwMstk7i-5fMTeX4Xtbn-sN?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:XMKfFs08jQQtJtDNkwmmeCsxQZw="
+      }
+    },
+    {
+      "create_time": "2026-04-14T18:29:58.601+0800",
+      "owner": {
+        "user_id": 215581844251241,
+        "name": "精密仪器老陈",
+        "alias": "精密仪器老陈",
+        "avatar_url": "https://images.zsxq.com/FlJ-ArqFUKCblY9rLWUYyryXy0xd?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:Yv465O-ssbuUHvsRWUbzsU-ZLN0="
+      }
+    },
+    {
+      "create_time": "2026-04-14T18:26:31.682+0800",
+      "owner": {
+        "user_id": 244448455811521,
+        "name": "刘海飞",
+        "alias": "慢慢的富起来",
+        "avatar_url": "https://images.zsxq.com/Fv1C9a6UhmCfNLy4vpCqBu0aZskJ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:yUgqfi8rusFb4EF1RTpQqpyU07g="
+      }
+    },
+    {
+      "create_time": "2026-04-14T17:57:52.277+0800",
+      "owner": {
+        "user_id": 215288844421521,
+        "name": "智慧果",
+        "avatar_url": "https://images.zsxq.com/FppwBleQPWc_sMAqRtF6TQvK7phj?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:UWKx2NLpTxBn3ZB6-l6BiAHungg="
+      }
+    }
+  ],
+  "show_comments": [
+    {
+      "comment_id": 4845212184421248,
+      "create_time": "2026-04-14T10:15:52.394+0800",
+      "owner": {
+        "user_id": 28248542145441,
+        "name": "🈶齐俊杰优惠返现🔶",
+        "alias": "🔶🈶齐老师粉丝群优惠返现👈",
+        "avatar_url": "https://images.zsxq.com/FtzGhnia_Yh1SDCqWgSmH-IwFx2T?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:AqYNLWKaVa7C_U5rFznOPW40Ifk=",
+        "location": "河南"
+      },
+      "text": "学无止境，终身学习，越努力，越幸运！",
+      "likes_count": 0,
+      "rewards_count": 0,
+      "sticky": false
+    },
+    {
+      "comment_id": 1524181852218112,
+      "create_time": "2026-04-14T10:15:56.956+0800",
+      "owner": {
+        "user_id": 28248542145441,
+        "name": "🈶齐俊杰优惠返现🔶",
+        "alias": "🔶🈶齐老师粉丝群优惠返现👈",
+        "avatar_url": "https://images.zsxq.com/FtzGhnia_Yh1SDCqWgSmH-IwFx2T?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:AqYNLWKaVa7C_U5rFznOPW40Ifk=",
+        "location": "河南"
+      },
+      "text": "[玫瑰][玫瑰][玫瑰]",
+      "likes_count": 0,
+      "rewards_count": 0,
+      "sticky": false
+    },
+    {
+      "comment_id": 4845211424124248,
+      "create_time": "2026-04-14T19:04:43.574+0800",
+      "owner": {
+        "user_id": 241511122555851,
+        "name": "助强",
+        "avatar_url": "https://images.zsxq.com/FtcgD73dTnNEpq88RvVVsQD29jZz?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:ZnJO91LPKTLMcrPW_akNfeeyMEY=",
+        "location": "重庆"
+      },
+      "text": "如果错了，怎么办？会遭受很大的损失吗？只有看错了，损失不大，看对了，就能大赚的机会，才能下重注。",
+      "likes_count": 0,
+      "rewards_count": 0,
+      "sticky": false
+    },
+    {
+      "comment_id": 4845211424111128,
+      "create_time": "2026-04-14T19:23:27.402+0800",
+      "owner": {
+        "user_id": 51414552811824,
+        "name": "莫比斯环",
+        "avatar_url": "https://images.zsxq.com/FtlL3InPaBiHTsDJCH4pdARfZ02I?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:dziZfQyjh8PG-tfRCg15GtTGfhU=",
+        "location": "四川"
+      },
+      "text": "期待齐老师文字版内容能校对就更巴适了[微笑]",
+      "likes_count": 0,
+      "rewards_count": 0,
+      "sticky": false
+    }
+  ],
+  "likes_count": 74,
+  "tourist_likes_count": 0,
+  "likes_detail": {
+    "emojis": [
+      {
+        "emoji_key": "[强]",
+        "likes_count": 74
+      }
+    ]
+  },
+  "rewards_count": 0,
+  "comments_count": 4,
+  "reading_count": 1,
+  "readers_count": 4074,
+  "digested": true,
+  "sticky": false,
+  "create_time": "2026-04-14T10:03:33.656+0800",
+  "user_specific": {
+    "liked": false,
+    "liked_emojis": [],
+    "subscribed": false
+  },
+  "title": "更富有、更睿智、更快乐 13：..."
+}

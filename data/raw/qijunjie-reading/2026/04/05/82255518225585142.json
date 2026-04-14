@@ -1,0 +1,294 @@
+{
+  "topic_id": 82255518225585142,
+  "topic_uid": "82255518225585142",
+  "group": {
+    "group_id": 454548818428,
+    "name": "老齐的读书圈",
+    "type": "pay",
+    "background_url": "https://images.zsxq.com/FhKUKP_fcDl7sOWROzpjFJ4GlmJ-?e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:AVZmzwndqjY51Qn5rb0k6pZBT0M="
+  },
+  "type": "talk",
+  "talk": {
+    "owner": {
+      "user_id": 48588884141828,
+      "name": "老齐的读书圈",
+      "alias": "老齐的读书圈",
+      "avatar_url": "https://images.zsxq.com/Fv0R7lwphGFfMBtlT-Af0AxQN_oy?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:-V_dYeQ3MSV4eCGg4T6wrPxtKFE=",
+      "description": "苹果用户续费问题的，请看置顶3！！这里不回答读书无关的问题！问投资请到粉丝群！",
+      "location": "海南"
+    },
+    "text": "更富有、更睿智、更快乐 4：表现最糟糕的资产才值得研究",
+    "images": [
+      {
+        "image_id": 4844128858544848,
+        "type": "png",
+        "thumbnail": {
+          "url": "https://images.zsxq.com/FnqUYcdA9Cj4cbYxuyhr5YcIA4vg?imageMogr2/auto-orient/thumbnail/750x/format/jpg/blur/1x0/quality/75&e=1780243199&s=jytvvjmmvtjvmyv&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:VM5zwj2X4H0HmCBkC6FYwqrWoaw=",
+          "width": 750,
+          "height": 915
+        },
+        "large": {
+          "url": "https://images.zsxq.com/FnqUYcdA9Cj4cbYxuyhr5YcIA4vg?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1780243199&s=jytvvjmmvtjvmyv&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:gnqE8N328jfzl5irqfLCJcIX5d0=",
+          "width": 800,
+          "height": 976
+        },
+        "original": {
+          "url": "https://images.zsxq.com/FnqUYcdA9Cj4cbYxuyhr5YcIA4vg?imageMogr2/auto-orient/quality/100!/ignore-error/1&e=1780243199&s=jytvvjmmvtjvmyv&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:nuth_JgeI-phHqLxEl5ep7qxGkA=",
+          "width": 887,
+          "height": 1082,
+          "size": 1213735
+        }
+      }
+    ],
+    "files": [
+      {
+        "file_id": 212244881144111,
+        "name": "更富有、更睿智、更快乐 4.docx",
+        "hash": "af0d38840143acc156cc5eba8d79022f0bde43fcada0eedbe6467f92dbca7601",
+        "size": 19059,
+        "duration": 0,
+        "download_count": 896,
+        "create_time": "2026-04-05T09:48:49.642+0800"
+      },
+      {
+        "file_id": 812244881141552,
+        "name": "更富有、更睿智、更快乐 4.mp3",
+        "hash": "e3d5b5d904209cf9c9baa5bd3284115b9a6ddbf9ba273d8f309f3ee37aeaa85b",
+        "size": 13419901,
+        "duration": 558,
+        "download_count": 10765,
+        "create_time": "2026-04-05T09:48:58.833+0800"
+      }
+    ]
+  },
+  "latest_likes": [
+    {
+      "create_time": "2026-04-11T16:18:05.890+0800",
+      "owner": {
+        "user_id": 215528851528581,
+        "name": "浮沉恰似彼岸花",
+        "avatar_url": "https://images.zsxq.com/FkDZCmCKjp3TY158AK5cofAvYffN?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:tu2ojbyZSrnSfsuok0EtAuOCpKM="
+      }
+    },
+    {
+      "create_time": "2026-04-10T18:39:45.252+0800",
+      "owner": {
+        "user_id": 48588528851528,
+        "name": "梁红兵",
+        "avatar_url": "https://images.zsxq.com/FsDTNTs5SQOSeaHv6bFX4Wxj2BY6?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:ZDP-fFkLbztRJ0Zlbvf7WP_QZvQ="
+      }
+    },
+    {
+      "create_time": "2026-04-09T20:26:53.893+0800",
+      "owner": {
+        "user_id": 51511285284254,
+        "name": "积水成渊",
+        "alias": "积水成渊",
+        "avatar_url": "https://images.zsxq.com/FhPEz0E7TOPR2hBB7_FowKaZ6guM?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:t-emp-s41E-yqoy3nndowjDg8rM="
+      }
+    },
+    {
+      "create_time": "2026-04-09T15:30:49.816+0800",
+      "owner": {
+        "user_id": 15448252821212,
+        "name": "美人醉",
+        "avatar_url": "https://images.zsxq.com/Fggnvhho5cHWDo0H8AhXAeUVhZ_I?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:u2URQQwkD0AtZBaXuTBgJr7Ry0Y="
+      }
+    },
+    {
+      "create_time": "2026-04-09T12:43:34.272+0800",
+      "owner": {
+        "user_id": 15512485512522,
+        "name": "乌龟马拉松",
+        "alias": "乌龟马拉松",
+        "avatar_url": "https://images.zsxq.com/FrftRYQBqYDlLIhQLCLQ69myssS8?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:Qdms9WBuhJtAuLCB3uUJRGjxM80="
+      }
+    },
+    {
+      "create_time": "2026-04-09T11:32:42.116+0800",
+      "owner": {
+        "user_id": 841551452214882,
+        "name": "小粘糕",
+        "avatar_url": "https://images.zsxq.com/FoafytPAG3mnmfDO-dbPUKKugCTz?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:Ve1E25tjX8H-wEYKjpdlSVwz-lk="
+      }
+    },
+    {
+      "create_time": "2026-04-09T09:36:13.779+0800",
+      "owner": {
+        "user_id": 48822451455218,
+        "name": "华",
+        "avatar_url": "https://images.zsxq.com/FnTvEPJya5sArB2grqUmAkLOMDEz?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:Wjqryhhch64eS_5aFqNdGLtp5-0="
+      }
+    },
+    {
+      "create_time": "2026-04-08T22:10:48.094+0800",
+      "owner": {
+        "user_id": 414844584552128,
+        "name": "积源和",
+        "avatar_url": "https://images.zsxq.com/FrpBGPMPUIUtVlIHKnCI5b-kQFD-?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:RrqCZjkpvywdSXKyav6kZ1Uiaqs="
+      }
+    },
+    {
+      "create_time": "2026-04-08T10:13:13.462+0800",
+      "owner": {
+        "user_id": 15455285211452,
+        "name": "谕",
+        "avatar_url": "https://images.zsxq.com/FvkwHM8ah0n4Nd0itDOvIdYOxDxj?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:IyXa4J0dKH9cCwB2AoBQ2r22NTs="
+      }
+    },
+    {
+      "create_time": "2026-04-07T23:12:17.095+0800",
+      "owner": {
+        "user_id": 51511128581214,
+        "name": "离开地球看人间",
+        "avatar_url": "https://images.zsxq.com/For4u777WtKA2C2sgI4OITLzkPZG?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:8uJ15hyBXpb8NwBp1KiUq9RW2DY="
+      }
+    }
+  ],
+  "show_comments": [
+    {
+      "comment_id": 4845215515225528,
+      "create_time": "2026-04-05T10:26:13.781+0800",
+      "owner": {
+        "user_id": 415552221882558,
+        "name": "Leo",
+        "avatar_url": "https://images.zsxq.com/FuFLM77iNK-tQFS0tfbI0sL7hwpU?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:xYUkfVqrUr9WP2DwxfxzgyuuhiM=",
+        "location": "陕西"
+      },
+      "text": "齐老师的《<e type=\"web\" href=\"https%3A%2F%2Fwx.zsxq.com%2Fmweb%2Fviews%2Fweread%2Fsearch.html%3Fkeyword%3D%E6%8A%95%E8%B5%84%E5%9B%9E%E5%BD%92%E5%B8%B8%E8%AF%86\" title=\"%E6%8A%95%E8%B5%84%E5%9B%9E%E5%BD%92%E5%B8%B8%E8%AF%86\" style=\"book\" />》在哪里买",
+      "likes_count": 0,
+      "rewards_count": 0,
+      "sticky": false,
+      "replies_count": 1
+    },
+    {
+      "comment_id": 4845215515148218,
+      "create_time": "2026-04-05T10:59:21.845+0800",
+      "owner": {
+        "user_id": 51145448524184,
+        "name": "王哥",
+        "avatar_url": "https://images.zsxq.com/FqJxYtitXT84UZQmocBgxJm4R2E-?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:JlpJLqftuw52HlWR9az8fiOWq8g=",
+        "location": "河北"
+      },
+      "text": "1、\n邓普顿，想要寻找便宜货，就去研究过去 5 年最糟糕的资产，评估困境的原因，是暂时的还是永久的。",
+      "likes_count": 0,
+      "rewards_count": 0,
+      "sticky": false
+    },
+    {
+      "comment_id": 1524184484828512,
+      "parent_comment_id": 4845215515225528,
+      "create_time": "2026-04-05T11:08:52.708+0800",
+      "owner": {
+        "user_id": 241152848824421,
+        "name": "柠檬树叶",
+        "avatar_url": "https://images.zsxq.com/FrHMBzT75vnYkwKDr3OqAVYfd6Da?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:SdzqqdNvCiw5lf2mQikJljVhgD0=",
+        "location": "甘肃"
+      },
+      "text": "京东",
+      "likes_count": 0,
+      "rewards_count": 0,
+      "sticky": false,
+      "repliee": {
+        "user_id": 415552221882558,
+        "name": "Leo",
+        "avatar_url": "https://images.zsxq.com/FuFLM77iNK-tQFS0tfbI0sL7hwpU?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:xYUkfVqrUr9WP2DwxfxzgyuuhiM="
+      }
+    },
+    {
+      "comment_id": 5125485584541844,
+      "create_time": "2026-04-05T13:50:26.488+0800",
+      "owner": {
+        "user_id": 51511128814254,
+        "name": "邓普顿",
+        "avatar_url": "https://images.zsxq.com/FkxEkO0W5bTViwpSVSLvbXAE_twX?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:vqlI0LLmfxWByjg5MGiy2A4dNz8=",
+        "location": "江苏"
+      },
+      "text": "[玫瑰][玫瑰][玫瑰][玫瑰]",
+      "likes_count": 1,
+      "rewards_count": 0,
+      "sticky": false
+    },
+    {
+      "comment_id": 8852412211521482,
+      "create_time": "2026-04-05T16:47:42.532+0800",
+      "owner": {
+        "user_id": 841148418855282,
+        "name": "🎖齐俊杰优惠返现💹",
+        "alias": "🎖🈶齐老师优惠返现💹",
+        "avatar_url": "https://images.zsxq.com/Fpyiu3aGnuBx25OpBt4YQsFcpruF?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:oaR5H1F5bXG_OgCEJYM6gw90zfE=",
+        "location": "新疆"
+      },
+      "text": "投资不是打板算卦，是应对之道，是策略、是方法，用正确的投资方法走完一轮牛熊，才是成熟的投资者",
+      "likes_count": 1,
+      "rewards_count": 0,
+      "sticky": false
+    },
+    {
+      "comment_id": 5125485588258414,
+      "create_time": "2026-04-05T16:47:44.817+0800",
+      "owner": {
+        "user_id": 841148418855282,
+        "name": "🎖齐俊杰优惠返现💹",
+        "alias": "🎖🈶齐老师优惠返现💹",
+        "avatar_url": "https://images.zsxq.com/Fpyiu3aGnuBx25OpBt4YQsFcpruF?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:oaR5H1F5bXG_OgCEJYM6gw90zfE=",
+        "location": "新疆"
+      },
+      "text": "多读书，少看盘，少操作",
+      "likes_count": 2,
+      "rewards_count": 0,
+      "sticky": false
+    },
+    {
+      "comment_id": 8852412211841852,
+      "create_time": "2026-04-05T17:45:20.412+0800",
+      "owner": {
+        "user_id": 244185555245841,
+        "name": "一阵风",
+        "avatar_url": "https://images.zsxq.com/FrC37_y60Wu7EFeCAnHjk7KXYekf?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:NRPDaUZBYSNoROStMFlLOLAdZR4=",
+        "location": "内蒙古"
+      },
+      "text": "通过学习，了解了投资大师邓普顿的六大原则：①避免情绪化，只有恐慌抛售才有低价，如同商家清仓才是捡漏时机，不追涨杀跌。②承认无知，不懂不盲目投资，就像不懂维修不擅自拆修，要么深耕学习，要么托付专业人士。③组合分散，不把鸡蛋放一个篮子，搭配不同资产，对冲投资失误风险。④保持耐心，没人能精准抄底，好收益需长期坚守，如同种树静待结果。⑤研究低迷资产，关注表现最差但困境暂时的标的，像换季折扣品，价值未减、价格极低。⑥绝不盲目跟风，重估值轻故事，不追热点泡沫，理性看待性价比。",
+      "likes_count": 2,
+      "rewards_count": 0,
+      "sticky": false
+    },
+    {
+      "comment_id": 1524184488485222,
+      "create_time": "2026-04-05T18:34:24.095+0800",
+      "owner": {
+        "user_id": 51511285244554,
+        "name": "嘿哈老猫",
+        "avatar_url": "https://images.zsxq.com/FpRZj5X-UkEYpRPr27cfCPEUbCuL?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:ULZFPvR_MmmG33EeLUiTzz2lWDA=",
+        "location": "浙江"
+      },
+      "text": "更富有、更睿智、更快乐 4：表现最糟糕的资产才值得研究\n\n要找最悲观的资产，只有这样，才能有超额收益。在邓普顿同马修斯的交谈中，当时1998年韩国的股市估值只有10倍。这相当于2024年中国股市的估值。马修斯的基金也缩水了65%，后来他就大举买入了他的基金1000万美元。\n\n邓说，我要在其他人大举撤离韩国的时候，买进韩国，只有这样，才能有超额收益。邓普顿其实就是逆向投资的大师，他践行了那句话：别人恐惧我贪婪。\n\n这句话目前在我心里也深深烙印，在恒科3月23日，大跌创下新低后，我非常兴奋，果断买入了一万。反正买指数，其实一点也不怕。粉丝群里其实每次只要提问说：恒科还能不能拿，还质疑牛市，其实就说明市场下跌许久了，大家需要心理按摩了。这时候其实都可以慢慢买入。\n\n2.邓在生活上也是一个特别的人，年轻时就会每赚1美元就强行存入50美分。他成为亿万富翁后，还把用过的纸钉起来，在反面当草稿纸用，也一直只开一辆开了很多年的起亚汽车。\n\n他的朋友说，他赚钱不是为了享受，而是为了去买入便宜货后，后来上涨了，这个过程的享受。其实这就是他的精神支柱。\n\n我现在好像也渐渐悟出了投资的意义，就是要和别人反向而行，当最后验证了自己的判断后，就会有成就感了。反倒生活中的吃喝玩乐，我渐渐没了兴趣。比如吃什么三文鱼大龙虾，再好吃也只是当时，吃多了还撑得难受。\n\n对于车呢？我也没什么要求了，反正这个胜达开开，空间又大又又好开，家里人坐着也舒适。再说了，买车我认为是最大的消耗品，最超值的东西，用投资的角度分析，就是买入了一个不断下跌的东西，买入了垃圾股。\n\n至于旅游到处玩，我也不想了，因为人太多了，体验就非常不好，还非常费力。\n\n待在酒店里，看看书，追追老齐的读书圈，写写心得，看看基金的报告，听听书，然后写写心得，这样才是给自己的精神洗澡，这种会让人内心很安宁。\n\n还是那句话：有稳定的收入，有百万存款，懂投资，简单生活。现在三个都有了，稳定的收入，还要继续培养副业，尤其是人工智能的，使用AI的。还要继续存款，要有百万的投资款才行。",
+      "likes_count": 1,
+      "rewards_count": 0,
+      "sticky": false
+    }
+  ],
+  "likes_count": 140,
+  "tourist_likes_count": 0,
+  "likes_detail": {
+    "emojis": [
+      {
+        "emoji_key": "[强]",
+        "likes_count": 140
+      }
+    ]
+  },
+  "rewards_count": 0,
+  "comments_count": 13,
+  "reading_count": 1,
+  "readers_count": 13052,
+  "digested": true,
+  "sticky": false,
+  "create_time": "2026-04-05T09:49:38.175+0800",
+  "user_specific": {
+    "liked": false,
+    "liked_emojis": [],
+    "subscribed": false
+  },
+  "title": "更富有、更睿智、更快乐 4：表..."
+}

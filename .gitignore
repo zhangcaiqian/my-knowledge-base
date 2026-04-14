@@ -2,7 +2,7 @@
 config.json
 
 # 原始数据缓存
-data/
+
 
 # 同步状态
 .synced_ids

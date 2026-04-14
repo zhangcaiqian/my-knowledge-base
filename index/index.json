@@ -1,7 +1,432 @@
 {
-  "total_articles": 3,
-  "total_quotes": 0,
+  "total_articles": 54,
+  "total_quotes": 103,
   "articles": [
+    {
+      "id": 55522288422851444,
+      "path": "channels/qijunjie-reading/2026/04/14/更富有、更睿智、更快乐-13：.md",
+      "channel": "qijunjie-reading",
+      "source": "老齐的读书圈",
+      "author": "老齐的读书圈",
+      "date": "2026-04-14",
+      "type": "talk",
+      "content_type": "text+file",
+      "is_digest": true,
+      "tags": [],
+      "topic_category": "投资理念与方法",
+      "keywords": [
+        "先不输",
+        "风险控制",
+        "渐进建仓",
+        "彼得林奇",
+        "查理芒格"
+      ],
+      "summary": "顶级投资者共同原则是先控制错误代价、避免灾难性亏损，通过长期自律和持续学习稳步跑赢市场",
+      "quotes_count": 3,
+      "quotes_path": "channels/qijunjie-reading/2026/04/14/更富有、更睿智、更快乐-13：.quotes.md"
+    },
+    {
+      "id": 14422281144185822,
+      "path": "channels/qijunjie-reading/2026/04/12/更富有、更睿智、更快乐-11：.md",
+      "channel": "qijunjie-reading",
+      "source": "老齐的读书圈",
+      "author": "老齐的读书圈",
+      "date": "2026-04-12",
+      "type": "talk",
+      "content_type": "text+file",
+      "is_digest": true,
+      "tags": [],
+      "topic_category": "投资理念与方法",
+      "keywords": [
+        "价值投资",
+        "游牧者基金",
+        "格林布拉特",
+        "开市客Costco",
+        "长期持有"
+      ],
+      "summary": "从格林布拉特和游牧者基金的案例说明：先保证不输比追求赢更重要，买便宜的好公司长期持有",
+      "quotes_count": 3,
+      "quotes_path": "channels/qijunjie-reading/2026/04/12/更富有、更睿智、更快乐-11：.quotes.md"
+    },
+    {
+      "id": 22255514218288111,
+      "path": "channels/qijunjie-reading/2026/04/11/更富有、更睿智、更快乐-10：.md",
+      "channel": "qijunjie-reading",
+      "source": "老齐的读书圈",
+      "author": "老齐的读书圈",
+      "date": "2026-04-11",
+      "type": "talk",
+      "content_type": "text+file",
+      "is_digest": true,
+      "tags": [],
+      "topic_category": "书籍笔记",
+      "keywords": [
+        "估值方法",
+        "格林布拉特",
+        "风险回报比",
+        "神奇公式"
+      ],
+      "summary": "四种估值思路与不对称押注：机会须远大于风险才下重注",
+      "quotes_count": 5,
+      "quotes_path": "channels/qijunjie-reading/2026/04/11/更富有、更睿智、更快乐-10：.quotes.md"
+    },
+    {
+      "id": 14422281288182212,
+      "path": "channels/qijunjie-reading/2026/04/10/更富有、更睿智、更快乐-9：不.md",
+      "channel": "qijunjie-reading",
+      "source": "老齐的读书圈",
+      "author": "老齐的读书圈",
+      "date": "2026-04-10",
+      "type": "talk",
+      "content_type": "text+file",
+      "is_digest": true,
+      "tags": [],
+      "topic_category": "书籍笔记",
+      "keywords": [
+        "不输当赢",
+        "格林布拉特",
+        "韧性",
+        "杠杆"
+      ],
+      "summary": "第一鹰理念「不输当赢」与格林布拉特的化繁为简",
+      "quotes_count": 3,
+      "quotes_path": "channels/qijunjie-reading/2026/04/10/更富有、更睿智、更快乐-9：不.quotes.md"
+    },
+    {
+      "id": 14422284112411212,
+      "path": "channels/qijunjie-reading/2026/04/09/更富有、更睿智、更快乐-8：明.md",
+      "channel": "qijunjie-reading",
+      "source": "老齐的读书圈",
+      "author": "老齐的读书圈",
+      "date": "2026-04-09",
+      "type": "talk",
+      "content_type": "text+file",
+      "is_digest": true,
+      "tags": [],
+      "topic_category": "书籍笔记",
+      "keywords": [
+        "埃维拉德",
+        "科技股泡沫",
+        "安全边际",
+        "第一鹰"
+      ],
+      "summary": "从坚守低估到泡沫破灭：明智投资先问能亏多少",
+      "quotes_count": 3,
+      "quotes_path": "channels/qijunjie-reading/2026/04/09/更富有、更睿智、更快乐-8：明.quotes.md"
+    },
+    {
+      "id": 45544415588524518,
+      "path": "channels/qijunjie-reading/2026/04/08/更富有、更睿智、更快乐-7：未.md",
+      "channel": "qijunjie-reading",
+      "source": "老齐的读书圈",
+      "author": "老齐的读书圈",
+      "date": "2026-04-08",
+      "type": "talk",
+      "content_type": "text+file",
+      "is_digest": true,
+      "tags": [],
+      "topic_category": "书籍笔记",
+      "keywords": [
+        "霍华德马克斯",
+        "不可预测",
+        "周期逆转",
+        "组合韧性"
+      ],
+      "summary": "未来无法预测但可准备：怀疑极端情绪、多手应对",
+      "quotes_count": 3,
+      "quotes_path": "channels/qijunjie-reading/2026/04/08/更富有、更睿智、更快乐-7：未.quotes.md"
+    },
+    {
+      "id": 22255518115511881,
+      "path": "channels/qijunjie-reading/2026/04/07/更富有、更睿智、更快乐-6：不.md",
+      "channel": "qijunjie-reading",
+      "source": "老齐的读书圈",
+      "author": "老齐的读书圈",
+      "date": "2026-04-07",
+      "type": "talk",
+      "content_type": "text+file",
+      "is_digest": true,
+      "tags": [],
+      "topic_category": "书籍笔记",
+      "keywords": [
+        "霍华德马克斯",
+        "孙子兵法",
+        "周期",
+        "橡树资本"
+      ],
+      "summary": "不可胜在己可胜在敌：平时防守、恐慌时逆向加仓",
+      "quotes_count": 3,
+      "quotes_path": "channels/qijunjie-reading/2026/04/07/更富有、更睿智、更快乐-6：不.quotes.md"
+    },
+    {
+      "id": 45544418521211248,
+      "path": "channels/qijunjie-reading/2026/04/06/更富有，更睿智，更快乐-5：基.md",
+      "channel": "qijunjie-reading",
+      "source": "老齐的读书圈",
+      "author": "老齐的读书圈",
+      "date": "2026-04-06",
+      "type": "talk",
+      "content_type": "text+file",
+      "is_digest": true,
+      "tags": [],
+      "topic_category": "书籍笔记",
+      "keywords": [
+        "霍华德马克斯",
+        "市场有效",
+        "冷门基金",
+        "好卖不好做"
+      ],
+      "summary": "马克斯：在低效市场找定价错误；基金销售与业绩的悖论",
+      "quotes_count": 3,
+      "quotes_path": "channels/qijunjie-reading/2026/04/06/更富有，更睿智，更快乐-5：基.quotes.md"
+    },
+    {
+      "id": 82255518225585142,
+      "path": "channels/qijunjie-reading/2026/04/05/更富有、更睿智、更快乐-4：表.md",
+      "channel": "qijunjie-reading",
+      "source": "老齐的读书圈",
+      "author": "老齐的读书圈",
+      "date": "2026-04-05",
+      "type": "talk",
+      "content_type": "text+file+image",
+      "is_digest": true,
+      "tags": [],
+      "topic_category": "书籍笔记",
+      "keywords": [
+        "邓普顿",
+        "便宜货",
+        "耐心",
+        "韩国基金"
+      ],
+      "summary": "研究过去五年最差资产；落后者终将领先的投资智慧",
+      "quotes_count": 3,
+      "quotes_path": "channels/qijunjie-reading/2026/04/05/更富有、更睿智、更快乐-4：表.quotes.md"
+    },
+    {
+      "id": 82255518814554582,
+      "path": "channels/qijunjie-reading/2026/04/04/有些架！即便你吵“赢了其实也.md",
+      "channel": "qijunjie-reading",
+      "source": "老齐的读书圈",
+      "author": "齐俊杰",
+      "date": "2026-04-04",
+      "type": "talk",
+      "content_type": "text+file",
+      "is_digest": true,
+      "tags": [],
+      "topic_category": "人生感悟",
+      "keywords": [
+        "智慧感悟",
+        "争吵",
+        "输赢"
+      ],
+      "summary": "外链文章与语音：讨论人际争吵中表面赢实则输",
+      "quotes_count": 1,
+      "quotes_path": "channels/qijunjie-reading/2026/04/04/有些架！即便你吵“赢了其实也.quotes.md"
+    },
+    {
+      "id": 82255518814552482,
+      "path": "channels/qijunjie-reading/2026/04/04/更富有，更睿智，更快乐-3：除.md",
+      "channel": "qijunjie-reading",
+      "source": "老齐的读书圈",
+      "author": "老齐的读书圈",
+      "date": "2026-04-04",
+      "type": "talk",
+      "content_type": "text+file+image",
+      "is_digest": true,
+      "tags": [],
+      "topic_category": "书籍笔记",
+      "keywords": [
+        "邓普顿",
+        "绝地价格",
+        "恐慌杀跌",
+        "特立独行"
+      ],
+      "summary": "邓普顿：无人抛售就没有绝对低价；投资偏好奇才",
+      "quotes_count": 3,
+      "quotes_path": "channels/qijunjie-reading/2026/04/04/更富有，更睿智，更快乐-3：除.quotes.md"
+    },
+    {
+      "id": 82255518552428452,
+      "path": "channels/qijunjie-reading/2026/04/03/更富有、更睿智、更快乐-2：短.md",
+      "channel": "qijunjie-reading",
+      "source": "老齐的读书圈",
+      "author": "老齐的读书圈",
+      "date": "2026-04-03",
+      "type": "talk",
+      "content_type": "text+file+image",
+      "is_digest": true,
+      "tags": [],
+      "topic_category": "书籍笔记",
+      "keywords": [
+        "业绩提成",
+        "短期亏损",
+        "帕伯莱",
+        "恐慌买入"
+      ],
+      "summary": "短期亏损是必要成本；暴跌后的便宜货才是超额收益来源",
+      "quotes_count": 3,
+      "quotes_path": "channels/qijunjie-reading/2026/04/03/更富有、更睿智、更快乐-2：短.quotes.md"
+    },
+    {
+      "id": 55188442828845144,
+      "path": "channels/qijunjie-reading/2026/04/02/更富有、更睿智、更快乐-1：投.md",
+      "channel": "qijunjie-reading",
+      "source": "老齐的读书圈",
+      "author": "老齐的读书圈",
+      "date": "2026-04-02",
+      "type": "talk",
+      "content_type": "text+file+image",
+      "is_digest": true,
+      "tags": [],
+      "topic_category": "书籍笔记",
+      "keywords": [
+        "更富有更睿智更快乐",
+        "投资大师",
+        "长期主义",
+        "指数基金",
+        "能力圈"
+      ],
+      "summary": "开卷：40余位顶尖投资者的共性——长期、纪律与耐心",
+      "quotes_count": 4,
+      "quotes_path": "channels/qijunjie-reading/2026/04/02/更富有、更睿智、更快乐-1：投.quotes.md"
+    },
+    {
+      "id": 55188442411541454,
+      "path": "channels/qijunjie-reading/2026/04/01/刚性泡沫-合集.md",
+      "channel": "qijunjie-reading",
+      "source": "老齐的读书圈",
+      "author": "老齐的读书圈",
+      "date": "2026-04-01",
+      "type": "talk",
+      "content_type": "text+file+image",
+      "is_digest": true,
+      "tags": [],
+      "topic_category": "书籍笔记",
+      "keywords": [
+        "刚性泡沫",
+        "朱宁",
+        "隐性担保",
+        "债务风险",
+        "中国经济"
+      ],
+      "summary": "《刚性泡沫》全书文稿：政府隐性担保与多领域资产泡沫",
+      "quotes_count": 3,
+      "quotes_path": "channels/qijunjie-reading/2026/04/01/刚性泡沫-合集.quotes.md"
+    },
+    {
+      "id": 82811445212188542,
+      "path": "channels/qijunjie-reading/2026/04/01/刚性泡沫-16：如何看待卖空.md",
+      "channel": "qijunjie-reading",
+      "source": "老齐的读书圈",
+      "author": "老齐的读书圈",
+      "date": "2026-04-01",
+      "type": "talk",
+      "content_type": "text+file",
+      "is_digest": true,
+      "tags": [],
+      "topic_category": "书籍笔记",
+      "keywords": [
+        "刚性泡沫",
+        "卖空机制",
+        "隐性担保",
+        "交易公平",
+        "量化高频"
+      ],
+      "summary": "卖空是悲观者表达与监督机制；问题在公平而非多空本身",
+      "quotes_count": 3,
+      "quotes_path": "channels/qijunjie-reading/2026/04/01/刚性泡沫-16：如何看待卖空.quotes.md"
+    },
+    {
+      "id": 55522288422458214,
+      "path": "channels/qijunjie-fans/2026/04/14/齐观晨会：市场整体还是不错的！.md",
+      "channel": "qijunjie-fans",
+      "source": "齐俊杰的粉丝群",
+      "author": "齐俊杰",
+      "date": "2026-04-14",
+      "type": "talk",
+      "content_type": "text+file",
+      "is_digest": true,
+      "tags": [],
+      "topic_category": "宏观经济",
+      "keywords": [
+        "齐观晨会",
+        "牛市震荡",
+        "风险偏好"
+      ],
+      "summary": "晨会提纲强调年内仍有正收益概率，但整体以震荡市为主，关键看外部风险变化",
+      "quotes_count": 0
+    },
+    {
+      "id": 82255511841114112,
+      "path": "channels/qijunjie-fans/2026/04/14/重要数据公布！经济循环仍缺少一.md",
+      "channel": "qijunjie-fans",
+      "source": "齐俊杰的粉丝群",
+      "author": "齐俊杰",
+      "date": "2026-04-14",
+      "type": "talk",
+      "content_type": "text+file",
+      "is_digest": true,
+      "tags": [],
+      "topic_category": "宏观经济",
+      "keywords": [
+        "社融数据",
+        "居民贷款疲弱",
+        "经济循环",
+        "春夏秋冬框架",
+        "均衡配置"
+      ],
+      "summary": "一季度金融数据呈现企业强居民弱，最终需求不足导致强复苏难形成，市场仍应围绕风险偏好做均衡配置",
+      "quotes_count": 2,
+      "quotes_path": "channels/qijunjie-fans/2026/04/14/重要数据公布！经济循环仍缺少一.quotes.md"
+    },
+    {
+      "id": 55522288455515584,
+      "path": "channels/qijunjie-fans/2026/04/14/宏观策略金工+收盘简评20.md",
+      "channel": "qijunjie-fans",
+      "source": "齐俊杰的粉丝群",
+      "author": "齐俊杰",
+      "date": "2026-04-14",
+      "type": "talk",
+      "content_type": "text+file+image",
+      "is_digest": true,
+      "tags": [],
+      "topic_category": "宏观经济",
+      "keywords": [
+        "CPI/PPI",
+        "油价冲击",
+        "美联储利率",
+        "风险偏好",
+        "均衡配置"
+      ],
+      "summary": "在油价扰动与内需偏弱并存下，市场仍以风险偏好驱动，策略上建议均衡配置并保持耐心",
+      "quotes_count": 2,
+      "quotes_path": "channels/qijunjie-fans/2026/04/14/宏观策略金工+收盘简评20.quotes.md"
+    },
+    {
+      "id": 45544411282222158,
+      "path": "channels/qijunjie-fans/2026/04/14/20260414齐观晨会.md",
+      "channel": "qijunjie-fans",
+      "source": "齐俊杰的粉丝群",
+      "author": "自由之路",
+      "date": "2026-04-14",
+      "type": "talk",
+      "content_type": "text+file+image",
+      "is_digest": true,
+      "tags": [
+        "齐观晨会"
+      ],
+      "topic_category": "宏观经济",
+      "keywords": [
+        "居民中长贷",
+        "抢出口",
+        "房地产预期",
+        "风险偏好",
+        "科技成长"
+      ],
+      "summary": "金融数据喜忧参半，企业端回暖但居民端疲弱，市场仍由风险偏好主导，宜高筑墙广积粮少负债",
+      "quotes_count": 3,
+      "quotes_path": "channels/qijunjie-fans/2026/04/14/20260414齐观晨会.quotes.md"
+    },
     {
       "id": 55522284425488584,
       "path": "channels/qijunjie-fans/2026/04/11/又快到高考了，很多人问我专业选.md",
@@ -13,9 +438,39 @@
       "content_type": "text+voice+image",
       "is_digest": true,
       "tags": [],
-      "topic_category": "",
-      "keywords": [],
-      "summary": "",
+      "topic_category": "职业发展",
+      "keywords": [
+        "高考",
+        "专业选择",
+        "就业导向",
+        "理工科",
+        "考公"
+      ],
+      "summary": "高考选专业应以就业为导向，理工选热门、文科奔考公，核心是目标驱动",
+      "quotes_count": 3,
+      "quotes_path": "channels/qijunjie-fans/2026/04/11/又快到高考了，很多人问我专业选.quotes.md"
+    },
+    {
+      "id": 55522284288425214,
+      "path": "channels/qijunjie-fans/2026/04/10/齐观晨会：PPI转正！沪指重上.md",
+      "channel": "qijunjie-fans",
+      "source": "齐俊杰的粉丝群",
+      "author": "齐俊杰",
+      "date": "2026-04-10",
+      "type": "talk",
+      "content_type": "text+file",
+      "is_digest": true,
+      "tags": [],
+      "topic_category": "宏观经济",
+      "keywords": [
+        "PPI",
+        "沪指4000点",
+        "港股流动性",
+        "农产品周期",
+        "家电涨价",
+        "消费传导"
+      ],
+      "summary": "PPI转正沪指重回4000点，讨论港股流动性、农产品周期、家电涨价和出口消费传导",
       "quotes_count": 0
     },
     {
@@ -35,6 +490,26 @@
       "quotes_count": 0
     },
     {
+      "id": 22255514548112881,
+      "path": "channels/qijunjie-fans/2026/04/10/最坏就是以色列！他才是中东稳定.md",
+      "channel": "qijunjie-fans",
+      "source": "齐俊杰的粉丝群",
+      "author": "齐俊杰",
+      "date": "2026-04-10",
+      "type": "talk",
+      "content_type": "text+file",
+      "is_digest": true,
+      "tags": [],
+      "topic_category": "时事分析",
+      "keywords": [
+        "以色列",
+        "中东局势",
+        "地缘政治"
+      ],
+      "summary": "分析以色列是中东稳定的最大障碍及其对地缘政治格局的影响",
+      "quotes_count": 0
+    },
+    {
       "id": 55522284114124184,
       "path": "channels/qijunjie-fans/2026/04/10/20260410齐观晨会.md",
       "channel": "qijunjie-fans",
@@ -51,16 +526,904 @@
       "keywords": [],
       "summary": "",
       "quotes_count": 0
+    },
+    {
+      "id": 14422284112544182,
+      "path": "channels/qijunjie-fans/2026/04/09/齐观晨会：海峡再次被封！市场反.md",
+      "channel": "qijunjie-fans",
+      "source": "齐俊杰的粉丝群",
+      "author": "齐俊杰",
+      "date": "2026-04-09",
+      "type": "talk",
+      "content_type": "text+file",
+      "is_digest": true,
+      "tags": [],
+      "topic_category": "宏观经济",
+      "keywords": [
+        "霍尔木兹海峡",
+        "跳空缺口",
+        "黄金仓位",
+        "SpaceX",
+        "商业航天"
+      ],
+      "summary": "海峡封锁令市场反复提前，讨论缺口回补、黄金配置、SpaceX估值对商业航天的影响",
+      "quotes_count": 0
+    },
+    {
+      "id": 82255512482451482,
+      "path": "channels/qijunjie-fans/2026/04/09/美伊突然停战之后？接下来会怎么.md",
+      "channel": "qijunjie-fans",
+      "source": "齐俊杰的粉丝群",
+      "author": "齐俊杰",
+      "date": "2026-04-09",
+      "type": "talk",
+      "content_type": "text+file",
+      "is_digest": true,
+      "tags": [],
+      "topic_category": "时事分析",
+      "keywords": [
+        "美伊停战",
+        "中东",
+        "市场走向",
+        "地缘政治"
+      ],
+      "summary": "分析美伊突然停战后的市场走向和地缘政治后续变化",
+      "quotes_count": 0
+    },
+    {
+      "id": 22255514552282881,
+      "path": "channels/qijunjie-fans/2026/04/09/学方法牛市中场休息的依据是.md",
+      "channel": "qijunjie-fans",
+      "source": "齐俊杰的粉丝群",
+      "author": "齐俊杰",
+      "date": "2026-04-09",
+      "type": "talk",
+      "content_type": "text+file+image",
+      "is_digest": true,
+      "tags": [],
+      "topic_category": "投资理念与方法",
+      "keywords": [
+        "牛市",
+        "中场休息",
+        "技术指标",
+        "市场阶段判断"
+      ],
+      "summary": "用指标刻画牛市中场休息，分析市场阶段性调整的判断依据",
+      "quotes_count": 0
+    },
+    {
+      "id": 45544415584111888,
+      "path": "channels/qijunjie-fans/2026/04/08/齐观晨会：停战后市场反弹！看能.md",
+      "channel": "qijunjie-fans",
+      "source": "齐俊杰的粉丝群",
+      "author": "齐俊杰",
+      "date": "2026-04-08",
+      "type": "talk",
+      "content_type": "text+file",
+      "is_digest": true,
+      "tags": [],
+      "topic_category": "宏观经济",
+      "keywords": [
+        "停战反弹",
+        "黄金",
+        "出口",
+        "固收+",
+        "火箭阶段"
+      ],
+      "summary": "停战后市场反弹但仍有变数，讨论黄金利空、出口顺差、火箭阶段和固收+分散",
+      "quotes_count": 0
+    },
+    {
+      "id": 14422284415441142,
+      "path": "channels/qijunjie-fans/2026/04/08/收盘简评20260408.md",
+      "channel": "qijunjie-fans",
+      "source": "齐俊杰的粉丝群",
+      "author": "齐俊杰",
+      "date": "2026-04-08",
+      "type": "talk",
+      "content_type": "text+file+image",
+      "is_digest": true,
+      "tags": [],
+      "topic_category": "市场分析",
+      "keywords": [
+        "收盘简评",
+        "美伊停火",
+        "股债双牛",
+        "波段操作",
+        "半年线"
+      ],
+      "summary": "美伊停火后市场高开高走放量冲过半年线，股债双牛，建议守正少出奇避免波段",
+      "quotes_count": 2,
+      "quotes_path": "channels/qijunjie-fans/2026/04/08/收盘简评20260408.quotes.md"
+    },
+    {
+      "id": 55522288415512824,
+      "path": "channels/pure-sunmoon/2026/04/14/恒大许家印被审判了，许家印当庭.md",
+      "channel": "pure-sunmoon",
+      "source": "pure日月：认知普惠",
+      "author": "pure日月",
+      "date": "2026-04-14",
+      "type": "talk",
+      "content_type": "text+image",
+      "is_digest": true,
+      "tags": [
+        "pure日月观点",
+        "pure日月房地产研究",
+        "pure日月斩妖除魔",
+        "pure日月辩证思维"
+      ],
+      "topic_category": "时事分析",
+      "keywords": [
+        "恒大审判",
+        "集资诈骗",
+        "证券欺诈"
+      ],
+      "summary": "通报恒大及许家印涉及的多项金融与证券犯罪事实，强调房地产金融风险问责落地",
+      "quotes_count": 0
+    },
+    {
+      "id": 14422288158581842,
+      "path": "channels/pure-sunmoon/2026/04/14/大快人心：恒大许家印案一审落地，许家印当庭认罪！.md",
+      "channel": "pure-sunmoon",
+      "source": "pure日月：认知普惠",
+      "author": "pure日月",
+      "date": "2026-04-14",
+      "type": "talk",
+      "content_type": "text",
+      "is_digest": true,
+      "tags": [
+        "pure日月历史预测荟萃",
+        "pure日月财经纵横",
+        "pure日月共同富裕",
+        "pure日月房地产研究",
+        "pure日月辩证思维",
+        "pure日月斩妖除魔"
+      ],
+      "topic_category": "时事分析",
+      "keywords": [
+        "恒大",
+        "许家印",
+        "金融犯罪",
+        "房地产风险"
+      ],
+      "summary": "从恒大案件延伸到系统性金融风险，主张对重大财经犯罪实施全链条追责与高压震慑",
+      "quotes_count": 1,
+      "quotes_path": "channels/pure-sunmoon/2026/04/14/大快人心：恒大许家印案一审落地，许家印当庭认罪！.quotes.md"
+    },
+    {
+      "id": 55522284448421124,
+      "path": "channels/pure-sunmoon/2026/04/12/要美国承认战败绝无可能，其中有.md",
+      "channel": "pure-sunmoon",
+      "source": "pure日月：认知普惠",
+      "author": "pure日月",
+      "date": "2026-04-12",
+      "type": "talk",
+      "content_type": "text",
+      "is_digest": true,
+      "tags": [
+        "pure日月观点",
+        "pure日月国际纵横",
+        "pure日月川普风暴",
+        "pure日月财经纵横",
+        "pure日月宏观"
+      ],
+      "topic_category": "时事分析",
+      "keywords": [
+        "中东局势",
+        "伊朗",
+        "美以关系",
+        "霍尔木兹海峡",
+        "代理战争"
+      ],
+      "summary": "分析美伊博弈格局：美国无法发动地面战，伊朗将利用喘息时间发展军事实力，中东大局已定",
+      "quotes_count": 1,
+      "quotes_path": "channels/pure-sunmoon/2026/04/12/要美国承认战败绝无可能，其中有.quotes.md"
+    },
+    {
+      "id": 55522284448445184,
+      "path": "channels/pure-sunmoon/2026/04/12/最近热点民生新闻是猪肉和蔬菜价.md",
+      "channel": "pure-sunmoon",
+      "source": "pure日月：认知普惠",
+      "author": "pure日月",
+      "date": "2026-04-12",
+      "type": "talk",
+      "content_type": "text",
+      "is_digest": true,
+      "tags": [
+        "pure日月观点",
+        "pure日月宏观",
+        "pure日月共同富裕",
+        "pure日月财经纵横",
+        "pure日月投资",
+        "pure日月人口研究",
+        "pure日月房地产研究",
+        "pure日月辩证思维",
+        "pure日月斩妖除魔"
+      ],
+      "topic_category": "宏观经济",
+      "keywords": [
+        "通缩",
+        "猪肉价格",
+        "人口老龄化",
+        "生产力效率"
+      ],
+      "summary": "在老龄化和AI提升生产力的背景下，中国面临的是通缩而非通胀，担心大通胀是杞人忧天",
+      "quotes_count": 1,
+      "quotes_path": "channels/pure-sunmoon/2026/04/12/最近热点民生新闻是猪肉和蔬菜价.quotes.md"
+    },
+    {
+      "id": 55522284588544514,
+      "path": "channels/pure-sunmoon/2026/04/11/今天看到了一些问规划的，突然想.md",
+      "channel": "pure-sunmoon",
+      "source": "pure日月：认知普惠",
+      "author": "传镇",
+      "date": "2026-04-11",
+      "type": "talk",
+      "content_type": "text+image",
+      "is_digest": true,
+      "tags": [],
+      "topic_category": "人生感悟",
+      "keywords": [
+        "回溯",
+        "房价焦虑",
+        "pure日月",
+        "知乎"
+      ],
+      "summary": "读者回顾从知乎关注pure日月到知识星球的历程，感恩治愈房价焦虑",
+      "quotes_count": 1,
+      "quotes_path": "channels/pure-sunmoon/2026/04/11/今天看到了一些问规划的，突然想.quotes.md"
+    },
+    {
+      "id": 14422281554488422,
+      "path": "channels/pure-sunmoon/2026/04/10/美国居民超额储蓄已经没了，这样.md",
+      "channel": "pure-sunmoon",
+      "source": "pure日月：认知普惠",
+      "author": "pure日月",
+      "date": "2026-04-10",
+      "type": "talk",
+      "content_type": "text+image",
+      "is_digest": true,
+      "tags": [
+        "pure日月观点",
+        "pure日月财经纵横",
+        "pure日月国际纵横",
+        "pure日月辩证思维",
+        "pure日月川普风暴"
+      ],
+      "topic_category": "宏观经济",
+      "keywords": [
+        "超额储蓄",
+        "CPI",
+        "特朗普",
+        "中东停战",
+        "美联储降息"
+      ],
+      "summary": "美居民超额储蓄耗尽使物价更敏感；停战压油价或缓和通胀与年内降息预期。",
+      "quotes_count": 1,
+      "quotes_path": "channels/pure-sunmoon/2026/04/10/美国居民超额储蓄已经没了，这样.quotes.md"
+    },
+    {
+      "id": 22255514215511551,
+      "path": "channels/pure-sunmoon/2026/04/10/沪深300指数和中证A500指.md",
+      "channel": "pure-sunmoon",
+      "source": "pure日月：认知普惠",
+      "author": "pure日月",
+      "date": "2026-04-10",
+      "type": "talk",
+      "content_type": "text+image",
+      "is_digest": true,
+      "tags": [
+        "pure日月观点",
+        "pure日月财经纵横",
+        "pure日月共同富裕",
+        "pure日月投资",
+        "pure日月做多中国"
+      ],
+      "topic_category": "投资理念与方法",
+      "keywords": [
+        "沪深300",
+        "中证A500",
+        "估值百分位",
+        "止盈",
+        "宽基指数"
+      ],
+      "summary": "两大宽基处近年估值高位，宜部分止盈落袋，无需因未到极值而清仓。",
+      "quotes_count": 1,
+      "quotes_path": "channels/pure-sunmoon/2026/04/10/沪深300指数和中证A500指.quotes.md"
+    },
+    {
+      "id": 82255512514418812,
+      "path": "channels/pure-sunmoon/2026/04/08/问问大师兄怎么看未来的ai时代.md",
+      "channel": "pure-sunmoon",
+      "source": "pure日月：认知普惠",
+      "author": "张瓷冰",
+      "date": "2026-04-08",
+      "type": "talk",
+      "content_type": "text",
+      "is_digest": true,
+      "tags": [],
+      "topic_category": "宏观经济",
+      "keywords": [
+        "人工智能",
+        "白领就业",
+        "中产消费",
+        "token"
+      ],
+      "summary": "星球用户提问：AI消耗token建经验库会否淘汰白领并冲击中产消费。",
+      "quotes_count": 0
+    },
+    {
+      "id": 45544415588211518,
+      "path": "channels/pure-sunmoon/2026/04/08/特朗普和内塔尼亚胡单方面宣布停.md",
+      "channel": "pure-sunmoon",
+      "source": "pure日月：认知普惠",
+      "author": "pure日月",
+      "date": "2026-04-08",
+      "type": "talk",
+      "content_type": "text+image",
+      "is_digest": true,
+      "tags": [
+        "pure日月观点",
+        "pure日月财经纵横",
+        "pure日月国际纵横",
+        "pure日月川普风暴",
+        "pure日月斩妖除魔",
+        "pure日月历史预测荟萃"
+      ],
+      "topic_category": "时事分析",
+      "keywords": [
+        "停火",
+        "霍尔木兹海峡",
+        "伊朗",
+        "地面战"
+      ],
+      "summary": "美以宣布两周停火、伊朗允海峡安全通航提振市场；作者指地面战对美军代价过高。",
+      "quotes_count": 1,
+      "quotes_path": "channels/pure-sunmoon/2026/04/08/特朗普和内塔尼亚胡单方面宣布停.quotes.md"
+    },
+    {
+      "id": 55522285588144554,
+      "path": "channels/pure-sunmoon/2026/04/08/普通人遗憾在买不到原始股，Sp.md",
+      "channel": "pure-sunmoon",
+      "source": "pure日月：认知普惠",
+      "author": "pure日月",
+      "date": "2026-04-08",
+      "type": "q&a",
+      "content_type": "text",
+      "is_digest": true,
+      "tags": [],
+      "topic_category": "投资理念与方法",
+      "keywords": [
+        "SpaceX",
+        "IPO",
+        "原始股",
+        "马斯克"
+      ],
+      "summary": "作者看好SpaceX待上市或助推马斯克身价破万亿美元，普通人难获原始股。",
+      "quotes_count": 1,
+      "quotes_path": "channels/pure-sunmoon/2026/04/08/普通人遗憾在买不到原始股，Sp.quotes.md"
+    },
+    {
+      "id": 22255512241888821,
+      "path": "channels/pure-sunmoon/2026/04/08/如果我是伊朗，我特别在意的停战.md",
+      "channel": "pure-sunmoon",
+      "source": "pure日月：认知普惠",
+      "author": "pure日月",
+      "date": "2026-04-08",
+      "type": "talk",
+      "content_type": "text",
+      "is_digest": true,
+      "tags": [
+        "pure日月观点",
+        "pure日月国际纵横",
+        "国际观察",
+        "pure日月辩证思维",
+        "pure日月川普风暴"
+      ],
+      "topic_category": "时事分析",
+      "keywords": [
+        "伊朗",
+        "停战条件",
+        "经济制裁",
+        "战争赔偿",
+        "道义高地"
+      ],
+      "summary": "从伊朗视角提出停战核心：禁武、全面解除制裁与侵略赔偿三条底线。",
+      "quotes_count": 3,
+      "quotes_path": "channels/pure-sunmoon/2026/04/08/如果我是伊朗，我特别在意的停战.quotes.md"
+    },
+    {
+      "id": 82255512228515552,
+      "path": "channels/pure-sunmoon/2026/04/08/只要可以停战，霍尔木之海峡封锁.md",
+      "channel": "pure-sunmoon",
+      "source": "pure日月：认知普惠",
+      "author": "pure日月",
+      "date": "2026-04-08",
+      "type": "talk",
+      "content_type": "text",
+      "is_digest": true,
+      "tags": [
+        "pure日月观点",
+        "pure日月国际纵横",
+        "pure日月宏观",
+        "国际观察",
+        "pure日月川普风暴",
+        "pure日月辩证思维"
+      ],
+      "topic_category": "时事分析",
+      "keywords": [
+        "霍尔木兹海峡",
+        "停战",
+        "国际法",
+        "海峡通行费"
+      ],
+      "summary": "停战后天然海峡不宜收费；战时挟海峡为筹码，战后应恢复通航原状。",
+      "quotes_count": 3,
+      "quotes_path": "channels/pure-sunmoon/2026/04/08/只要可以停战，霍尔木之海峡封锁.quotes.md"
+    },
+    {
+      "id": 14422284444541422,
+      "path": "channels/pure-sunmoon/2026/04/08/一个国家刚成立时，总在生死关头.md",
+      "channel": "pure-sunmoon",
+      "source": "pure日月：认知普惠",
+      "author": "石城",
+      "date": "2026-04-08",
+      "type": "talk",
+      "content_type": "text",
+      "is_digest": true,
+      "tags": [],
+      "topic_category": "投资理念与方法",
+      "keywords": [
+        "国运",
+        "市场周期",
+        "利好利空",
+        "特朗普"
+      ],
+      "summary": "以国运兴衰类比市场：下降期利好难续涨，特朗普如镜只映裂痕难改大势。",
+      "quotes_count": 5,
+      "quotes_path": "channels/pure-sunmoon/2026/04/08/一个国家刚成立时，总在生死关头.quotes.md"
+    },
+    {
+      "id": 45544415452125588,
+      "path": "channels/pure-sunmoon/2026/04/07/前两天我国外交部答记者问时候正.md",
+      "channel": "pure-sunmoon",
+      "source": "pure日月：认知普惠",
+      "author": "pure日月",
+      "date": "2026-04-07",
+      "type": "talk",
+      "content_type": "text",
+      "is_digest": true,
+      "tags": [
+        "pure日月观点",
+        "pure日月国际纵横",
+        "pure日月宏观",
+        "pure日月历史预测荟萃",
+        "pure日月斩妖除魔",
+        "pure日月川普风暴"
+      ],
+      "topic_category": "时事分析",
+      "keywords": [
+        "霍尔木兹海峡",
+        "外交部",
+        "美以军事",
+        "特朗普"
+      ],
+      "summary": "呼应外交部定性美以致海峡受阻，并强调美方“恢复通航”条件颠倒因果。",
+      "quotes_count": 2,
+      "quotes_path": "channels/pure-sunmoon/2026/04/07/前两天我国外交部答记者问时候正.quotes.md"
+    },
+    {
+      "id": 82255514211841542,
+      "path": "channels/maoxuan/2026/04/12/私人养猪场能关尽快关，这是我的.md",
+      "channel": "maoxuan",
+      "source": "躬行客读毛选",
+      "author": "躬行客",
+      "date": "2026-04-12",
+      "type": "q&a",
+      "content_type": "text",
+      "is_digest": true,
+      "tags": [],
+      "topic_category": "社会观察",
+      "keywords": [
+        "猪周期",
+        "养殖业",
+        "民生"
+      ],
+      "summary": "建议私人养猪场在猪价低迷期尽快止损退出",
+      "quotes_count": 0
+    },
+    {
+      "id": 14422284481454512,
+      "path": "channels/maoxuan/2026/04/08/理论联系实际的一些尝试-在我.md",
+      "channel": "maoxuan",
+      "source": "躬行客读毛选",
+      "author": "偶尔会发笑",
+      "date": "2026-04-08",
+      "type": "talk",
+      "content_type": "text",
+      "is_digest": true,
+      "tags": [],
+      "topic_category": "哲学与思维方法",
+      "keywords": [
+        "物质与意识",
+        "客观规律",
+        "矛盾运动",
+        "税务实践",
+        "好古非今"
+      ],
+      "summary": "从税务、育儿等实例谈物质客观性、规律与矛盾动力，主张拥抱发展、勿沉湎怀旧。",
+      "quotes_count": 6,
+      "quotes_path": "channels/maoxuan/2026/04/08/理论联系实际的一些尝试-在我.quotes.md"
+    },
+    {
+      "id": 45544418545141518,
+      "path": "channels/maoxuan/2026/04/04/林彪代表教员去重庆谈判时，跟老.md",
+      "channel": "maoxuan",
+      "source": "躬行客读毛选",
+      "author": "躬行客",
+      "date": "2026-04-04",
+      "type": "talk",
+      "content_type": "text",
+      "is_digest": true,
+      "tags": [],
+      "topic_category": "历史分析",
+      "keywords": [
+        "重庆谈判",
+        "救亡图存",
+        "人生意义",
+        "意义感危机",
+        "张思德"
+      ],
+      "summary": "借林彪赴渝谈话谈一代人的救国信念与胜利前夕教员对意义感缺失的预见。",
+      "quotes_count": 5,
+      "quotes_path": "channels/maoxuan/2026/04/04/林彪代表教员去重庆谈判时，跟老.quotes.md"
+    },
+    {
+      "id": 14422285248221552,
+      "path": "channels/maoxuan/2026/04/03/第一个问题文章当中已经有了答案.md",
+      "channel": "maoxuan",
+      "source": "躬行客读毛选",
+      "author": "",
+      "date": "2026-04-03",
+      "type": "solution",
+      "content_type": "text",
+      "is_digest": true,
+      "tags": [],
+      "topic_category": "其他",
+      "keywords": [
+        "digest",
+        "占位",
+        "作业"
+      ],
+      "summary": "正文为空，仅标题提示首个问题的答案已在对应文章中给出。",
+      "quotes_count": 0
+    },
+    {
+      "id": 22811421522848841,
+      "path": "channels/maoxuan/2026/03/28/这个问题问出了大家的心声。.md",
+      "channel": "maoxuan",
+      "source": "躬行客读毛选",
+      "author": "躬行客",
+      "date": "2026-03-28",
+      "type": "q&a",
+      "content_type": "text",
+      "is_digest": true,
+      "tags": [],
+      "topic_category": "领导力与组织",
+      "keywords": [
+        "胖东来",
+        "PDL",
+        "员工待遇",
+        "经营理念",
+        "提问"
+      ],
+      "summary": "读者问为何少有企业效仿胖东来式高待遇扭亏，正文未附回答。",
+      "quotes_count": 0
+    },
+    {
+      "id": 45811252585488528,
+      "path": "channels/maoxuan/2026/03/26/我在你这个年纪，问不出这样的问.md",
+      "channel": "maoxuan",
+      "source": "躬行客读毛选",
+      "author": "躬行客",
+      "date": "2026-03-26",
+      "type": "q&a",
+      "content_type": "text",
+      "is_digest": true,
+      "tags": [],
+      "topic_category": "个人成长",
+      "keywords": [
+        "青年迷茫",
+        "自省",
+        "提问",
+        "刚毕业"
+      ],
+      "summary": "对迷茫却自省的年轻读者，老师以「这个年纪问不出这问题」肯定其起点。",
+      "quotes_count": 1,
+      "quotes_path": "channels/maoxuan/2026/03/26/我在你这个年纪，问不出这样的问.quotes.md"
+    },
+    {
+      "id": 55188454248418824,
+      "path": "channels/maoxuan/2026/03/25/张雪峰因为心源性猝死离世，太突.md",
+      "channel": "maoxuan",
+      "source": "躬行客读毛选",
+      "author": "躬行客",
+      "date": "2026-03-25",
+      "type": "talk",
+      "content_type": "text",
+      "is_digest": true,
+      "tags": [],
+      "topic_category": "哲学与思维方法",
+      "keywords": [
+        "身心矛盾",
+        "解放思想",
+        "灯下黑",
+        "认知盲区",
+        "跑步与健康"
+      ],
+      "summary": "借张雪峰猝死析劳累后「以跑养心」的主次颠倒、思想包袱与健康信号忽视。",
+      "quotes_count": 6,
+      "quotes_path": "channels/maoxuan/2026/03/25/张雪峰因为心源性猝死离世，太突.quotes.md"
+    },
+    {
+      "id": 14588144444511842,
+      "path": "channels/maoxuan/2026/03/24/终身会员制，是在《历史决议》解.md",
+      "channel": "maoxuan",
+      "source": "躬行客读毛选",
+      "author": "躬行客",
+      "date": "2026-03-24",
+      "type": "talk",
+      "content_type": "text",
+      "is_digest": true,
+      "tags": [],
+      "topic_category": "领导力与组织",
+      "keywords": [
+        "历史决议",
+        "团结",
+        "思想包袱",
+        "终身会员",
+        "毛选实践"
+      ],
+      "summary": "借《历史决议》翻篇与团结智慧说明推出终身会员制，让读者体会机制力量。",
+      "quotes_count": 3,
+      "quotes_path": "channels/maoxuan/2026/03/24/终身会员制，是在《历史决议》解.quotes.md"
+    },
+    {
+      "id": 82811422254814852,
+      "path": "channels/maoxuan/2026/03/24/孔子后人含笑不语。-什么富不.md",
+      "channel": "maoxuan",
+      "source": "躬行客读毛选",
+      "author": "躬行客",
+      "date": "2026-03-24",
+      "type": "q&a",
+      "content_type": "text",
+      "is_digest": true,
+      "tags": [],
+      "topic_category": "社会观察",
+      "keywords": [
+        "富不过三代",
+        "劣根性",
+        "优越性",
+        "家族传承"
+      ],
+      "summary": "读者问「富不过三代」属劣根性还是优越性，正文暂无回答。",
+      "quotes_count": 0
+    },
+    {
+      "id": 82811428128214122,
+      "path": "channels/maoxuan/2026/03/23/自己究竟在干嘛，领导需要什么，.md",
+      "channel": "maoxuan",
+      "source": "躬行客读毛选",
+      "author": "躬行客",
+      "date": "2026-03-23",
+      "type": "q&a",
+      "content_type": "text",
+      "is_digest": true,
+      "tags": [],
+      "topic_category": "领导力与组织",
+      "keywords": [
+        "职场觉悟",
+        "领导预期",
+        "有效工作",
+        "信息获取"
+      ],
+      "summary": "读者追问如何心中有数地对接领导需求与自身产出，并求老师实践经验。",
+      "quotes_count": 0
+    },
+    {
+      "id": 82811422252528242,
+      "path": "channels/maoxuan/2026/03/23/07：什么是矛盾法则？.md",
+      "channel": "maoxuan",
+      "source": "躬行客读毛选",
+      "author": "躬行客",
+      "date": "2026-03-23",
+      "type": "talk",
+      "content_type": "text",
+      "is_digest": true,
+      "tags": [],
+      "topic_category": "哲学与思维方法",
+      "keywords": [
+        "矛盾论",
+        "对立统一",
+        "得意与得言",
+        "唯物辩证法",
+        "认知"
+      ],
+      "summary": "引矛盾论开篇命题：对立统一为根本法则，须理解方能应用，否则只得言不得意。",
+      "quotes_count": 3,
+      "quotes_path": "channels/maoxuan/2026/03/23/07：什么是矛盾法则？.quotes.md"
     }
   ],
   "tag_index": {
     "齐观晨会": [
+      45544411282222158,
       55522284114124184
+    ],
+    "pure日月观点": [
+      55522288415512824,
+      55522284448421124,
+      55522284448445184,
+      14422281554488422,
+      22255514215511551,
+      45544415588211518,
+      22255512241888821,
+      82255512228515552,
+      45544415452125588
+    ],
+    "pure日月房地产研究": [
+      55522288415512824,
+      14422288158581842,
+      55522284448445184
+    ],
+    "pure日月斩妖除魔": [
+      55522288415512824,
+      14422288158581842,
+      55522284448445184,
+      45544415588211518,
+      45544415452125588
+    ],
+    "pure日月辩证思维": [
+      55522288415512824,
+      14422288158581842,
+      55522284448445184,
+      14422281554488422,
+      22255512241888821,
+      82255512228515552
+    ],
+    "pure日月历史预测荟萃": [
+      14422288158581842,
+      45544415588211518,
+      45544415452125588
+    ],
+    "pure日月财经纵横": [
+      14422288158581842,
+      55522284448421124,
+      55522284448445184,
+      14422281554488422,
+      22255514215511551,
+      45544415588211518
+    ],
+    "pure日月共同富裕": [
+      14422288158581842,
+      55522284448445184,
+      22255514215511551
+    ],
+    "pure日月国际纵横": [
+      55522284448421124,
+      14422281554488422,
+      45544415588211518,
+      22255512241888821,
+      82255512228515552,
+      45544415452125588
+    ],
+    "pure日月川普风暴": [
+      55522284448421124,
+      14422281554488422,
+      45544415588211518,
+      22255512241888821,
+      82255512228515552,
+      45544415452125588
+    ],
+    "pure日月宏观": [
+      55522284448421124,
+      55522284448445184,
+      82255512228515552,
+      45544415452125588
+    ],
+    "pure日月投资": [
+      55522284448445184,
+      22255514215511551
+    ],
+    "pure日月人口研究": [
+      55522284448445184
+    ],
+    "pure日月做多中国": [
+      22255514215511551
+    ],
+    "国际观察": [
+      22255512241888821,
+      82255512228515552
     ]
   },
   "topic_index": {
+    "投资理念与方法": [
+      55522288422851444,
+      14422281144185822,
+      22255514552282881,
+      22255514215511551,
+      55522285588144554,
+      14422284444541422
+    ],
+    "书籍笔记": [
+      22255514218288111,
+      14422281288182212,
+      14422284112411212,
+      45544415588524518,
+      22255518115511881,
+      45544418521211248,
+      82255518225585142,
+      82255518814552482,
+      82255518552428452,
+      55188442828845144,
+      55188442411541454,
+      82811445212188542
+    ],
+    "人生感悟": [
+      82255518814554582,
+      55522284588544514
+    ],
     "宏观经济": [
-      55522284114124184
+      55522288422458214,
+      82255511841114112,
+      55522288455515584,
+      45544411282222158,
+      55522284288425214,
+      55522284114124184,
+      14422284112544182,
+      45544415584111888,
+      55522284448445184,
+      14422281554488422,
+      82255512514418812
+    ],
+    "职业发展": [
+      55522284425488584
+    ],
+    "时事分析": [
+      22255514548112881,
+      82255512482451482,
+      55522288415512824,
+      14422288158581842,
+      55522284448421124,
+      45544415588211518,
+      22255512241888821,
+      82255512228515552,
+      45544415452125588
+    ],
+    "市场分析": [
+      14422284415441142
+    ],
+    "社会观察": [
+      82255514211841542,
+      82811422254814852
+    ],
+    "哲学与思维方法": [
+      14422284481454512,
+      55188454248418824,
+      82811422252528242
+    ],
+    "历史分析": [
+      45544418545141518
+    ],
+    "其他": [
+      14422285248221552
+    ],
+    "领导力与组织": [
+      22811421522848841,
+      14588144444511842,
+      82811428128214122
+    ],
+    "个人成长": [
+      45811252585488528
     ]
   }
 }

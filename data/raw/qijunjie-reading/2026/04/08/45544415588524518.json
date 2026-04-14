@@ -1,0 +1,266 @@
+{
+  "topic_id": 45544415588524518,
+  "topic_uid": "45544415588524518",
+  "group": {
+    "group_id": 454548818428,
+    "name": "老齐的读书圈",
+    "type": "pay",
+    "background_url": "https://images.zsxq.com/FhKUKP_fcDl7sOWROzpjFJ4GlmJ-?e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:AVZmzwndqjY51Qn5rb0k6pZBT0M="
+  },
+  "type": "talk",
+  "talk": {
+    "owner": {
+      "user_id": 48588884141828,
+      "name": "老齐的读书圈",
+      "alias": "老齐的读书圈",
+      "avatar_url": "https://images.zsxq.com/Fv0R7lwphGFfMBtlT-Af0AxQN_oy?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:-V_dYeQ3MSV4eCGg4T6wrPxtKFE=",
+      "description": "苹果用户续费问题的，请看置顶3！！这里不回答读书无关的问题！问投资请到粉丝群！",
+      "location": "海南"
+    },
+    "text": "更富有、更睿智、更快乐 7：未来无法预测，但不代表我们不能去做准备",
+    "files": [
+      {
+        "file_id": 415522224845888,
+        "name": "更富有、更睿智、更快乐 7.docx",
+        "hash": "d989c10dfe1a6bfb3131ed4033a478c0494127db8be533636c8590bafc4c0147",
+        "size": 18749,
+        "duration": 0,
+        "download_count": 735,
+        "create_time": "2026-04-08T10:12:03.200+0800"
+      },
+      {
+        "file_id": 812244445852812,
+        "name": "更富有、更睿智、更快乐 7.mp3",
+        "hash": "349328f56739f42c527108a8d5c0bc14da5a3089bf6187b6a2811b0cb355beb1",
+        "size": 13385471,
+        "duration": 557,
+        "download_count": 8152,
+        "create_time": "2026-04-08T10:12:11.231+0800"
+      }
+    ]
+  },
+  "latest_likes": [
+    {
+      "create_time": "2026-04-11T19:33:36.525+0800",
+      "owner": {
+        "user_id": 88284845281582,
+        "name": "云汉",
+        "avatar_url": "https://images.zsxq.com/FvTeuLD-QTA-58um7Zf6PbYdmPPc?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:5INTuH6dQzsgHTADewhzEkrxiZw="
+      }
+    },
+    {
+      "create_time": "2026-04-11T08:31:28.758+0800",
+      "owner": {
+        "user_id": 118558218515882,
+        "name": "月岛星",
+        "avatar_url": "https://images.zsxq.com/FgRCSyNnEv5BumKRb14ZNkDdReSZ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:uBQd8n9iE1yCGnX9350ecq85YRM="
+      }
+    },
+    {
+      "create_time": "2026-04-10T20:22:07.908+0800",
+      "owner": {
+        "user_id": 244145222281251,
+        "name": "南山",
+        "avatar_url": "https://images.zsxq.com/FkT_iLnsyl0wHRAzU3jGWgC6mCOw?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:wggQmoHdL1lK1Gz_w1pEcecWNB0="
+      }
+    },
+    {
+      "create_time": "2026-04-10T19:15:15.173+0800",
+      "owner": {
+        "user_id": 48588528851528,
+        "name": "梁红兵",
+        "avatar_url": "https://images.zsxq.com/FsDTNTs5SQOSeaHv6bFX4Wxj2BY6?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:ZDP-fFkLbztRJ0Zlbvf7WP_QZvQ="
+      }
+    },
+    {
+      "create_time": "2026-04-10T13:11:39.570+0800",
+      "owner": {
+        "user_id": 51511452512524,
+        "name": "荷塘月色",
+        "avatar_url": "https://images.zsxq.com/Fg3-PUExnjkB_0DAV1h6E8PB1L8G?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:ZA0AjtsbOyElrpQ36pKqvf8eDrs="
+      }
+    },
+    {
+      "create_time": "2026-04-10T12:20:11.588+0800",
+      "owner": {
+        "user_id": 215525114858241,
+        "name": "Vy",
+        "avatar_url": "https://images.zsxq.com/Fq-ay_o5NUnCeuK8qTs2DAtb_arA?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:n_SuUMZLaimwEX0xrWs9qyhf5NI="
+      }
+    },
+    {
+      "create_time": "2026-04-10T10:57:48.800+0800",
+      "owner": {
+        "user_id": 215115524515111,
+        "name": "追啊！",
+        "avatar_url": "https://images.zsxq.com/FgUrZohLwXSETLK1NyqmF-I5Uzl4?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:Hu41eklu4jyyVnZOWawA7U_zw9g="
+      }
+    },
+    {
+      "create_time": "2026-04-10T09:12:19.220+0800",
+      "owner": {
+        "user_id": 48588418421458,
+        "name": "幸运",
+        "avatar_url": "https://images.zsxq.com/Fqglc_pSTxSrpuKv0vAKOVaJeniI?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:FhuUb8-N-d3u3f1RpbAoOrQHCMg="
+      }
+    },
+    {
+      "create_time": "2026-04-10T08:23:30.901+0800",
+      "owner": {
+        "user_id": 28288512242441,
+        "name": "大白鲨",
+        "avatar_url": "https://images.zsxq.com/FhdPwulc0Ikee2okxcMD8_cKm9Px?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:RcCIvSrzxyb5xgmDFmax3DLa1FE="
+      }
+    },
+    {
+      "create_time": "2026-04-10T08:22:37.198+0800",
+      "owner": {
+        "user_id": 88288515188822,
+        "name": "哈格利特",
+        "alias": "新",
+        "avatar_url": "https://images.zsxq.com/FpJ-gP9067mnrXOin4wcFZ2U4qh7?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:X9PjYG8HVsSYqk6ubD6QJCDhd-Y="
+      }
+    }
+  ],
+  "show_comments": [
+    {
+      "comment_id": 8852414552882182,
+      "create_time": "2026-04-08T10:24:32.006+0800",
+      "owner": {
+        "user_id": 841148418855282,
+        "name": "🎖齐俊杰优惠返现💹",
+        "alias": "🎖🈶齐老师优惠返现💹",
+        "avatar_url": "https://images.zsxq.com/Fpyiu3aGnuBx25OpBt4YQsFcpruF?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:oaR5H1F5bXG_OgCEJYM6gw90zfE=",
+        "location": "新疆"
+      },
+      "text": "投资不是打板算卦，是应对之道，是策略、是方法，用正确的投资方法走完一轮牛熊，才是成熟的投资者",
+      "likes_count": 2,
+      "rewards_count": 0,
+      "sticky": false
+    },
+    {
+      "comment_id": 1524181224554842,
+      "create_time": "2026-04-08T10:24:33.825+0800",
+      "owner": {
+        "user_id": 841148418855282,
+        "name": "🎖齐俊杰优惠返现💹",
+        "alias": "🎖🈶齐老师优惠返现💹",
+        "avatar_url": "https://images.zsxq.com/Fpyiu3aGnuBx25OpBt4YQsFcpruF?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:oaR5H1F5bXG_OgCEJYM6gw90zfE=",
+        "location": "新疆"
+      },
+      "text": "多读书，少看盘，少操作",
+      "likes_count": 1,
+      "rewards_count": 0,
+      "sticky": false
+    },
+    {
+      "comment_id": 4845212445524428,
+      "create_time": "2026-04-08T10:39:45.298+0800",
+      "owner": {
+        "user_id": 28248542145441,
+        "name": "🈶齐俊杰优惠返现🔶",
+        "alias": "🔶🈶齐老师粉丝群优惠返现👈",
+        "avatar_url": "https://images.zsxq.com/FtzGhnia_Yh1SDCqWgSmH-IwFx2T?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:AqYNLWKaVa7C_U5rFznOPW40Ifk=",
+        "location": "河南"
+      },
+      "text": "学无止境，终身学习，越努力，越幸运！",
+      "likes_count": 0,
+      "rewards_count": 0,
+      "sticky": false
+    },
+    {
+      "comment_id": 2852414552245541,
+      "create_time": "2026-04-08T10:39:50.067+0800",
+      "owner": {
+        "user_id": 28248542145441,
+        "name": "🈶齐俊杰优惠返现🔶",
+        "alias": "🔶🈶齐老师粉丝群优惠返现👈",
+        "avatar_url": "https://images.zsxq.com/FtzGhnia_Yh1SDCqWgSmH-IwFx2T?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:AqYNLWKaVa7C_U5rFznOPW40Ifk=",
+        "location": "河南"
+      },
+      "text": "[玫瑰][玫瑰][玫瑰]",
+      "likes_count": 0,
+      "rewards_count": 0,
+      "sticky": false
+    },
+    {
+      "comment_id": 4845212445245288,
+      "create_time": "2026-04-08T10:49:44.474+0800",
+      "owner": {
+        "user_id": 51511128814254,
+        "name": "邓普顿",
+        "avatar_url": "https://images.zsxq.com/FkxEkO0W5bTViwpSVSLvbXAE_twX?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:vqlI0LLmfxWByjg5MGiy2A4dNz8=",
+        "location": "江苏"
+      },
+      "text": "低点敢买才是投资的葵花宝典！",
+      "likes_count": 0,
+      "rewards_count": 0,
+      "sticky": false
+    },
+    {
+      "comment_id": 1524181254221582,
+      "create_time": "2026-04-08T14:32:19.684+0800",
+      "owner": {
+        "user_id": 51145448524184,
+        "name": "王哥",
+        "avatar_url": "https://images.zsxq.com/FqJxYtitXT84UZQmocBgxJm4R2E-?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:JlpJLqftuw52HlWR9az8fiOWq8g=",
+        "location": "河北"
+      },
+      "text": "1、霍华德马克思，乐观情绪爆发，不会相信有坏事发生，悲观情绪爆发，不会相信有好事发生。\n2、艾维拉的，买低估资产，分散投资，不凑热闹。",
+      "likes_count": 0,
+      "rewards_count": 0,
+      "sticky": false
+    },
+    {
+      "comment_id": 8852414522242282,
+      "create_time": "2026-04-08T20:44:54.917+0800",
+      "owner": {
+        "user_id": 414842825225228,
+        "name": "早日成为富婆丫",
+        "avatar_url": "https://images.zsxq.com/Fo8bL5zTA5JzJs3Y5BIYUmieEy8q?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:yVSHCWXJs1mjUaEDkiera4CD-7k=",
+        "location": "河北"
+      },
+      "text": "马克斯抄底后，因为市场的持续下跌，要追加保证金，他的客户都是大的养老基金，也是专业的机构投资者，即便如此大家也都陷入非理性的情绪中，总在追问情况继续恶化，橡树资本的债券会怎么样，尽管马克斯一直在解释，但是他们还在追问。他领悟到当乐观情绪爆发的时候人都不相信坏事会发生，当悲观情绪爆发达到极致他们就不会相信任何好事要发生。就这样在次贷危机爆发之后他成了华尔街为数不多的乐观主义者。后来美国一轮轮开展QE救市。橡树资本抓住了难得的机会，比如他1亿美元收购了一家濒临倒闭的食品公司，到2017年已经赚了22亿没有。他一共在金融危机当中投资了100亿美元，都取得了翻倍的回报。总结他的关键理念1.承认自己无法预测未来2.研究历史规律，以史为鉴。3.周期必将逆转，不计后果的过分行为必将受到惩罚4.通过逆周期行为，利用好周期获利5.为了在不确定的世界里取得长期成功，要保持谦逊怀疑且谨慎的态度。不能总是觉得事物是一成不变的，要看到内部积极的变化产生。很多人觉得一买就跌，一卖就涨其实是过分寻找确定性的后果。大部分都有同样的认知之后，这个认知就是错误的。2024年大家都认为美联储会降息，股市会涨，已经达成共识，那么就两种可能，一是没有降息，而是降息但是股市不涨。马克斯说虽然无法预测未来，但是我们可以改名我们的投资组合。还告诉我们越是极限越是脆弱，满仓或者空仓就是一种极限，就会非常脆弱，半仓就会始终留有余地。不要在市场乐观的时候去评估风险承受力，我们远没有我们想象的坚强。通常大家都是被吓死的，不是跌跑的。股市下跌1/3意味着特别坏的负面消息发生，不是发生经济危机就是打仗了。连英伟达这样的公司22年也跌去了60%，那个时候都在说没人去挖矿了，显卡过剩了，摩尔定律失效了。埃维拉德早年间是巴黎兴业银行分析师，只是平庸的研究一些大公司股票，给出一些似是而非的策略，偶然接触格雷厄姆的思想茅塞顿开。39岁时被任命为索根国际经理，是一个规模很小且名不见经传的共同基金。只有1500万美元的规模，且他远离总部，拥有极高的投资自由度，他理解的格雷厄姆就是安全边际，买足够低的资产才能获得更大的获利机会，当然这也不能解决可怕的错误问题，还得多样性，就是以极低的价格买入分散且低估的股票，他在全世界范围搜索，成本比估值至少低3-4成股票，持有100只左右。巴菲特是因为十分了解公司能买进董事会，所以他十分集中，一家苹果占了他一半的仓位。埃维拉德非常分散，配置的是全世界的资产且他对估值要求特别严格。1989年日本泡沫顶峰，日本自从战全世界资产比重45%，是美英总和，全世界最大的公司大多是日本公司，埃维拉德觉得不正常，所以1988年他彻底退出日本市场，因为他无法找到一只符合他估值要求的股票，后来果然泡沫破裂，日本股市跌了80%。1997年之前，索根国际收益率一直跑赢大盘，就是90年最糟糕的时候也仅下跌了1.3%，索根国",
+      "likes_count": 0,
+      "rewards_count": 0,
+      "sticky": false
+    },
+    {
+      "comment_id": 5125484255544414,
+      "create_time": "2026-04-08T20:46:04.360+0800",
+      "owner": {
+        "user_id": 414842825225228,
+        "name": "早日成为富婆丫",
+        "avatar_url": "https://images.zsxq.com/Fo8bL5zTA5JzJs3Y5BIYUmieEy8q?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:yVSHCWXJs1mjUaEDkiera4CD-7k=",
+        "location": "河北"
+      },
+      "text": "索根国际规模一直稳健上升。在科技股大爆发的时候，埃维拉德采取了极端的策略不持有任何科技股股票，完全偏离市场热度，很快他连续3年业绩跑输，规模也大幅下降。",
+      "likes_count": 0,
+      "rewards_count": 0,
+      "sticky": false
+    }
+  ],
+  "likes_count": 124,
+  "tourist_likes_count": 0,
+  "likes_detail": {
+    "emojis": [
+      {
+        "emoji_key": "[强]",
+        "likes_count": 124
+      }
+    ]
+  },
+  "rewards_count": 0,
+  "comments_count": 15,
+  "reading_count": 1,
+  "readers_count": 11038,
+  "digested": true,
+  "sticky": false,
+  "create_time": "2026-04-08T10:12:12.126+0800",
+  "user_specific": {
+    "liked": false,
+    "liked_emojis": [],
+    "subscribed": false
+  },
+  "title": "更富有、更睿智、更快乐 7：未..."
+}

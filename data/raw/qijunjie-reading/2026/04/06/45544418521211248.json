@@ -1,0 +1,268 @@
+{
+  "topic_id": 45544418521211248,
+  "topic_uid": "45544418521211248",
+  "group": {
+    "group_id": 454548818428,
+    "name": "老齐的读书圈",
+    "type": "pay",
+    "background_url": "https://images.zsxq.com/FhKUKP_fcDl7sOWROzpjFJ4GlmJ-?e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:AVZmzwndqjY51Qn5rb0k6pZBT0M="
+  },
+  "type": "talk",
+  "talk": {
+    "owner": {
+      "user_id": 48588884141828,
+      "name": "老齐的读书圈",
+      "alias": "老齐的读书圈",
+      "avatar_url": "https://images.zsxq.com/Fv0R7lwphGFfMBtlT-Af0AxQN_oy?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:-V_dYeQ3MSV4eCGg4T6wrPxtKFE=",
+      "description": "苹果用户续费问题的，请看置顶3！！这里不回答读书无关的问题！问投资请到粉丝群！",
+      "location": "海南"
+    },
+    "text": "更富有，更睿智，更快乐 5：基金是反人性的生意！好卖的时候不好做，好做的时候不好卖",
+    "files": [
+      {
+        "file_id": 184411548281542,
+        "name": "更富有，更睿智，更快乐 5.docx",
+        "hash": "a4bdc8b1b52ae71ee9e7bc5ff2a2ff0df27d01bc2b9eb51266ca4e0daf2fc9e2",
+        "size": 18858,
+        "duration": 0,
+        "download_count": 856,
+        "create_time": "2026-04-06T09:15:43.438+0800"
+      },
+      {
+        "file_id": 415522851412858,
+        "name": "更富有、更睿智、更快乐 5.mp3",
+        "hash": "6a6a3d7c2e14f0ae12d73ca172675db8f30d919fc836f264f1cd617004cf10db",
+        "size": 13284189,
+        "duration": 553,
+        "download_count": 10278,
+        "create_time": "2026-04-06T09:15:54.130+0800"
+      }
+    ]
+  },
+  "latest_likes": [
+    {
+      "create_time": "2026-04-11T16:17:59.846+0800",
+      "owner": {
+        "user_id": 215528851528581,
+        "name": "浮沉恰似彼岸花",
+        "avatar_url": "https://images.zsxq.com/FkDZCmCKjp3TY158AK5cofAvYffN?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:tu2ojbyZSrnSfsuok0EtAuOCpKM="
+      }
+    },
+    {
+      "create_time": "2026-04-10T18:49:08.735+0800",
+      "owner": {
+        "user_id": 48588528851528,
+        "name": "梁红兵",
+        "avatar_url": "https://images.zsxq.com/FsDTNTs5SQOSeaHv6bFX4Wxj2BY6?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:ZDP-fFkLbztRJ0Zlbvf7WP_QZvQ="
+      }
+    },
+    {
+      "create_time": "2026-04-09T20:26:49.052+0800",
+      "owner": {
+        "user_id": 51511285284254,
+        "name": "积水成渊",
+        "alias": "积水成渊",
+        "avatar_url": "https://images.zsxq.com/FhPEz0E7TOPR2hBB7_FowKaZ6guM?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:t-emp-s41E-yqoy3nndowjDg8rM="
+      }
+    },
+    {
+      "create_time": "2026-04-09T15:30:46.614+0800",
+      "owner": {
+        "user_id": 15448252821212,
+        "name": "美人醉",
+        "avatar_url": "https://images.zsxq.com/Fggnvhho5cHWDo0H8AhXAeUVhZ_I?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:u2URQQwkD0AtZBaXuTBgJr7Ry0Y="
+      }
+    },
+    {
+      "create_time": "2026-04-09T13:20:46.975+0800",
+      "owner": {
+        "user_id": 88282488512882,
+        "name": "尹",
+        "avatar_url": "https://images.zsxq.com/FotKjy7x8FhLU68zk-vjLZKRfs6r?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:S-9DcyFrwiHeh4u_lO0CP8Uj_EA="
+      }
+    },
+    {
+      "create_time": "2026-04-09T12:43:10.998+0800",
+      "owner": {
+        "user_id": 15512485512522,
+        "name": "乌龟马拉松",
+        "alias": "乌龟马拉松",
+        "avatar_url": "https://images.zsxq.com/FrftRYQBqYDlLIhQLCLQ69myssS8?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:Qdms9WBuhJtAuLCB3uUJRGjxM80="
+      }
+    },
+    {
+      "create_time": "2026-04-09T09:53:17.637+0800",
+      "owner": {
+        "user_id": 215581844852181,
+        "name": "陶陶",
+        "avatar_url": "https://images.zsxq.com/FofZK97BRNZVth0u_kZG0yqmzPft?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:VmbvABU6Slb24H5k6xUy0QrnFO8="
+      }
+    },
+    {
+      "create_time": "2026-04-09T09:36:20.298+0800",
+      "owner": {
+        "user_id": 48822451455218,
+        "name": "华",
+        "avatar_url": "https://images.zsxq.com/FnTvEPJya5sArB2grqUmAkLOMDEz?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:Wjqryhhch64eS_5aFqNdGLtp5-0="
+      }
+    },
+    {
+      "create_time": "2026-04-08T20:51:15.144+0800",
+      "owner": {
+        "user_id": 48524285282588,
+        "name": "微笑的可乐",
+        "avatar_url": "https://images.zsxq.com/FoCsz5JbhSeRItQ-DSYiSpoyE5fq?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:2EOL4l5ZVlpqxZFCO40ieEYEDwQ="
+      }
+    },
+    {
+      "create_time": "2026-04-08T19:22:28.675+0800",
+      "owner": {
+        "user_id": 88288515188822,
+        "name": "哈格利特",
+        "alias": "新",
+        "avatar_url": "https://images.zsxq.com/FpJ-gP9067mnrXOin4wcFZ2U4qh7?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:X9PjYG8HVsSYqk6ubD6QJCDhd-Y="
+      }
+    }
+  ],
+  "show_comments": [
+    {
+      "comment_id": 8852412454824182,
+      "create_time": "2026-04-06T09:28:30.767+0800",
+      "owner": {
+        "user_id": 548158818852114,
+        "name": "朱锦坤",
+        "avatar_url": "https://images.zsxq.com/Fo2rbAt5gDHuo7RXoaeMYNy7piCO?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:PpC_eakzAOYD1829dcptXcMQ1ds=",
+        "location": "江苏"
+      },
+      "text": "但行好事，莫问前程",
+      "likes_count": 3,
+      "rewards_count": 0,
+      "sticky": false
+    },
+    {
+      "comment_id": 8852412451581212,
+      "create_time": "2026-04-06T12:07:04.337+0800",
+      "owner": {
+        "user_id": 51511285244554,
+        "name": "嘿哈老猫",
+        "avatar_url": "https://images.zsxq.com/FpRZj5X-UkEYpRPr27cfCPEUbCuL?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:ULZFPvR_MmmG33EeLUiTzz2lWDA=",
+        "location": "浙江"
+      },
+      "text": "更富有，更睿智，更快乐 5：基金是反人性的生意！好卖的时候不好做，好做的时候不好卖\n\n1.基金这个事，好做不好卖，好卖不好做，马克斯说，当人们对某种资产有某种偏见时，那么往往意味着这个资产有重大机会。\n\n他在花旗银行刚去上班时，公司领导就交给他管可转债和高收益债，因为其他人都不可以做，当时股市非常好，债市无人问津。\n\n但是他认为这恰恰是好机会，因为没人愿意管，这恰恰说明这个东西现在很好做啊。所以后来也因为这，他一战成名。\n\n2026年4月5日这个时间点，就是中期债很受伤的时候，七到十年的债券下跌很多了，没人买。所以，我选择买进是一个逆向思维，没人买的东西肯定就是便宜了。\n\n2.预测到底是个啥？\n马克斯说，媒体就爱说那些预测的东西，因为他们都知道，预测肯定是投资者最爱听的。\n\n预测哪怕再厉害的人，能够达到一半就了不起了。马克斯就坚定地认为，自己属于市场当中的无知派，他也懒得预测未来会发生什么，承认自己的短板。",
+      "likes_count": 0,
+      "rewards_count": 0,
+      "sticky": false
+    },
+    {
+      "comment_id": 4845215241422548,
+      "create_time": "2026-04-06T12:39:42.329+0800",
+      "owner": {
+        "user_id": 28248542145441,
+        "name": "🈶齐俊杰优惠返现🔶",
+        "alias": "🔶🈶齐老师粉丝群优惠返现👈",
+        "avatar_url": "https://images.zsxq.com/FtzGhnia_Yh1SDCqWgSmH-IwFx2T?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:AqYNLWKaVa7C_U5rFznOPW40Ifk=",
+        "location": "河南"
+      },
+      "text": "学无止境，终身学习，越努力，越幸运！",
+      "likes_count": 0,
+      "rewards_count": 0,
+      "sticky": false
+    },
+    {
+      "comment_id": 5125485428244524,
+      "create_time": "2026-04-06T12:39:47.081+0800",
+      "owner": {
+        "user_id": 28248542145441,
+        "name": "🈶齐俊杰优惠返现🔶",
+        "alias": "🔶🈶齐老师粉丝群优惠返现👈",
+        "avatar_url": "https://images.zsxq.com/FtzGhnia_Yh1SDCqWgSmH-IwFx2T?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:AqYNLWKaVa7C_U5rFznOPW40Ifk=",
+        "location": "河南"
+      },
+      "text": "🌹🌹🌹",
+      "likes_count": 0,
+      "rewards_count": 0,
+      "sticky": false
+    },
+    {
+      "comment_id": 2852412451818251,
+      "create_time": "2026-04-06T13:45:12.997+0800",
+      "owner": {
+        "user_id": 241511122555851,
+        "name": "助强",
+        "avatar_url": "https://images.zsxq.com/FtcgD73dTnNEpq88RvVVsQD29jZz?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:ZnJO91LPKTLMcrPW_akNfeeyMEY=",
+        "location": "重庆"
+      },
+      "text": "有两类预言者，一类是无知者，另一类是不知道自己是无知者。投资是概率的游戏，是概率和赔率的游戏。在投资过程中，不缺乏精明和努力，但运气和毅力很重要。",
+      "likes_count": 0,
+      "rewards_count": 0,
+      "sticky": false
+    },
+    {
+      "comment_id": 4845215288412148,
+      "create_time": "2026-04-06T14:52:56.076+0800",
+      "owner": {
+        "user_id": 841148418855282,
+        "name": "🎖齐俊杰优惠返现💹",
+        "alias": "🎖🈶齐老师优惠返现💹",
+        "avatar_url": "https://images.zsxq.com/Fpyiu3aGnuBx25OpBt4YQsFcpruF?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:oaR5H1F5bXG_OgCEJYM6gw90zfE=",
+        "location": "新疆"
+      },
+      "text": "投资不是打板算卦，是应对之道，是策略、是方法，用正确的投资方法走完一轮牛熊，才是成熟的投资者",
+      "likes_count": 1,
+      "rewards_count": 0,
+      "sticky": false
+    },
+    {
+      "comment_id": 5125485411284814,
+      "create_time": "2026-04-06T14:52:58.230+0800",
+      "owner": {
+        "user_id": 841148418855282,
+        "name": "🎖齐俊杰优惠返现💹",
+        "alias": "🎖🈶齐老师优惠返现💹",
+        "avatar_url": "https://images.zsxq.com/Fpyiu3aGnuBx25OpBt4YQsFcpruF?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:oaR5H1F5bXG_OgCEJYM6gw90zfE=",
+        "location": "新疆"
+      },
+      "text": "多读书，少看盘，少操作",
+      "likes_count": 1,
+      "rewards_count": 0,
+      "sticky": false
+    },
+    {
+      "comment_id": 4845215288288288,
+      "create_time": "2026-04-06T16:47:57.945+0800",
+      "owner": {
+        "user_id": 51145448524184,
+        "name": "王哥",
+        "avatar_url": "https://images.zsxq.com/FqJxYtitXT84UZQmocBgxJm4R2E-?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:JlpJLqftuw52HlWR9az8fiOWq8g=",
+        "location": "河北"
+      },
+      "text": "霍华德马克思\n1、认同市场有效理论，但在特殊的时间也会出现无效的情况。\n2、资产很重要，价格更重要。\n3 承认自己是无知派，也懒得预测市场。",
+      "likes_count": 0,
+      "rewards_count": 0,
+      "sticky": false
+    }
+  ],
+  "likes_count": 134,
+  "tourist_likes_count": 0,
+  "likes_detail": {
+    "emojis": [
+      {
+        "emoji_key": "[强]",
+        "likes_count": 134
+      }
+    ]
+  },
+  "rewards_count": 0,
+  "comments_count": 11,
+  "reading_count": 1,
+  "readers_count": 13030,
+  "digested": true,
+  "sticky": false,
+  "create_time": "2026-04-06T09:15:55.529+0800",
+  "user_specific": {
+    "liked": false,
+    "liked_emojis": [],
+    "subscribed": false
+  },
+  "title": "更富有，更睿智，更快乐 5：基..."
+}

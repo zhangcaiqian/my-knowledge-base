@@ -1,0 +1,266 @@
+{
+  "topic_id": 14422281288182212,
+  "topic_uid": "14422281288182212",
+  "group": {
+    "group_id": 454548818428,
+    "name": "老齐的读书圈",
+    "type": "pay",
+    "background_url": "https://images.zsxq.com/FhKUKP_fcDl7sOWROzpjFJ4GlmJ-?e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:AVZmzwndqjY51Qn5rb0k6pZBT0M="
+  },
+  "type": "talk",
+  "talk": {
+    "owner": {
+      "user_id": 48588884141828,
+      "name": "老齐的读书圈",
+      "alias": "老齐的读书圈",
+      "avatar_url": "https://images.zsxq.com/Fv0R7lwphGFfMBtlT-Af0AxQN_oy?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:-V_dYeQ3MSV4eCGg4T6wrPxtKFE=",
+      "description": "苹果用户续费问题的，请看置顶3！！这里不回答读书无关的问题！问投资请到粉丝群！",
+      "location": "海南"
+    },
+    "text": "更富有、更睿智、更快乐 9：不输当赢",
+    "files": [
+      {
+        "file_id": 812241541518142,
+        "name": "更富有、更睿智、更快乐 9.docx",
+        "hash": "06fb9ba4fcd820bf343d500088754a3883d91b7ec49e4e5272b702f5aa21d245",
+        "size": 18855,
+        "duration": 0,
+        "download_count": 689,
+        "create_time": "2026-04-10T10:07:18.306+0800"
+      },
+      {
+        "file_id": 585548248285814,
+        "name": "更富有、更睿智、更快乐 9.mp3",
+        "hash": "e9c022508f776a04f860dbb939cec7d9fb7d1e6ff2073bd535e432a77ffad7c6",
+        "size": 13053195,
+        "duration": 543,
+        "download_count": 4824,
+        "create_time": "2026-04-10T10:07:25.313+0800"
+      }
+    ]
+  },
+  "latest_likes": [
+    {
+      "create_time": "2026-04-11T20:38:13.026+0800",
+      "owner": {
+        "user_id": 51511452512524,
+        "name": "荷塘月色",
+        "avatar_url": "https://images.zsxq.com/Fg3-PUExnjkB_0DAV1h6E8PB1L8G?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:ZA0AjtsbOyElrpQ36pKqvf8eDrs="
+      }
+    },
+    {
+      "create_time": "2026-04-11T17:22:27.248+0800",
+      "owner": {
+        "user_id": 585544452515824,
+        "name": "元石",
+        "avatar_url": "https://images.zsxq.com/FkBwWwu4qjXz9U7pgE_aDn8DlVjN?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:viVUTwhUW2E64naCqZgzGJ8W2Ig="
+      }
+    },
+    {
+      "create_time": "2026-04-11T15:20:12.522+0800",
+      "owner": {
+        "user_id": 844185842848182,
+        "name": "Louis",
+        "avatar_url": "https://images.zsxq.com/FnQENJ2eluo-5v487vsLSAZnEQsI?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:LIZF-A4hf0ZBUYJqCA05gyHjGnQ="
+      }
+    },
+    {
+      "create_time": "2026-04-11T14:36:42.332+0800",
+      "owner": {
+        "user_id": 88442284141222,
+        "name": "心平气和",
+        "avatar_url": "https://images.zsxq.com/FsF72B669--zNiIDIM-13rqZd5D2?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:HukM2zYtUmfiRmMR5t6QTGAfS24="
+      }
+    },
+    {
+      "create_time": "2026-04-11T13:51:50.749+0800",
+      "owner": {
+        "user_id": 582282111141544,
+        "name": "李尚往来",
+        "alias": "李尚往来",
+        "avatar_url": "https://images.zsxq.com/Fh6QQpP5REPWpFT2_J4DHcV7_YID?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:aBTlOOWfyTNGexBwfF9QP1rUC2U="
+      }
+    },
+    {
+      "create_time": "2026-04-11T12:35:33.483+0800",
+      "owner": {
+        "user_id": 51511282814884,
+        "name": "Lv、红薯哥",
+        "avatar_url": "https://images.zsxq.com/FsHxyEAmWoYjPnzDAQYkqXsarz7-?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:ArbzfzCQGTHNaEpZm4Z0QZGo8nA="
+      }
+    },
+    {
+      "create_time": "2026-04-11T12:32:28.845+0800",
+      "owner": {
+        "user_id": 111182544485812,
+        "name": "star",
+        "avatar_url": "https://images.zsxq.com/FoaemHuWExDlTS8L1hPqklEMOMY2?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:JnLiizwdVVOo7FsGZwo1eG5yNWE="
+      }
+    },
+    {
+      "create_time": "2026-04-11T12:26:45.825+0800",
+      "owner": {
+        "user_id": 48588528851528,
+        "name": "梁红兵",
+        "avatar_url": "https://images.zsxq.com/FsDTNTs5SQOSeaHv6bFX4Wxj2BY6?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:ZDP-fFkLbztRJ0Zlbvf7WP_QZvQ="
+      }
+    },
+    {
+      "create_time": "2026-04-11T11:15:10.995+0800",
+      "owner": {
+        "user_id": 15512485512522,
+        "name": "乌龟马拉松",
+        "alias": "乌龟马拉松",
+        "avatar_url": "https://images.zsxq.com/FrftRYQBqYDlLIhQLCLQ69myssS8?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:Qdms9WBuhJtAuLCB3uUJRGjxM80="
+      }
+    },
+    {
+      "create_time": "2026-04-11T09:54:03.841+0800",
+      "owner": {
+        "user_id": 841148418855282,
+        "name": "🎖齐俊杰优惠返现💹",
+        "alias": "🎖🈶齐老师优惠返现💹",
+        "avatar_url": "https://images.zsxq.com/Fpyiu3aGnuBx25OpBt4YQsFcpruF?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:oaR5H1F5bXG_OgCEJYM6gw90zfE="
+      }
+    }
+  ],
+  "show_comments": [
+    {
+      "comment_id": 5125484151282584,
+      "create_time": "2026-04-10T11:08:03.252+0800",
+      "owner": {
+        "user_id": 51145448524184,
+        "name": "王哥",
+        "avatar_url": "https://images.zsxq.com/FqJxYtitXT84UZQmocBgxJm4R2E-?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:JlpJLqftuw52HlWR9az8fiOWq8g=",
+        "location": "河北"
+      },
+      "text": "1、 麦克伦南，尊重不确定性，脆弱性，黑天鹅。减少负债。注重稳定性，对抗冲击。谨防过度自信，防范未来与近期相似的想法。留足安全边际。\n2、格林布拉特，资本回报率，净收益率，简单有效。\n3、丹诺夫，不太担心估值，收益增长股价就涨",
+      "likes_count": 1,
+      "rewards_count": 0,
+      "sticky": false
+    },
+    {
+      "comment_id": 4845212858122118,
+      "create_time": "2026-04-10T12:02:40.247+0800",
+      "owner": {
+        "user_id": 28248542145441,
+        "name": "🈶齐俊杰优惠返现🔶",
+        "alias": "🔶🈶齐老师粉丝群优惠返现👈",
+        "avatar_url": "https://images.zsxq.com/FtzGhnia_Yh1SDCqWgSmH-IwFx2T?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:AqYNLWKaVa7C_U5rFznOPW40Ifk=",
+        "location": "河南"
+      },
+      "text": "学无止境，终身学习，越努力，越幸运！",
+      "likes_count": 0,
+      "rewards_count": 0,
+      "sticky": false
+    },
+    {
+      "comment_id": 4845212858121448,
+      "create_time": "2026-04-10T12:02:43.946+0800",
+      "owner": {
+        "user_id": 28248542145441,
+        "name": "🈶齐俊杰优惠返现🔶",
+        "alias": "🔶🈶齐老师粉丝群优惠返现👈",
+        "avatar_url": "https://images.zsxq.com/FtzGhnia_Yh1SDCqWgSmH-IwFx2T?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:AqYNLWKaVa7C_U5rFznOPW40Ifk=",
+        "location": "河南"
+      },
+      "text": "🌹🌹🌹",
+      "likes_count": 0,
+      "rewards_count": 0,
+      "sticky": false
+    },
+    {
+      "comment_id": 1524181485512112,
+      "create_time": "2026-04-11T07:10:22.094+0800",
+      "owner": {
+        "user_id": 241511122555851,
+        "name": "助强",
+        "avatar_url": "https://images.zsxq.com/FtcgD73dTnNEpq88RvVVsQD29jZz?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:ZnJO91LPKTLMcrPW_akNfeeyMEY=",
+        "location": "重庆"
+      },
+      "text": "投资股票，就四个字，防守反击。",
+      "likes_count": 0,
+      "rewards_count": 0,
+      "sticky": false
+    },
+    {
+      "comment_id": 4845212518828228,
+      "create_time": "2026-04-11T07:14:21.244+0800",
+      "owner": {
+        "user_id": 218588444155241,
+        "name": "憧遥@珠宝加工订制",
+        "avatar_url": "https://images.zsxq.com/FjoC4mH-zGcWIGcGGHqvImMK4TuN?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:gzWFzx5iezqI8AHoYtA1X3Oetqc=",
+        "location": "山东"
+      },
+      "text": "蜻蜓FM上看不到齐老师的更新了",
+      "likes_count": 0,
+      "rewards_count": 0,
+      "sticky": false
+    },
+    {
+      "comment_id": 2852414218441141,
+      "create_time": "2026-04-11T09:07:24.921+0800",
+      "owner": {
+        "user_id": 841848418255152,
+        "name": "青苔",
+        "avatar_url": "https://images.zsxq.com/FurszxX4f3NNMW4XuBd7L2VSefpx?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:kVeS87o-S74mW5e1LrMgQFz7bqs=",
+        "location": "广西"
+      },
+      "text": "930949这个指数的跟踪基金，居然被清盘了…看来这几年真的是表现不好",
+      "likes_count": 0,
+      "rewards_count": 0,
+      "sticky": false
+    },
+    {
+      "comment_id": 8852414454154852,
+      "create_time": "2026-04-11T21:21:58.808+0800",
+      "owner": {
+        "user_id": 414842825225228,
+        "name": "早日成为富婆丫",
+        "avatar_url": "https://images.zsxq.com/Fo8bL5zTA5JzJs3Y5BIYUmieEy8q?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:yVSHCWXJs1mjUaEDkiera4CD-7k=",
+        "location": "河北"
+      },
+      "text": "麦克伦南接替了埃维拉德他把自己建立投资组合的过程比喻成花园里修剪花草，投资经理就是园丁，把虫害和枯萎的藤蔓剔除掉，然后他们自己就能健康升值。从1979年埃维拉德执掌该基金以来长期年化高达12.46%，本金翻了130倍。投资理念就是四个字不输当赢，没有绝对机会的时候，市场没有恐慌的时候，尽量保持均衡，保持坚韧，留有后手。作者总结了5调保持韧性的规则：1.尊重不确定性，未来会有很多黑天鹅，有很有意想不到的东西，世界是脆弱的，你的组合就不能拉太满，越是在一个方向上偏离，就越脆弱。2.消减债务，避免使用杠杆，一旦加了杠杆时间就不再是你的朋友，你的脆弱就暴露无遗。3.不应该只注重短期收益，更加要注重稳定性和对抗冲击，避免遭遇重大损失，日常守住了，机会来临的时候就能得到奖赏。4.谨防过度自信和自满，特别要防范未来会与近期相似的想法。5.敏锐的意识到我们面临的风险，留足安全边际。讲到格林布拉特，他创造了神奇的公式，写了股市稳赚这本书。他创立戈坦资本的时候规模只有700万，过去20年里，收益高达40%。10年后他们两把钱退给投资者后开始管理自己的财富。1996还在哥伦比亚大学商学院讲课，教价值与特殊事件投资，他告诉学生这技能非常有用，要求大家学会以后回馈社会。近些年他们又开始管理外部资金且做了策略升级，他不反对赚钱，但这不是他真正的动力，他们是为了享受胜利的感觉。破解投资难题是他的乐趣。他最大的天赋就是化繁为简，他认为所有成功的秘诀就在于弄清楚什么股票值得投资并以便宜的价格买入。化繁为简很重要，根据奥卡姆剃刀原来最简单的方法往往是最有效的。跟乔布斯设计苹果原理一样。都是极简美学。投资界中约翰伯格就是一个极简主义者，他的投资逻辑非常简单就是靠低成本指数基金，打败主动基金。后来先锋基金公司靠着这个简单的逻辑管理着6.2万亿的资产。上学的时候老师经常奖励那些会解复杂的难题的学生，很多孩子们带着这样的思维走向社会。但是仔细研究商业的世界就能发现，核心竞争力恰恰来自于极简单的商业模式。巴菲特也说简单的行为更加有效。巴菲特提出4个简单的逻辑，1.了解行业2.具有长期竞争力3.德才兼备的经营者4.吸引人的价格。格林布拉特逻辑也很简单就定义了2个指标1.用ROC来衡量优秀的公司。ROC就是资本收益率是息税前收益也叫ebit,/投入资本来形容每一块钱被运用于公司经营的资本就能赚取更多的钱2.用净收益率来定义便宜，就是息税前收益/企业总价值。企业总价值=总市值+总债务-超额现金+优先股+少数权益，这是一个企业并购市场上常用的公式，就是我要完全收购你公司的时候支付的对价，不加任何的估值倍数。先把好公司都通过ROC选出来，形成一个有效的股票池，然后用收益率排名选出前30名构建组合。就得到了 一个超级无敌的业绩。930949中证价值回报量化策略指数，是用格林布拉特公式做出来的，虽然近5-10年表现不",
+      "likes_count": 0,
+      "rewards_count": 0,
+      "sticky": false
+    },
+    {
+      "comment_id": 1524181121821422,
+      "create_time": "2026-04-11T21:22:25.838+0800",
+      "owner": {
+        "user_id": 414842825225228,
+        "name": "早日成为富婆丫",
+        "avatar_url": "https://images.zsxq.com/Fo8bL5zTA5JzJs3Y5BIYUmieEy8q?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:yVSHCWXJs1mjUaEDkiera4CD-7k=",
+        "location": "河北"
+      },
+      "text": "因为逻辑简单清晰，就是在好公司里选便宜的早晚有用。另一个投资经理是威尔丹诺夫，管理着2000亿美元资产，这么庞大的规模想要跑赢大盘很难但是他还是实现了，他的理念教股票跟着收益走，他就是找到未来5年内将要发展壮大的企业。他的逻辑就是未来如果5年内，每股收益翻倍，那么他的股价大概也能翻倍。他不担心估值，认为好东西有贵的道理。他持有伯克希尔，微软，谷歌母公司，亚马逊，脸书。他举例说他当年投资星巴克，当时意大利有20万家咖啡馆，星巴克店面只有139个，25万美元能开一家，可以创造15万美元利润，投资回报率高达60%，只要不断的开店就可以持续高速增长，星巴克上市的时候，只有2.5亿美元，如今1200亿美元。星巴克成了丹诺夫的重仓股，在绝对的增长面前，估值不是问题，只要收益增长股价就能持续创新高。他的朋友，比尔米勒也是最伟大的基金经理也在简化投资流程，他认为你决定企业的发展只有三四个关键问题，其余都是噪音。投资股票跟拥有一家企业一样，市场每天给你提供一个报价，这个报价会根据人民的风险偏好发生波动哦，但是你该怎么经营还怎么经营，你可能听到一个特别低的报价借机收购几个同哦行，在特别高的报价后选择把企业卖给他，绝大多数都不去理会。",
+      "likes_count": 0,
+      "rewards_count": 0,
+      "sticky": false
+    }
+  ],
+  "likes_count": 103,
+  "tourist_likes_count": 0,
+  "likes_detail": {
+    "emojis": [
+      {
+        "emoji_key": "[强]",
+        "likes_count": 103
+      }
+    ]
+  },
+  "rewards_count": 0,
+  "comments_count": 8,
+  "reading_count": 1,
+  "readers_count": 7839,
+  "digested": true,
+  "sticky": false,
+  "create_time": "2026-04-10T10:07:26.510+0800",
+  "user_specific": {
+    "liked": false,
+    "liked_emojis": [],
+    "subscribed": false
+  },
+  "title": "更富有、更睿智、更快乐 9：不..."
+}

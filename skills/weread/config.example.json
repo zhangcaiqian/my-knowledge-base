@@ -1,0 +1,4 @@
+{
+  "weread_cookie": "wr_vid=xxx; wr_skey=xxx; wr_rt=xxx; wr_pf=xxx",
+  "summary_template": "## 基本信息\n\n- **书名**：{title}\n- **作者**：{author}\n- **阅读时间**：{read_time}\n- **评分**：{rating}/100\n\n## 一句话总结\n\n\n\n## 核心观点\n\n1. \n2. \n3. \n\n## 关键收获\n\n### 认知升级\n\n\n\n### 行动启发\n\n\n\n## 与其他知识的关联\n\n\n\n## 个人思考\n\n\n"
+}

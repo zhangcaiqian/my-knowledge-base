@@ -1,0 +1,279 @@
+{
+  "topic_id": 82811445212188542,
+  "topic_uid": "82811445212188542",
+  "group": {
+    "group_id": 454548818428,
+    "name": "老齐的读书圈",
+    "type": "pay",
+    "background_url": "https://images.zsxq.com/FhKUKP_fcDl7sOWROzpjFJ4GlmJ-?e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:AVZmzwndqjY51Qn5rb0k6pZBT0M="
+  },
+  "type": "talk",
+  "talk": {
+    "owner": {
+      "user_id": 48588884141828,
+      "name": "老齐的读书圈",
+      "alias": "老齐的读书圈",
+      "avatar_url": "https://images.zsxq.com/Fv0R7lwphGFfMBtlT-Af0AxQN_oy?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:-V_dYeQ3MSV4eCGg4T6wrPxtKFE=",
+      "description": "苹果用户续费问题的，请看置顶3！！这里不回答读书无关的问题！问投资请到粉丝群！",
+      "location": "海南"
+    },
+    "text": "刚性泡沫 16：如何看待卖空",
+    "files": [
+      {
+        "file_id": 212242442224881,
+        "name": "刚性泡沫 16.docx",
+        "hash": "80478c7b5b8d523ef811b53b30eceb02812f58eb1169a2e7ec1875d2e71a557a",
+        "size": 18663,
+        "duration": 0,
+        "download_count": 617,
+        "create_time": "2026-04-01T10:02:42.602+0800"
+      },
+      {
+        "file_id": 415525225551888,
+        "name": "刚性泡沫 16.mp3",
+        "hash": "4e5c57b03cb73060b42a706188c5548d2a7e2846ba74cc7cc8759ede5518ea36",
+        "size": 13065585,
+        "duration": 544,
+        "download_count": 4900,
+        "create_time": "2026-04-01T10:02:50.053+0800"
+      }
+    ]
+  },
+  "latest_likes": [
+    {
+      "create_time": "2026-04-11T11:13:11.643+0800",
+      "owner": {
+        "user_id": 28288211218141,
+        "name": "小羽毛",
+        "alias": "小羽毛",
+        "avatar_url": "https://images.zsxq.com/FrcTLpMSEvk4YOaxOuGdSb-CYQlx?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:mns8_G5qld-jMxKVwZ9YEvjSAxM="
+      }
+    },
+    {
+      "create_time": "2026-04-10T15:24:03.255+0800",
+      "owner": {
+        "user_id": 28812118481141,
+        "name": "风再起时j s",
+        "alias": "风在起时",
+        "avatar_url": "https://images.zsxq.com/FvMJyr_GpoIqAx1uhIIoXPUZVTIz?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:y1LAAuRLS2sswJYwUI9F4Ovf3AM="
+      }
+    },
+    {
+      "create_time": "2026-04-07T13:54:27.900+0800",
+      "owner": {
+        "user_id": 88282488512882,
+        "name": "尹",
+        "avatar_url": "https://images.zsxq.com/FotKjy7x8FhLU68zk-vjLZKRfs6r?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:S-9DcyFrwiHeh4u_lO0CP8Uj_EA="
+      }
+    },
+    {
+      "create_time": "2026-04-07T10:40:53.907+0800",
+      "owner": {
+        "user_id": 244118555815811,
+        "name": "旎🍀🍀🍀",
+        "avatar_url": "https://images.zsxq.com/FkumcJJ4d6bPn7PKBJRrSq8gGyoa?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:T9fT9kbMfQjgYZWjHFI5InmQuuE="
+      }
+    },
+    {
+      "create_time": "2026-04-06T19:09:33.417+0800",
+      "owner": {
+        "user_id": 88288515188822,
+        "name": "哈格利特",
+        "alias": "新",
+        "avatar_url": "https://images.zsxq.com/FpJ-gP9067mnrXOin4wcFZ2U4qh7?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:X9PjYG8HVsSYqk6ubD6QJCDhd-Y="
+      }
+    },
+    {
+      "create_time": "2026-04-06T15:12:24.301+0800",
+      "owner": {
+        "user_id": 88441858114252,
+        "name": "Lucy",
+        "avatar_url": "https://images.zsxq.com/Fi_4FlnUtbkFztxFNBs1fG3atwXZ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:8-elLoT5KBQy1N_ZlSNWHbYvdBM="
+      }
+    },
+    {
+      "create_time": "2026-04-06T08:39:29.425+0800",
+      "owner": {
+        "user_id": 48588418421458,
+        "name": "幸运",
+        "avatar_url": "https://images.zsxq.com/Fqglc_pSTxSrpuKv0vAKOVaJeniI?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:FhuUb8-N-d3u3f1RpbAoOrQHCMg="
+      }
+    },
+    {
+      "create_time": "2026-04-05T20:02:13.974+0800",
+      "owner": {
+        "user_id": 581284241258224,
+        "name": "Kathy",
+        "avatar_url": "https://images.zsxq.com/FqjTByS9_pONite6fg-xri1af7vY?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:BtLxbx3TQVXODIRC5AeIPg0d9pY="
+      }
+    },
+    {
+      "create_time": "2026-04-04T16:53:39.304+0800",
+      "owner": {
+        "user_id": 815584218245412,
+        "name": "奇点",
+        "avatar_url": "https://images.zsxq.com/FsdNr1B94qrdzEXwGT9zwK7yZIzD?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:67mg8k3ZvOYUxFa6d1M8vM6n-3Y="
+      }
+    },
+    {
+      "create_time": "2026-04-04T09:54:50.439+0800",
+      "owner": {
+        "user_id": 215852855214551,
+        "name": "旅行",
+        "avatar_url": "https://images.zsxq.com/Ft1NYEGPIQ6BmSGJvF6fmXFHcpaS?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:9VuIKRndTU8-62dQ1PkW_bR_vPY="
+      }
+    }
+  ],
+  "show_comments": [
+    {
+      "comment_id": 1524185811128422,
+      "create_time": "2026-04-01T10:33:59.714+0800",
+      "owner": {
+        "user_id": 51511282421254,
+        "name": "飞",
+        "avatar_url": "https://images.zsxq.com/FgGnDp9uPZDbXL717jwQQZeOsJho?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:76BgQFg_gIpA_nhNi-a9v1MwFe8=",
+        "location": "山东"
+      },
+      "text": "好书，真的好",
+      "likes_count": 1,
+      "rewards_count": 0,
+      "sticky": false
+    },
+    {
+      "comment_id": 2852418141545841,
+      "create_time": "2026-04-01T11:00:13.944+0800",
+      "owner": {
+        "user_id": 51511128814254,
+        "name": "邓普顿",
+        "avatar_url": "https://images.zsxq.com/FkxEkO0W5bTViwpSVSLvbXAE_twX?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:vqlI0LLmfxWByjg5MGiy2A4dNz8=",
+        "location": "江苏"
+      },
+      "text": "这本书一一验证了，这些年的一些事情！！p2p，股市，楼市，土地财政，等等，可以多读几遍！",
+      "likes_count": 0,
+      "rewards_count": 0,
+      "sticky": false,
+      "replies_count": 2
+    },
+    {
+      "comment_id": 1524185818455842,
+      "parent_comment_id": 2852418141545841,
+      "create_time": "2026-04-01T11:27:48.657+0800",
+      "owner": {
+        "user_id": 51588842444854,
+        "name": "京淼淼",
+        "avatar_url": "https://images.zsxq.com/Foo-vnptHIrYwU-MVwFRJq9gdmbI?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:ZV9PMVBi4qnQGTTNJGbhyhbFRlE=",
+        "location": "浙江"
+      },
+      "text": "是的！特别是老齐的解读总结，放电影似的！",
+      "likes_count": 0,
+      "rewards_count": 0,
+      "sticky": false,
+      "repliee": {
+        "user_id": 51511128814254,
+        "name": "邓普顿",
+        "avatar_url": "https://images.zsxq.com/FkxEkO0W5bTViwpSVSLvbXAE_twX?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:vqlI0LLmfxWByjg5MGiy2A4dNz8="
+      }
+    },
+    {
+      "comment_id": 4845218121582848,
+      "create_time": "2026-04-01T11:28:39.079+0800",
+      "owner": {
+        "user_id": 28248542145441,
+        "name": "🈶齐俊杰优惠返现🔶",
+        "alias": "🔶🈶齐老师粉丝群优惠返现👈",
+        "avatar_url": "https://images.zsxq.com/FtzGhnia_Yh1SDCqWgSmH-IwFx2T?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:AqYNLWKaVa7C_U5rFznOPW40Ifk=",
+        "location": "河南"
+      },
+      "text": "学无止境，终身学习，越努力，越幸运！",
+      "likes_count": 0,
+      "rewards_count": 0,
+      "sticky": false
+    },
+    {
+      "comment_id": 4845218121582858,
+      "create_time": "2026-04-01T11:28:43.004+0800",
+      "owner": {
+        "user_id": 28248542145441,
+        "name": "🈶齐俊杰优惠返现🔶",
+        "alias": "🔶🈶齐老师粉丝群优惠返现👈",
+        "avatar_url": "https://images.zsxq.com/FtzGhnia_Yh1SDCqWgSmH-IwFx2T?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:AqYNLWKaVa7C_U5rFznOPW40Ifk=",
+        "location": "河南"
+      },
+      "text": "🌹🌹🌹",
+      "likes_count": 0,
+      "rewards_count": 0,
+      "sticky": false
+    },
+    {
+      "comment_id": 1524185884415482,
+      "create_time": "2026-04-01T13:42:37.009+0800",
+      "owner": {
+        "user_id": 118824552244522,
+        "name": "同人于野",
+        "avatar_url": "https://images.zsxq.com/FpWw7tXbXp5rkQdk-ubRcv806TTh?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:K0ldeW_PN-uXSqitwguCOXimPSg=",
+        "location": "山东"
+      },
+      "text": "期待合集",
+      "likes_count": 0,
+      "rewards_count": 0,
+      "sticky": false
+    },
+    {
+      "comment_id": 4845218112851118,
+      "parent_comment_id": 2852418141545841,
+      "create_time": "2026-04-01T14:47:57.960+0800",
+      "owner": {
+        "user_id": 51511128814254,
+        "name": "邓普顿",
+        "avatar_url": "https://images.zsxq.com/FkxEkO0W5bTViwpSVSLvbXAE_twX?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:vqlI0LLmfxWByjg5MGiy2A4dNz8=",
+        "location": "江苏"
+      },
+      "text": "对的！非常好的一本书！老齐解读的也非常完美！",
+      "likes_count": 0,
+      "rewards_count": 0,
+      "sticky": false,
+      "repliee": {
+        "user_id": 51588842444854,
+        "name": "京淼淼",
+        "avatar_url": "https://images.zsxq.com/Foo-vnptHIrYwU-MVwFRJq9gdmbI?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:ZV9PMVBi4qnQGTTNJGbhyhbFRlE="
+      }
+    },
+    {
+      "comment_id": 8852418114248212,
+      "create_time": "2026-04-01T15:01:31.687+0800",
+      "owner": {
+        "user_id": 51145448524184,
+        "name": "王哥",
+        "avatar_url": "https://images.zsxq.com/FqJxYtitXT84UZQmocBgxJm4R2E-?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:JlpJLqftuw52HlWR9az8fiOWq8g=",
+        "location": "河北"
+      },
+      "text": "做空者帮助了悲观者表达意见，并且帮助市场更全面的考虑所有信息。做空者承担了比买入者更大的风险和压力",
+      "likes_count": 0,
+      "rewards_count": 0,
+      "sticky": false
+    }
+  ],
+  "likes_count": 121,
+  "tourist_likes_count": 0,
+  "likes_detail": {
+    "emojis": [
+      {
+        "emoji_key": "[强]",
+        "likes_count": 121
+      }
+    ]
+  },
+  "rewards_count": 0,
+  "comments_count": 12,
+  "reading_count": 1,
+  "readers_count": 13209,
+  "digested": true,
+  "sticky": false,
+  "create_time": "2026-04-01T10:02:50.793+0800",
+  "user_specific": {
+    "liked": false,
+    "liked_emojis": [],
+    "subscribed": false
+  },
+  "title": "刚性泡沫 16：如何看待卖空"
+}

@@ -1,0 +1,288 @@
+{
+  "topic_id": 82255518552428452,
+  "topic_uid": "82255518552428452",
+  "group": {
+    "group_id": 454548818428,
+    "name": "老齐的读书圈",
+    "type": "pay",
+    "background_url": "https://images.zsxq.com/FhKUKP_fcDl7sOWROzpjFJ4GlmJ-?e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:AVZmzwndqjY51Qn5rb0k6pZBT0M="
+  },
+  "type": "talk",
+  "talk": {
+    "owner": {
+      "user_id": 48588884141828,
+      "name": "老齐的读书圈",
+      "alias": "老齐的读书圈",
+      "avatar_url": "https://images.zsxq.com/Fv0R7lwphGFfMBtlT-Af0AxQN_oy?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:-V_dYeQ3MSV4eCGg4T6wrPxtKFE=",
+      "description": "苹果用户续费问题的，请看置顶3！！这里不回答读书无关的问题！问投资请到粉丝群！",
+      "location": "海南"
+    },
+    "text": "更富有、更睿智、更快乐 2：短期亏损是投资必须要承担的成本",
+    "images": [
+      {
+        "image_id": 4844128428581418,
+        "type": "png",
+        "thumbnail": {
+          "url": "https://images.zsxq.com/FlO6H87TNKrh4K9ZZCBOEAGmELPY?imageMogr2/auto-orient/thumbnail/750x/format/jpg/blur/1x0/quality/75&e=1780243199&s=jytvvjmmvtjvmyv&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:RuHWGziYK6WidYnrcp7TSUhHRBs=",
+          "width": 750,
+          "height": 553
+        },
+        "large": {
+          "url": "https://images.zsxq.com/FlO6H87TNKrh4K9ZZCBOEAGmELPY?imageMogr2/auto-orient/thumbnail/800x/format/jpg/blur/1x0/quality/75&e=1780243199&s=jytvvjmmvtjvmyv&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:Coq7iBymjhDRkUBoGNzWjwDqsV8=",
+          "width": 800,
+          "height": 590
+        },
+        "original": {
+          "url": "https://images.zsxq.com/FlO6H87TNKrh4K9ZZCBOEAGmELPY?imageMogr2/auto-orient/quality/100!/ignore-error/1&e=1780243199&s=jytvvjmmvtjvmyv&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:kJBuwn1oMLReyPGEcGhiFURl7po=",
+          "width": 1320,
+          "height": 974,
+          "size": 949662
+        }
+      }
+    ],
+    "files": [
+      {
+        "file_id": 212244541812851,
+        "name": "更富有、更睿智、更快乐 2.docx",
+        "hash": "1d8855bb7ddfcd724bddf8eb93a22b192439dc31ca68fe4614a5dd9b4e073267",
+        "size": 18634,
+        "duration": 0,
+        "download_count": 972,
+        "create_time": "2026-04-03T10:05:23.895+0800"
+      },
+      {
+        "file_id": 812244541812842,
+        "name": "更富有、更睿智、更快乐 2.mp3",
+        "hash": "93b9724e9a4e4c549395ff1104331c0c86105745b71d0cab56142ef5c642f812",
+        "size": 13414893,
+        "duration": 558,
+        "download_count": 11601,
+        "create_time": "2026-04-03T10:05:39.697+0800"
+      }
+    ]
+  },
+  "latest_likes": [
+    {
+      "create_time": "2026-04-10T18:20:26.704+0800",
+      "owner": {
+        "user_id": 48588528851528,
+        "name": "梁红兵",
+        "avatar_url": "https://images.zsxq.com/FsDTNTs5SQOSeaHv6bFX4Wxj2BY6?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:ZDP-fFkLbztRJ0Zlbvf7WP_QZvQ="
+      }
+    },
+    {
+      "create_time": "2026-04-09T20:27:12.071+0800",
+      "owner": {
+        "user_id": 51511285284254,
+        "name": "积水成渊",
+        "alias": "积水成渊",
+        "avatar_url": "https://images.zsxq.com/FhPEz0E7TOPR2hBB7_FowKaZ6guM?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:t-emp-s41E-yqoy3nndowjDg8rM="
+      }
+    },
+    {
+      "create_time": "2026-04-08T08:11:54.791+0800",
+      "owner": {
+        "user_id": 841148418855282,
+        "name": "🎖齐俊杰优惠返现💹",
+        "alias": "🎖🈶齐老师优惠返现💹",
+        "avatar_url": "https://images.zsxq.com/Fpyiu3aGnuBx25OpBt4YQsFcpruF?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:oaR5H1F5bXG_OgCEJYM6gw90zfE="
+      }
+    },
+    {
+      "create_time": "2026-04-07T21:36:25.819+0800",
+      "owner": {
+        "user_id": 414844584552128,
+        "name": "积源和",
+        "avatar_url": "https://images.zsxq.com/FrpBGPMPUIUtVlIHKnCI5b-kQFD-?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:RrqCZjkpvywdSXKyav6kZ1Uiaqs="
+      }
+    },
+    {
+      "create_time": "2026-04-07T16:23:44.697+0800",
+      "owner": {
+        "user_id": 48588248558148,
+        "name": "浪淘沙",
+        "avatar_url": "https://images.zsxq.com/Fu0jKiq-hN2R_FlzdV-uren0cco-?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:9H5Vm7bYg9eCjsfu4Y-mDdBEmP0="
+      }
+    },
+    {
+      "create_time": "2026-04-07T14:51:09.907+0800",
+      "owner": {
+        "user_id": 244411525445251,
+        "name": "cqy",
+        "avatar_url": "https://images.zsxq.com/FqCM1jMpSQFL2ifMRiSMik-lbD68?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:7oVH7mqjPiAsQBaj81mTZTxvtnc="
+      }
+    },
+    {
+      "create_time": "2026-04-07T14:19:31.078+0800",
+      "owner": {
+        "user_id": 88282488512882,
+        "name": "尹",
+        "avatar_url": "https://images.zsxq.com/FotKjy7x8FhLU68zk-vjLZKRfs6r?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:S-9DcyFrwiHeh4u_lO0CP8Uj_EA="
+      }
+    },
+    {
+      "create_time": "2026-04-07T07:53:26.346+0800",
+      "owner": {
+        "user_id": 182242412448422,
+        "name": "飞。。。",
+        "avatar_url": "https://images.zsxq.com/Fhk9J2QLoIHNF_hcJNn8SerjsujB?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:IW2EeJuau6mkAyIskcZibV8uZvo="
+      }
+    },
+    {
+      "create_time": "2026-04-06T19:48:07.198+0800",
+      "owner": {
+        "user_id": 88288515188822,
+        "name": "哈格利特",
+        "alias": "新",
+        "avatar_url": "https://images.zsxq.com/FpJ-gP9067mnrXOin4wcFZ2U4qh7?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:X9PjYG8HVsSYqk6ubD6QJCDhd-Y="
+      }
+    },
+    {
+      "create_time": "2026-04-06T16:06:48.652+0800",
+      "owner": {
+        "user_id": 88441858114252,
+        "name": "Lucy",
+        "avatar_url": "https://images.zsxq.com/Fi_4FlnUtbkFztxFNBs1fG3atwXZ?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:8-elLoT5KBQy1N_ZlSNWHbYvdBM="
+      }
+    }
+  ],
+  "show_comments": [
+    {
+      "comment_id": 8852412858141242,
+      "create_time": "2026-04-03T10:29:43.366+0800",
+      "owner": {
+        "user_id": 28248542145441,
+        "name": "🈶齐俊杰优惠返现🔶",
+        "alias": "🔶🈶齐老师粉丝群优惠返现👈",
+        "avatar_url": "https://images.zsxq.com/FtzGhnia_Yh1SDCqWgSmH-IwFx2T?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:AqYNLWKaVa7C_U5rFznOPW40Ifk=",
+        "location": "河南"
+      },
+      "text": "学无止境，终身学习，越努力，越幸运！",
+      "likes_count": 1,
+      "rewards_count": 0,
+      "sticky": false
+    },
+    {
+      "comment_id": 8852412858141452,
+      "create_time": "2026-04-03T10:29:46.346+0800",
+      "owner": {
+        "user_id": 28248542145441,
+        "name": "🈶齐俊杰优惠返现🔶",
+        "alias": "🔶🈶齐老师粉丝群优惠返现👈",
+        "avatar_url": "https://images.zsxq.com/FtzGhnia_Yh1SDCqWgSmH-IwFx2T?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:AqYNLWKaVa7C_U5rFznOPW40Ifk=",
+        "location": "河南"
+      },
+      "text": "🌹🌹🌹",
+      "likes_count": 0,
+      "rewards_count": 0,
+      "sticky": false
+    },
+    {
+      "comment_id": 1524184521452852,
+      "create_time": "2026-04-03T12:12:25.522+0800",
+      "owner": {
+        "user_id": 51511128814254,
+        "name": "邓普顿",
+        "avatar_url": "https://images.zsxq.com/FkxEkO0W5bTViwpSVSLvbXAE_twX?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:vqlI0LLmfxWByjg5MGiy2A4dNz8=",
+        "location": "江苏"
+      },
+      "text": "[玫瑰][玫瑰]",
+      "likes_count": 0,
+      "rewards_count": 0,
+      "sticky": false
+    },
+    {
+      "comment_id": 1524184555884522,
+      "create_time": "2026-04-03T15:12:32.093+0800",
+      "owner": {
+        "user_id": 51145448524184,
+        "name": "王哥",
+        "avatar_url": "https://images.zsxq.com/FqJxYtitXT84UZQmocBgxJm4R2E-?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:JlpJLqftuw52HlWR9az8fiOWq8g=",
+        "location": "河北"
+      },
+      "text": "1、 帕伯莱，他的成功投资都是在灾难之后出手的。\n2、邓普顿，除非你的所作所为与大多数人不同，否则你不可能取得卓越的成绩。\n3、弗朗索瓦罗森，人类为了生存，基因里更愿意隶属一个部落，就是从众。\n4、戴维斯，伟大的投资者不被他人想法左右。",
+      "likes_count": 0,
+      "rewards_count": 0,
+      "sticky": false
+    },
+    {
+      "comment_id": 2852412882118551,
+      "create_time": "2026-04-03T16:47:21.692+0800",
+      "owner": {
+        "user_id": 185515241824182,
+        "name": "空空",
+        "avatar_url": "https://images.zsxq.com/FpP0WA_lnoHeaeKeALNvYRozrJBo?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:BeWFH-TLoutcpQmqcPYEIRCzsqI=",
+        "location": "广东"
+      },
+      "text": "看了好几遍的一本书",
+      "likes_count": 2,
+      "rewards_count": 0,
+      "sticky": false
+    },
+    {
+      "comment_id": 2852412884825251,
+      "create_time": "2026-04-03T17:31:24.696+0800",
+      "owner": {
+        "user_id": 244185555245841,
+        "name": "一阵风",
+        "avatar_url": "https://images.zsxq.com/FrC37_y60Wu7EFeCAnHjk7KXYekf?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:NRPDaUZBYSNoROStMFlLOLAdZR4=",
+        "location": "内蒙古"
+      },
+      "text": "在A股市场，普通散户常因追涨杀跌、选错股票、缺乏体系而亏损累累。这章内容告诉我们：要远离高提成激进基金，优先选低管理费、风格稳健的产品。从目前A股的发展趋势来看，指数基金能够完美规避散户的核心痛点，是优先配置的产品。\n\n就拿宽基指数来说，长期向上，覆盖优质企业，费率低、风格稳定、不踩雷、不退市，彻底避开高提成基金的激进陷阱。指数基金管理者不以业绩搏提成，不会在牛市疯狂加仓、熊市放任下跌，长期收益更稳健，是散户最可靠的底层配置。\n\n基于此，散户投资者想要构建一套可落地、可坚持的投资体系，核心是以低费率指数基金为底仓，逆向布局、长期持有、独立思考。\n\n具体来说，要坚守三大原则。第一，只做能力圈内投资，指数规则透明、逻辑简单，人人能看懂，符合“不碰复杂企业”的智慧，安全边际充足。第二，人弃我取，暴跌出手，市场恐慌、指数低估时分批买入，不追热点、不随舆论，在别人恐惧时布局，才能获得超额收益。第三，接受短期回撤，长期持有。投资大师都会面临大幅浮亏，指数短期下跌是必要成本，坚定持有才能享受复利，不被情绪左右频繁操作。\n\n同时要保持独立思考，克服人性从众基因影响，暴跌不割肉、上涨不追高，刻意训练逆向思维。不被市场噪音干扰，不羡慕短期暴利，按自己的节奏执行，不轻易改变策略。\n\n投资不是博弈，是体系的胜利。以指数基金为核心，摒弃复杂技巧，降低成本、逆向布局、长期坚守，同样也能在A股实现稳健增值，真正做到更富有、更睿智、更快乐。",
+      "likes_count": 1,
+      "rewards_count": 0,
+      "sticky": false
+    },
+    {
+      "comment_id": 8852412228588812,
+      "create_time": "2026-04-03T20:22:58.499+0800",
+      "owner": {
+        "user_id": 244411228851211,
+        "name": "仰望星空",
+        "avatar_url": "https://images.zsxq.com/Fot7HQVyEsTiwP2Y2umm_Dc8ySWi?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:MHkZl2-IunJ0PqdeXU8WN4E7vKY=",
+        "location": "四川"
+      },
+      "text": "1.帕伯莱总结巴菲特的投资原则，1投资能力圈范围内的公司，2价格远低于价值，留足安全边际。3具有竞争优势，有非凡的管理者。4财务报表简单明了，太难了解的公司，一律略过。帕伯莱说脸皮要厚，要成为模仿者，得放下自尊。帕伯莱的一些成功投资，都是在一些灾难之后出手的，人弃我取。\n2.巴菲特和帕伯莱也没办法预测公司未来的业绩，但是他们能找到那种跌无可跌的公司。只要不犯错误，复利都会让他们变得非常的富有。\n3.帕伯莱：不要试图把真理讲给别人听，不要总想着通过真理说服别人，你自己坚持住就好。\n4.作者总结的5个原则，1是疯狂的效仿，2是与比自己优秀的人为伍，3把生活视为一场游戏，而不是生存竞赛或者你死我活的战斗。4做真实的自己，不做自己不想或者自己认为不适合的事情，5按照自己内心评判标准生活。不要在意其他人的看法。\n5.邓普顿：要想跑赢市场，必须足够勇敢，足够独立，足够奇特。",
+      "likes_count": 1,
+      "rewards_count": 0,
+      "sticky": false
+    },
+    {
+      "comment_id": 4845215521455248,
+      "create_time": "2026-04-04T20:08:23.889+0800",
+      "owner": {
+        "user_id": 51511285244554,
+        "name": "嘿哈老猫",
+        "avatar_url": "https://images.zsxq.com/FpRZj5X-UkEYpRPr27cfCPEUbCuL?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:ULZFPvR_MmmG33EeLUiTzz2lWDA=",
+        "location": "浙江"
+      },
+      "text": "更富有、更睿智、更快乐 2：短期亏损是投资必须要承担的成本\n\n1.帕伯莱在911之后，巴西一家航空公司股票暴跌到5美元，飞机制造企业股票更是低，别人都不敢买，就是他敢买，而且敢于下重注买入。\n\n他说，要等到捕鱼时刻出现了，才去捕鱼。所谓的捕鱼时刻就是有价值的股票出现低价格时，什么样才叫低价格呢？\n\n就是公司负面缠身，麻烦不断的时候。就像2021年的阿里巴巴，当时马老板负面缠身，有说他已经退出董事会的，有说他已经被抓了，有说他出售国人信息的，有说他是叛徒的，阿里的股票已经跌到了历史最低。顺带着中概股全面下跌。\n\n腾讯的股票从最高700块，跌到了250块，这就是负面缠身的时候，那时候如果多多买入，就是绝佳机会了。而现在的中概股也是如此，又开始下跌了，因为外资不看好国内经济。\n\n2.邓普顿的名言\n除非你的所作所为，与大多数人不同，否则你就不可能获得卓越的业绩。要想跑赢市场，必须足够勇敢，足够独立，足够奇特。\n\n邓普顿的成长基金，成立于1954年，38年的时间里，该基金平均年化收益率是14.5%，如果你一开始就投资10万美元，那么38年后，就能变成1700万美元。\n\n3.加拿大一位著名基金经理提出一个理论，人类为了生存，这几十万年来，基因里面就自带了一种部落属性，也就是从众心理。在一个公司，一个团队，就是这样的，总会有圈子文化，这就是从众。\n\n邓普顿说，那些伟大的投资家，都有一个特征，那就是独立不从众，独立行动，远离群众。\n\n我们粉丝群在3月23日的A500下跌3.23%时，老齐就说当天有1个亿资金，加仓了投顾组合，这是我未想到的，我当天加了恒科，没有加投顾，因为还想着再等等。等到盈利全部没有了，就可以大胆的加仓，加仓3万。\n\n老齐说，你适不适合投资其实就看一点，你是一个愿意自己待着的人，还是一个愿意凑热闹的人，一个人待着是受罪的人，就喜欢凑热闹的，得到别人认可的人，就不适合投资。\n\n我就是很喜欢问身边的朋友，他们最近投资怎么样，如果他们不说话，没有热情，我就觉得很安全。如果他们说他们买了一只票，赚了多少钱，给我荐股，这就很危险了，这一招百试百灵。",
+      "likes_count": 0,
+      "rewards_count": 0,
+      "sticky": false
+    }
+  ],
+  "likes_count": 135,
+  "tourist_likes_count": 0,
+  "likes_detail": {
+    "emojis": [
+      {
+        "emoji_key": "[强]",
+        "likes_count": 135
+      }
+    ]
+  },
+  "rewards_count": 0,
+  "comments_count": 14,
+  "reading_count": 1,
+  "readers_count": 12769,
+  "digested": true,
+  "sticky": false,
+  "create_time": "2026-04-03T10:05:41.093+0800",
+  "user_specific": {
+    "liked": false,
+    "liked_emojis": [],
+    "subscribed": false
+  },
+  "title": "更富有、更睿智、更快乐 2：短..."
+}
