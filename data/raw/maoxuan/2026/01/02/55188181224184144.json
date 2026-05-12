@@ -1,0 +1,111 @@
+{
+  "topic_id": 55188181224184144,
+  "topic_uid": "55188181224184144",
+  "group": {
+    "group_id": 51128845544444,
+    "name": "躬行客读毛选",
+    "type": "pay",
+    "background_url": "https://images.zsxq.com/Fkhp0MUKTAamKQ7tZoW-Q-SmYAwu?e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:vlus9NmnWi6efY2GDqUBrMN7ITY="
+  },
+  "type": "talk",
+  "talk": {
+    "owner": {
+      "user_id": 118854415142512,
+      "name": "苏小飞",
+      "avatar_url": "https://images.zsxq.com/FjOEC8u9unUGWWyVy5dbLaQ9yA6A?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:j32J9s7rc0XHnqfkJiLKaJiKm6A=",
+      "location": "山东"
+    },
+    "text": "老师，您好。最近我在公众号写了一篇关于斩杀线与社会主义制度优越性的文章，留言区出现很多“恨国”“精美”言论。这些言论有的是分不清制度与现象，有的偷换概念，有的是道听途说，有的是引用过时的或片面数据。\n我的问题是，作为一个公众号写作者，如何对待这些言论？"
+  },
+  "latest_likes": [
+    {
+      "create_time": "2026-01-02T09:34:19.094+0800",
+      "owner": {
+        "user_id": 415454485558148,
+        "name": "逆舟",
+        "avatar_url": "https://images.zsxq.com/Fuw4NGqHi2o0by0q79twRH-n_vRH?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:QBPnsbJzPKCyWoeTovmal6cKcF4=",
+        "number": 712
+      }
+    }
+  ],
+  "show_comments": [
+    {
+      "comment_id": 5125548828151854,
+      "create_time": "2026-01-02T15:42:02.960+0800",
+      "owner": {
+        "user_id": 182558825454882,
+        "name": "躬行客",
+        "alias": "躬行客（可提问）",
+        "avatar_url": "https://images.zsxq.com/Fkhp0MUKTAamKQ7tZoW-Q-SmYAwu?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:6J1k-HcCufN2k9XE6MKlpox5eAU=",
+        "description": "躬行客主理人",
+        "location": "山东"
+      },
+      "text": "作为一个作者，处理办法很简单，不做特殊处理，冷静观察就行。留言只要不违规，能放出来就放出来，放出来之后，你才能通过回复和点赞等信息反馈，看到自己的受众群体在想些什么，才能看到他们是怎么看问题的，才能反向看到自己的文章逻辑是不是存在不足？随后才能写出更有说服力的文章。如果你想通过文章影响人的话就得这么做。如果你只是单纯想表达， 那就应该清楚，只要在公开场合发言，不管你说什么都有人赞同，也会有诋毁。只不过对于作者而言，诋毁否定的声音更加刺耳。",
+      "likes_count": 0,
+      "rewards_count": 0,
+      "sticky": false,
+      "replies_count": 1
+    },
+    {
+      "comment_id": 4845521141855848,
+      "create_time": "2026-01-02T15:43:20.001+0800",
+      "owner": {
+        "user_id": 182558825454882,
+        "name": "躬行客",
+        "alias": "躬行客（可提问）",
+        "avatar_url": "https://images.zsxq.com/Fkhp0MUKTAamKQ7tZoW-Q-SmYAwu?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:6J1k-HcCufN2k9XE6MKlpox5eAU=",
+        "description": "躬行客主理人",
+        "location": "山东"
+      },
+      "text": "对了，星球的内容审核比微信严格许多，任何时政敏感问题都可能被星球审核认定为违规，要注意话题和内容方向，以免账号受限。提问可以使用提问功能。",
+      "likes_count": 0,
+      "rewards_count": 0,
+      "sticky": false
+    },
+    {
+      "comment_id": 2852241151125251,
+      "parent_comment_id": 5125548828151854,
+      "create_time": "2026-01-02T17:56:30.302+0800",
+      "owner": {
+        "user_id": 118854415142512,
+        "name": "苏小飞",
+        "avatar_url": "https://images.zsxq.com/FjOEC8u9unUGWWyVy5dbLaQ9yA6A?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:j32J9s7rc0XHnqfkJiLKaJiKm6A=",
+        "location": "山东"
+      },
+      "text": "好的，谢谢老师解惑[抱拳][抱拳]星球功能正在摸索，已经找到提问功能入口啦。",
+      "likes_count": 0,
+      "rewards_count": 0,
+      "sticky": false,
+      "repliee": {
+        "user_id": 182558825454882,
+        "name": "躬行客",
+        "alias": "躬行客（可提问）",
+        "avatar_url": "https://images.zsxq.com/Fkhp0MUKTAamKQ7tZoW-Q-SmYAwu?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:6J1k-HcCufN2k9XE6MKlpox5eAU=",
+        "description": "躬行客主理人"
+      }
+    }
+  ],
+  "likes_count": 1,
+  "tourist_likes_count": 0,
+  "likes_detail": {
+    "emojis": [
+      {
+        "emoji_key": "[强]",
+        "likes_count": 1
+      }
+    ]
+  },
+  "rewards_count": 0,
+  "comments_count": 3,
+  "reading_count": 1,
+  "readers_count": 137,
+  "digested": false,
+  "sticky": false,
+  "create_time": "2026-01-02T09:06:16.683+0800",
+  "user_specific": {
+    "liked": false,
+    "liked_emojis": [],
+    "subscribed": false
+  },
+  "title": "老师，您好。最近我在公众号写了..."
+}

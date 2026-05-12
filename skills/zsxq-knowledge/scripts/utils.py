@@ -1,4 +1,5 @@
 import json
+import html
 import re
 import unicodedata
 from pathlib import Path
@@ -147,3 +148,54 @@ def extract_pdf_text(filepath: str) -> str:
         return "\n\n".join(p for p in pages if p)
     except Exception as e:
         return f"[PDF 提取失败: {e}]"
+
+
+def extract_article_text_from_html(html_text: str) -> str:
+    """从知识星球文章贴 HTML 中提取正文文本"""
+    if not html_text:
+        return ""
+
+    try:
+        from bs4 import BeautifulSoup
+    except Exception:
+        BeautifulSoup = None
+
+    if BeautifulSoup is not None:
+        soup = BeautifulSoup(html_text, "html.parser")
+        node = soup.select_one(".ql-editor") or soup.select_one(".content")
+        if node:
+            text = node.get_text("\n", strip=True)
+            text = html.unescape(text).replace("\xa0", " ")
+            text = re.sub(r"\r\n?", "\n", text)
+            text = re.sub(r"\n{3,}", "\n\n", text)
+            return text.strip()
+
+    match = re.search(
+        r'<(?:div|article)[^>]+class="[^"]*(?:ql-editor|content)[^"]*"[^>]*>(.*?)</(?:div|article)>',
+        html_text,
+        re.S,
+    )
+    if not match:
+        return ""
+
+    content = match.group(1)
+    content = re.sub(r"<(script|style)[^>]*>.*?</\1>", "", content, flags=re.S | re.I)
+    content = re.sub(r"<br\s*/?>", "\n", content, flags=re.I)
+    content = re.sub(r"</p\s*>", "\n\n", content, flags=re.I)
+    content = re.sub(r"<p[^>]*>", "", content, flags=re.I)
+    content = re.sub(r"</div\s*>", "\n\n", content, flags=re.I)
+    content = re.sub(r"<div[^>]*>", "", content, flags=re.I)
+    content = re.sub(r"</h[1-6]\s*>", "\n\n", content, flags=re.I)
+    content = re.sub(r"<h[1-6][^>]*>", "", content, flags=re.I)
+    content = re.sub(r"<li[^>]*>", "- ", content, flags=re.I)
+    content = re.sub(r"</li\s*>", "\n", content, flags=re.I)
+    content = re.sub(r"</?(ul|ol)[^>]*>", "\n", content, flags=re.I)
+    content = re.sub(r"</?(blockquote|strong|b|em|span|section)[^>]*>", "", content, flags=re.I)
+    content = re.sub(r"<a [^>]*href=\"([^\"]+)\"[^>]*>(.*?)</a>", r"\2 (\1)", content, flags=re.S | re.I)
+    content = re.sub(r"<[^>]+>", "", content)
+    content = html.unescape(content)
+    content = content.replace("\xa0", " ")
+    content = re.sub(r"\r\n?", "\n", content)
+    content = re.sub(r"[ \t]+\n", "\n", content)
+    content = re.sub(r"\n{3,}", "\n\n", content)
+    return content.strip()

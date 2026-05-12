@@ -1,0 +1,58 @@
+{
+  "topic_id": 45811554248281288,
+  "topic_uid": "45811554248281288",
+  "group": {
+    "group_id": 51128845544444,
+    "name": "躬行客读毛选",
+    "type": "pay",
+    "background_url": "https://images.zsxq.com/Fkhp0MUKTAamKQ7tZoW-Q-SmYAwu?e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:vlus9NmnWi6efY2GDqUBrMN7ITY="
+  },
+  "type": "solution",
+  "solution": {
+    "task_id": 214812281845821,
+    "task_uid": "214812281845821",
+    "owner": {
+      "user_id": 118854415142512,
+      "name": "苏小飞",
+      "avatar_url": "https://images.zsxq.com/FjOEC8u9unUGWWyVy5dbLaQ9yA6A?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:j32J9s7rc0XHnqfkJiLKaJiKm6A=",
+      "location": "山东"
+    },
+    "text": "1、结合你的经验，举一个类似文中提到的“韭菜”例子，并简要分析一下：对同一概念名词，有不同的认知，会对我们的工作、生活、学习，造成哪些好或者不好的影响？\n\n曾经有同事说过，她在课上提到“”亮剑”这部电视剧，本意是希望学生更好地理解抗战精神，结果学生哄堂大笑。为什么呢，因为在学生那里，“亮剑”=“拿我的意大利炮”。\n也就是说，“亮剑”这个词，在同事大脑里和学生大脑里，表征出来不一样，导致使用时，无法达到既定效果。\n这种不能同步表征的现象，是会增加沟通成本的。但这也提示我们，一要审视对方对你所表述的内容，是否和你理解的一样。二增加解释，尽量使双方达成同步表征。\n\n2、把文中提到的，世界物质统一性的三个基本观点，用你自己的话说出来。\n\n一是能量守恒和转化定律。能量不能不减，只是在一定条件下进行转移、转化。比如太阳能发电，并不是电能增加了，而是通过技术手段将太阳能转化为了电能。\n二是进化论。生物在与环境互动过程中，变得更加适应环境。\n三是细胞学说。动植物是由细胞分裂来的，不是由神秘力量造出来的。\n\n3、物质运动和普遍联系之间的关系？或者结合 人生无常 来谈一谈 普遍联系。\n\n世间万物普遍联系，一种事物的运动也必然引起另一事物的运动。从这个角度讲，普遍联系促成了物质不停息的运动。\n但另一方面，也由于万事万物的运动，使得普遍联系成为可能。因为如果事物是静止的、孤立存在的，那也就不会与其他事物有联系。\n\n放在“人生无常”上，人是社会关系的总和，我们与我们相关的一切人、事、物都联系着，而这些人、事、物又都在变动，我们无法控制。\n可他们的变动又像蝴蝶翅膀一样，影响我们的人生，所以说人生无常。\n\n其实对于第三题，我还是比较迷糊的，只能把我想到的部分写下来，请老师指点。"
+  },
+  "latest_likes": [
+    {
+      "create_time": "2026-01-26T17:49:47.293+0800",
+      "owner": {
+        "user_id": 182558825454882,
+        "name": "躬行客",
+        "alias": "躬行客（可提问）",
+        "avatar_url": "https://images.zsxq.com/Fkhp0MUKTAamKQ7tZoW-Q-SmYAwu?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:6J1k-HcCufN2k9XE6MKlpox5eAU=",
+        "description": "躬行客主理人",
+        "number": 1
+      }
+    }
+  ],
+  "likes_count": 1,
+  "tourist_likes_count": 0,
+  "likes_detail": {
+    "emojis": [
+      {
+        "emoji_key": "[强]",
+        "likes_count": 1
+      }
+    ]
+  },
+  "rewards_count": 0,
+  "comments_count": 0,
+  "reading_count": 1,
+  "readers_count": 143,
+  "digested": false,
+  "sticky": false,
+  "create_time": "2026-01-25T19:48:32.013+0800",
+  "user_specific": {
+    "liked": false,
+    "liked_emojis": [],
+    "subscribed": false
+  },
+  "title": "1、结合你的经验，举一个类似文..."
+}

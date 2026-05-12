@@ -1,8 +1,8 @@
 ---
 name: weread
 description: >-
-  管理微信读书的划线、笔记与读书总结：同步高亮内容、提取金句、生成读书总结模板。
-  当用户提到微信读书、weread、读书笔记、书评、划线内容、读书总结、同步读书时使用。
+  管理微信读书内容：同步书籍划线与想法、导出摘抄、整理金句、生成读书总结草稿。
+  当用户提到微信读书、weread、划线、摘抄、导出笔记、同步某本书、整理金句、读书总结、书摘时使用。
 ---
 
 # 微信读书知识库管理
@@ -88,11 +88,11 @@ python3 skills/weread/scripts/sync.py --book "穷查理" --refresh
 
 #### 3.1 读取 highlights.md
 
-用 Read 工具读取完整内容。
+读取 `highlights.md` 全文。
 
 #### 3.2 更新 frontmatter
 
-找到以下 3 个空字段，用 StrReplace 一次性替换：
+找到以下 3 个空字段并一次性更新：
 
 **替换前：**
 ```yaml
@@ -169,7 +169,7 @@ cat books/穷查理宝典/highlights.md
 cat books/*/highlights.quotes.md
 ```
 
-Agent 也可以直接用 Grep / Read 工具在 `books/` 目录下搜索。
+也可以直接搜索或读取 `books/` 目录下的相关文件。
 
 ---
 

@@ -33,6 +33,7 @@ from utils import (
     format_date,
     extract_docx_text,
     extract_pdf_text,
+    extract_article_text_from_html,
 )
 
 CHANNELS_DIR = BASE_DIR / "channels"
@@ -106,7 +107,7 @@ def download_voice(client: ZsxqClient, voice: dict, channel_key: str,
 
 def topic_to_markdown(topic: dict, channel_key: str, channel_name: str,
                       config: dict, file_results: dict = None,
-                      voice_path: str = "") -> str:
+                      voice_path: str = "", article_text: str = "") -> str:
     """将 topic JSON 转为完整 Markdown，包含附件提取的正文"""
     topic_id = str(topic["topic_id"])
     topic_type = topic.get("type", "talk")
@@ -124,7 +125,7 @@ def topic_to_markdown(topic: dict, channel_key: str, channel_name: str,
 
     if topic_type == "talk":
         talk = topic.get("talk", {}) or {}
-        raw_text = talk.get("text", "")
+        raw_text = article_text or talk.get("text", "")
         author = talk.get("owner", {}).get("name", "")
         images = talk.get("images", [])
         files = talk.get("files", [])
@@ -361,13 +362,23 @@ def save_topic(topic: dict, channel_key: str, channel_name: str,
             "size": voice_data.get("size", 0),
         }
 
+    article_text = ""
+    talk_article = (topic.get("talk", {}) or {}).get("article", {}) or {}
+    article_url = talk_article.get("inline_article_url") or talk_article.get("article_url") or ""
+    if article_url:
+        try:
+            article_html = client.fetch_article_html(article_url)
+            article_text = extract_article_text_from_html(article_html)
+        except Exception as e:
+            print(f"    ⚠️ 文章全文抓取失败: {e}")
+
     # 下载附件并提取文本
     file_results = download_and_extract_files(client, files, channel_key, date_path)
     voice_path = download_voice(client, voice_info, channel_key, date_path)
 
     md_content = topic_to_markdown(
         topic, channel_key, channel_name, config,
-        file_results=file_results, voice_path=voice_path,
+        file_results=file_results, voice_path=voice_path, article_text=article_text,
     )
     filepath.write_text(md_content, encoding="utf-8")
     save_synced_id(topic_id)

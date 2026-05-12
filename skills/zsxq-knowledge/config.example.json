@@ -40,6 +40,8 @@
     "access_key": "",
     "secret_key": "",
     "asr_app_id": "",
+    "tts_app_id": "",
+    "tts_token": "",
     "video_model": "doubao-seedance-1-0-pro-250528"
   }
 }

@@ -1,0 +1,80 @@
+{
+  "currency": "CNY",
+  "incremental_cash": 50000,
+  "categories": [
+    {
+      "id": "large_growth",
+      "name": "大盘成长",
+      "target_weight": 0.23,
+      "assets": [
+        {
+          "id": "lg_1",
+          "name": "大盘成长资产1",
+          "current_amount": 120000,
+          "target_weight_in_category": 0.6
+        },
+        {
+          "id": "lg_2",
+          "name": "大盘成长资产2",
+          "current_amount": 80000,
+          "target_weight_in_category": 0.4
+        }
+      ]
+    },
+    {
+      "id": "small_growth",
+      "name": "中小盘成长",
+      "target_weight": 0.24,
+      "assets": [
+        {
+          "id": "sg_1",
+          "name": "中小盘成长资产1",
+          "current_amount": 130000,
+          "target_weight_in_category": 0.5
+        },
+        {
+          "id": "sg_2",
+          "name": "中小盘成长资产2",
+          "current_amount": 70000,
+          "target_weight_in_category": 0.5
+        }
+      ]
+    },
+    {
+      "id": "large_value",
+      "name": "大盘价值",
+      "target_weight": 0.23,
+      "assets": [
+        {
+          "id": "lv_1",
+          "name": "大盘价值资产1",
+          "current_amount": 90000,
+          "target_weight_in_category": 1.0
+        }
+      ]
+    },
+    {
+      "id": "fixed_income",
+      "name": "固收类",
+      "target_weight": 0.3,
+      "assets": [
+        {
+          "id": "fi_1",
+          "name": "固收资产1",
+          "current_amount": 260000,
+          "target_weight_in_category": 1.0
+        }
+      ]
+    }
+  ],
+  "confirmed_trades": [
+    {
+      "id": "sg_1",
+      "amount": 5000
+    },
+    {
+      "id": "fi_1",
+      "amount": -5000
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 ---
 name: zsxq-knowledge
 description: >-
-  管理知识星球订阅频道的知识库：同步内容、转 Markdown、提取金句、构建索引、搜索查找、生成海报。
-  当用户提到知识星球、同步星球、zsxq、知识库同步、搜索知识、查找内容、生成海报、金句卡片时使用。
+  管理知识星球频道知识库：同步帖子与精华、转 Markdown、提取金句、构建索引、搜索内容、补全文字稿。
+  当用户提到知识星球、zsxq、星球文章、精华帖、晨会内容、老齐读书圈、同步星球、搜索内容、按标签查找、语音转文字时使用。
 ---
 
 # 知识星球知识库管理
@@ -94,11 +94,11 @@ python3 skills/zsxq-knowledge/scripts/sync.py --channel qijunjie-fans --hashtag 
 
 #### 2.1 读取文件完整内容
 
-用 Read 工具读取 md 文件全文。
+读取 md 文件全文。
 
 #### 2.2 分析内容并更新 frontmatter
 
-在 frontmatter 中找到以下 4 个空字段，用 StrReplace 一次性替换：
+在 frontmatter 中找到以下 4 个空字段并一次性更新：
 
 **替换前（原始模板）：**
 ```yaml
@@ -155,7 +155,7 @@ quotes_count: 2
 
 为减少 Token 消耗：
 - 可以一次读取 3-5 篇文章
-- 批量执行 StrReplace 和 Write
+- 批量更新 frontmatter 和 quotes 文件
 - 对子 Agent 做任务委托时，一次给出所有文件路径
 
 ### 步骤 3：重建索引（运行脚本）

@@ -1,0 +1,54 @@
+{
+  "topic_id": 55188525282551824,
+  "topic_uid": "55188525282551824",
+  "group": {
+    "group_id": 51128845544444,
+    "name": "躬行客读毛选",
+    "type": "pay",
+    "background_url": "https://images.zsxq.com/Fkhp0MUKTAamKQ7tZoW-Q-SmYAwu?e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:vlus9NmnWi6efY2GDqUBrMN7ITY="
+  },
+  "type": "talk",
+  "talk": {
+    "owner": {
+      "user_id": 185422444825812,
+      "name": "豆腐干",
+      "avatar_url": "https://images.zsxq.com/FiX6qXo3CpAdHJnFStbCKLv9E_qH?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:dZx2ISjTqj2zEMI1DOxT80h0K0c=",
+      "location": "广东"
+    },
+    "text": "老师您好，我是房地产行业工程板块从业人员，从网上的渠道了解到注册人工智能师的证书考试，想试着去考一下但又不知道考了到底能给自己带来什么。内心的想法是，一现在AI这么火热想通过这次学习深入了解一下他到底是什么？增加自己的知识面，积极拥抱趋势。二是通过证书让自己有更多可能性。请问老师您如何看待？"
+  },
+  "latest_likes": [
+    {
+      "create_time": "2026-01-12T12:34:55.471+0800",
+      "owner": {
+        "user_id": 415454485558148,
+        "name": "逆舟",
+        "avatar_url": "https://images.zsxq.com/Fuw4NGqHi2o0by0q79twRH-n_vRH?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:QBPnsbJzPKCyWoeTovmal6cKcF4=",
+        "number": 712
+      }
+    }
+  ],
+  "likes_count": 1,
+  "tourist_likes_count": 0,
+  "likes_detail": {
+    "emojis": [
+      {
+        "emoji_key": "[强]",
+        "likes_count": 1
+      }
+    ]
+  },
+  "rewards_count": 0,
+  "comments_count": 0,
+  "reading_count": 1,
+  "readers_count": 122,
+  "digested": false,
+  "sticky": false,
+  "create_time": "2026-01-11T20:48:40.828+0800",
+  "user_specific": {
+    "liked": false,
+    "liked_emojis": [],
+    "subscribed": false
+  },
+  "title": "老师您好，我是房地产行业工程板..."
+}

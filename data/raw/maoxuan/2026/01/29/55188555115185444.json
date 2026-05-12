@@ -1,0 +1,81 @@
+{
+  "topic_id": 55188555115185444,
+  "topic_uid": "55188555115185444",
+  "group": {
+    "group_id": 51128845544444,
+    "name": "躬行客读毛选",
+    "type": "pay",
+    "background_url": "https://images.zsxq.com/Fkhp0MUKTAamKQ7tZoW-Q-SmYAwu?e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:vlus9NmnWi6efY2GDqUBrMN7ITY="
+  },
+  "type": "solution",
+  "solution": {
+    "task_id": 214882448214121,
+    "task_uid": "214882448214121",
+    "owner": {
+      "user_id": 51514841551584,
+      "name": "💤",
+      "avatar_url": "https://images.zsxq.com/Fux0mZGl7AcjfYcSxaZeWelt54Th?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:2AUPgDAho0oeywWnds1wfczETnI=",
+      "location": "广西"
+    },
+    "text": "可以叫我春晖，江西赣州人，红色故都。南墙是最好的老师，形势比人强，重读马克思列宁主义以及教员、邓公思想，是我重新认识自我、改进实践、提高能力、升华党性的必由之路。"
+  },
+  "latest_likes": [
+    {
+      "create_time": "2026-02-03T18:23:23.508+0800",
+      "owner": {
+        "user_id": 182245144488852,
+        "name": "刘野",
+        "avatar_url": "https://images.zsxq.com/FrI2gbslRON8rSJkuP0FegTifGhr?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:E6LdZXjaa-UMePgelcqVCjam2vw=",
+        "number": 461
+      }
+    },
+    {
+      "create_time": "2026-01-31T15:54:37.097+0800",
+      "owner": {
+        "user_id": 415454485558148,
+        "name": "逆舟",
+        "avatar_url": "https://images.zsxq.com/Fuw4NGqHi2o0by0q79twRH-n_vRH?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:QBPnsbJzPKCyWoeTovmal6cKcF4=",
+        "number": 712
+      }
+    }
+  ],
+  "show_comments": [
+    {
+      "comment_id": 2852485255124251,
+      "create_time": "2026-02-03T18:23:42.690+0800",
+      "owner": {
+        "user_id": 182245144488852,
+        "name": "刘野",
+        "avatar_url": "https://images.zsxq.com/FrI2gbslRON8rSJkuP0FegTifGhr?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:E6LdZXjaa-UMePgelcqVCjam2vw=",
+        "location": "辽宁"
+      },
+      "text": "👍👍👍",
+      "likes_count": 0,
+      "rewards_count": 0,
+      "sticky": false
+    }
+  ],
+  "likes_count": 2,
+  "tourist_likes_count": 0,
+  "likes_detail": {
+    "emojis": [
+      {
+        "emoji_key": "[强]",
+        "likes_count": 2
+      }
+    ]
+  },
+  "rewards_count": 0,
+  "comments_count": 1,
+  "reading_count": 1,
+  "readers_count": 139,
+  "digested": false,
+  "sticky": false,
+  "create_time": "2026-01-29T14:40:36.250+0800",
+  "user_specific": {
+    "liked": false,
+    "liked_emojis": [],
+    "subscribed": false
+  },
+  "title": "可以叫我春晖，江西赣州人，红色..."
+}

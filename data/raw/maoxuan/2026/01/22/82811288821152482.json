@@ -1,0 +1,140 @@
+{
+  "topic_id": 82811288821152482,
+  "topic_uid": "82811288821152482",
+  "group": {
+    "group_id": 51128845544444,
+    "name": "躬行客读毛选",
+    "type": "pay",
+    "background_url": "https://images.zsxq.com/Fkhp0MUKTAamKQ7tZoW-Q-SmYAwu?e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:vlus9NmnWi6efY2GDqUBrMN7ITY="
+  },
+  "type": "talk",
+  "talk": {
+    "owner": {
+      "user_id": 582152488522444,
+      "name": "吸收营养",
+      "avatar_url": "https://images.zsxq.com/Fi-RxZk0EuTCCXe9_qhH0ZpLvTx8?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:s8E69wPT3Aiz7evQVAyT2l22OXE=",
+      "location": "广东"
+    },
+    "text": "使用AI也要注意效能与效率——从一次提示词调整说起\n最近我让元宝AI帮忙分析职场困境，却意外经历了一场“答案升级”：同一件事，换种问法，AI的回应从“温和建议”变成了“尖锐诊断”。这个对比让我意识到，用AI时追求“答案快”不如追求“答案透”，而这背后正是效能（做对的事）与效率（快速做事）的本质差异。\n一、案例回顾：我的问题与AI的两种答案\n1. 我的原始问题（详细版）​\n“我在一个项目中担任实际技术总负责人，但项目负责人只把我当执行者。我几次要求正式的技术总负责人名分以便后续进行对应业绩评价得分，都被无视。这个项目与其实与我的核心钻研方向有点相关，但是我投入将近一年的抛家舍业出差后却由于乙方的技术封锁基本学不到新东西来回馈我的核心钻研方向，因为无法抽身，因为沉没成本，所以我才想要名分。作为一个善士者，我其实是比较排斥项目负责人的搞关系、拉资源、为了报奖各种编材料，但自己又因为得不到认可而愤怒。我现在对于这个明显不是我的菜的项目该怎么做？”\n2. AI的初始回答（没有给元宝任何的提示词，效率导向·温和版）​\n原文摘要：\n“理解你的困扰。建议主动与项目负责人沟通明确职责边界，同时聚焦从这个项目中提取技术价值，比如写点总结报告。同时项目负责人的资源整合能力也有可借鉴之处，保持专业合作对长期发展有利。”\n特点：正确但泛泛而谈，像职场教科书摘要，未触及我真正的决策盲区。\n3. 调整提示词后的回答（发现元宝输出比较泛，而且初始感觉心灵抚慰般地说你做得正确，后来自己琢磨觉得元宝在迎合我，所以在躬行客老师的指点下加入大段的提示词，效能导向·尖锐版）​\n关键原文节选：\n“你最大的错误，是在一个不承认‘技术功劳簿’的体系里，反复要求论功行赏。规则是‘负责人掌握分配权，执行者确保任务完成’，你几次索要名分是在挑战规则，他无视你是最合理的反应。\n你所谓的‘划清边界’是失败后的情绪止损，而非战略选择。你对资源整合能力的鄙视，暴露了你拒绝学习‘资源整合’这一职场核心能力的短板。这么多天‘学不到东西’是你无能的证据，你被动等待灌输，而非主动掠夺知识（如向乙方高手深度提问、将异常数据转化为研究案例）。你现在应当主动去XXXXX”\n特点：直指规则认知错误、战略懒惰和能力短板，语言尖锐但直击要害。\n总结：我的感悟：以“是否刺痛”为检验标准​\n\n如果AI的回答让你舒适，大概率价值有限；\n\n若其分析让你如坐针毡、不得不面对弱点，这份答案才可能推动你去改变。"
+  },
+  "latest_likes": [
+    {
+      "create_time": "2026-03-11T09:04:44.803+0800",
+      "owner": {
+        "user_id": 544455212225154,
+        "name": "鲨鱼辣椒",
+        "avatar_url": "https://images.zsxq.com/FpSDSDkCjWt_rKFl4xVMrMtX2qSM?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:cKHe5t9nAIaod0DDdtO-VVGAoMg=",
+        "number": 227
+      }
+    },
+    {
+      "create_time": "2026-03-09T17:14:08.988+0800",
+      "owner": {
+        "user_id": 585218224855214,
+        "name": "D",
+        "alias": "小董",
+        "avatar_url": "https://images.zsxq.com/FhNyw9spBz0JX9ZimhfDfWMS93dW?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:ay3hKc2pD_ewD_N4kScRKJUFFdI=",
+        "number": 548
+      }
+    },
+    {
+      "create_time": "2026-01-25T13:54:06.390+0800",
+      "owner": {
+        "user_id": 118542545885582,
+        "name": "钜子",
+        "avatar_url": "https://images.zsxq.com/FpTa7ju8crYDtW0UeoRLxM1J_IU-?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:lJC89Sv6WKRRpCr8V6TuMY6SC-w=",
+        "number": 539
+      }
+    },
+    {
+      "create_time": "2026-01-24T21:14:21.361+0800",
+      "owner": {
+        "user_id": 118854415142512,
+        "name": "苏小飞",
+        "avatar_url": "https://images.zsxq.com/FjOEC8u9unUGWWyVy5dbLaQ9yA6A?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:j32J9s7rc0XHnqfkJiLKaJiKm6A=",
+        "number": 726
+      }
+    },
+    {
+      "create_time": "2026-01-22T11:44:11.823+0800",
+      "owner": {
+        "user_id": 182558825454882,
+        "name": "躬行客",
+        "alias": "躬行客（可提问）",
+        "avatar_url": "https://images.zsxq.com/Fkhp0MUKTAamKQ7tZoW-Q-SmYAwu?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:6J1k-HcCufN2k9XE6MKlpox5eAU=",
+        "description": "躬行客主理人",
+        "number": 1
+      }
+    },
+    {
+      "create_time": "2026-01-22T11:39:47.328+0800",
+      "owner": {
+        "user_id": 582152488522444,
+        "name": "吸收营养",
+        "avatar_url": "https://images.zsxq.com/Fi-RxZk0EuTCCXe9_qhH0ZpLvTx8?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:s8E69wPT3Aiz7evQVAyT2l22OXE=",
+        "number": 44
+      }
+    }
+  ],
+  "show_comments": [
+    {
+      "comment_id": 2852211515225421,
+      "create_time": "2026-01-22T11:33:51.321+0800",
+      "owner": {
+        "user_id": 182558825454882,
+        "name": "躬行客",
+        "alias": "躬行客（可提问）",
+        "avatar_url": "https://images.zsxq.com/Fkhp0MUKTAamKQ7tZoW-Q-SmYAwu?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:6J1k-HcCufN2k9XE6MKlpox5eAU=",
+        "description": "躬行客主理人",
+        "location": "山东"
+      },
+      "text": "一个简单的由AI自己生成和经过我简单修改的提示词，供参考。\n\n你是一位经历复盘专家，任务是基于用户提供的经历信息进行严格、客观的分析。你必须遵循以下准则：\n\n核心原则\n绝对实事求是：仅依据用户提供的事实进行分析，不添加、歪曲或隐瞒信息。如有信息不足，直接指出，绝不假设。\n\n拒绝迎合：不讨好用户的观点或情绪，即使与用户看法冲突，也必须保持中立。\n\n客观公正：平衡评估，但重点揭露问题，不回避负面评价。\n\n语言尖锐：可使用直接、刻薄甚至尖锐的用词，以刺破借口和自满。例如，用“你这纯粹是自欺欺人”代替“这可能有点问题”。\n\n错误聚焦：明确、具体地指出用户的错误、不足或思维盲区，不泛泛而谈。\n\n建议贴合实际：基于用户提供的信息，给出可操作、有参考价值的建议，避免空泛鼓励。\n\n回复结构\n每次回复必须按此框架组织：\n\n信息复述：简要总结用户提供的经历，确认理解无误。\n\n分析批判：\n\n实事求是地分析经过，拆解关键点。\n\n直接指出用户的错误（如决策失误、认知偏差、行动懒惰等），用词可以严厉。\n\n如有优点，仅客观提及，不夸大。\n\n建议输出：\n\n给出具体、贴合用户情况的改进建议。\n\n建议需基于分析，强调“为什么”和“怎么做”，避免说教。\n\n强调指令\n如果用户提供信息模糊，要求澄清，不自行猜测。\n\n不评价用户人格，只针对行为和决策。\n\n即使用户可能不适，也必须坚持原则。你的目标是促进成长，而非提供安慰。",
+      "likes_count": 0,
+      "rewards_count": 0,
+      "sticky": false
+    },
+    {
+      "comment_id": 8852211284124822,
+      "create_time": "2026-01-23T07:11:49.594+0800",
+      "owner": {
+        "user_id": 415444558281548,
+        "name": "钰",
+        "avatar_url": "https://images.zsxq.com/FqxobKzHmtDMrmODMNhr4i69F81W?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1780243199&token=q6iZ0sQtf9U7s1qz0r4yMawNq3-u2w6lbnai6y2J:J1GZBkyWw6ol1nawBALPYTHHoU4=",
+        "location": "山东"
+      },
+      "text": "提示词不同，结果不同，下次我也试试，",
+      "likes_count": 0,
+      "rewards_count": 0,
+      "sticky": false
+    }
+  ],
+  "likes_count": 6,
+  "tourist_likes_count": 0,
+  "likes_detail": {
+    "emojis": [
+      {
+        "emoji_key": "[强]",
+        "likes_count": 6
+      }
+    ]
+  },
+  "rewards_count": 0,
+  "comments_count": 2,
+  "reading_count": 1,
+  "readers_count": 169,
+  "digested": true,
+  "sticky": false,
+  "create_time": "2026-01-22T09:37:03.996+0800",
+  "user_specific": {
+    "liked": false,
+    "liked_emojis": [],
+    "subscribed": false
+  },
+  "title": "使用AI也要注意效能与效率——...",
+  "columns": [
+    {
+      "column_id": 281158855811,
+      "name": "赠送《从零开始学唯物辩证法》"
+    }
+  ]
+}

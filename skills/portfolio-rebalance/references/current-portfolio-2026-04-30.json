@@ -1,0 +1,114 @@
+{
+  "currency": "CNY",
+  "incremental_cash": 100000,
+  "categories": [
+    {
+      "id": "large_growth",
+      "name": "大盘成长",
+      "target_weight": 0.23,
+      "assets": [
+        {
+          "id": "e_fund_hs300",
+          "name": "易方达沪深300ETF联接A",
+          "current_amount": 283647.83
+        },
+        {
+          "id": "ht_hs300_dynamic",
+          "name": "汇添富沪深300安中动态策略指数C",
+          "current_amount": 64140.97
+        },
+        {
+          "id": "nf_a500",
+          "name": "南方中证A500ETF联接A",
+          "current_amount": 79944.89
+        },
+        {
+          "id": "e_china_internet",
+          "name": "易方达中概互联网ETF联接（QDII）A",
+          "current_amount": 124009.88
+        },
+        {
+          "id": "hx_hstech",
+          "name": "华夏恒生科技EFT联接（QDII）A",
+          "current_amount": 67009.95
+        }
+      ]
+    },
+    {
+      "id": "small_growth",
+      "name": "中小盘成长",
+      "target_weight": 0.24,
+      "assets": [
+        {
+          "id": "e_1000",
+          "name": "易方达中证1000ETF联接A",
+          "current_amount": 314060.80
+        },
+        {
+          "id": "e_500",
+          "name": "易方达中证500ETF联接A",
+          "current_amount": 147442.74
+        },
+        {
+          "id": "nf_500_lof",
+          "name": "南方中证500ETF联接（LOF）A",
+          "current_amount": 77479.85
+        }
+      ]
+    },
+    {
+      "id": "large_value",
+      "name": "大盘价值",
+      "target_weight": 0.23,
+      "assets": [
+        {
+          "id": "ht_red_low_vol",
+          "name": "华泰柏瑞中证红利低波动ETF联接A",
+          "current_amount": 153435.76
+        },
+        {
+          "id": "e_dividend",
+          "name": "易方达中证红利ETF联接A",
+          "current_amount": 52326.54
+        },
+        {
+          "id": "dfh_red_low_vol",
+          "name": "东方红中证东方红红利低波动指数A",
+          "current_amount": 268144.95
+        }
+      ]
+    },
+    {
+      "id": "fixed_income",
+      "name": "固收类",
+      "target_weight": 0.30,
+      "assets": [
+        {
+          "id": "yuebao",
+          "name": "余额宝",
+          "current_amount": 262674.83
+        },
+        {
+          "id": "gf_stable_growth",
+          "name": "广发稳健增长A",
+          "current_amount": 5013.25
+        },
+        {
+          "id": "icbc_double_bond",
+          "name": "工银瑞信双利债券A",
+          "current_amount": 11792.86
+        },
+        {
+          "id": "nf_baoyuan_bond",
+          "name": "南方宝元债券A",
+          "current_amount": 11965.85
+        },
+        {
+          "id": "gl_partial_bond",
+          "name": "国联偏债攒钱",
+          "current_amount": 417247.53
+        }
+      ]
+    }
+  ]
+}

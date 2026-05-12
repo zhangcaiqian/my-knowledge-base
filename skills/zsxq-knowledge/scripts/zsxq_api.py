@@ -96,3 +96,12 @@ class ZsxqClient:
             for chunk in resp.iter_content(chunk_size=8192):
                 f.write(chunk)
         return save_path
+
+    def fetch_article_html(self, url: str) -> str:
+        """抓取文章贴 HTML 正文页"""
+        if not url:
+            return ""
+        self._throttle()
+        resp = self.session.get(url, timeout=20)
+        resp.raise_for_status()
+        return resp.text

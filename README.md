@@ -8,6 +8,7 @@
 |-------|------|------|
 | [知识星球](skills/zsxq-knowledge/SKILL.md) | `skills/zsxq-knowledge/` | 同步知识星球频道内容、提取金句、构建索引 |
 | [微信读书](skills/weread/SKILL.md) | `skills/weread/` | 同步微信读书划线与笔记、提取金句、生成读书总结 |
+| [火山语音合成](skills/volc-tts/SKILL.md) | `skills/volc-tts/` | 将文本转成语音，支持播客双人对话和直转语音并可选音色 |
 
 ## 安装
 
