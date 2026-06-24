@@ -2,9 +2,10 @@
 config.json
 
 # 原始数据缓存
-assets/**/*.mp3
-assets/**/*.docx
-assets/**/*.pdf
+assets/**
+
+# 原始抓取数据
+data/raw/**
 
 
 # 同步状态

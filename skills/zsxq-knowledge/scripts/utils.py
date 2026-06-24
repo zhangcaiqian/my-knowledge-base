@@ -2,6 +2,7 @@ import json
 import html
 import re
 import unicodedata
+import zipfile
 from pathlib import Path
 from urllib.parse import unquote
 
@@ -138,6 +139,36 @@ def extract_docx_text(filepath: str) -> str:
         return f"[docx 提取失败: {e}]"
 
 
+def _normalize_image_suffix(suffix: str, default: str = ".png") -> str:
+    suffix = (suffix or "").lower()
+    if suffix in {".jpg", ".jpeg", ".png", ".gif", ".bmp", ".webp", ".tiff"}:
+        return suffix
+    return default
+
+
+def extract_docx_images(filepath: str, output_dir: str) -> list[str]:
+    """从 docx 压缩包中提取内嵌图片，返回导出的图片路径列表。"""
+    exported: list[str] = []
+    out_dir = Path(output_dir)
+    out_dir.mkdir(parents=True, exist_ok=True)
+
+    try:
+        with zipfile.ZipFile(filepath) as zf:
+            media_names = [
+                name for name in zf.namelist()
+                if name.startswith("word/media/") and not name.endswith("/")
+            ]
+            for idx, media_name in enumerate(sorted(media_names), start=1):
+                suffix = _normalize_image_suffix(Path(media_name).suffix)
+                target = out_dir / f"docx-image-{idx}{suffix}"
+                target.write_bytes(zf.read(media_name))
+                exported.append(str(target))
+    except Exception:
+        return []
+
+    return exported
+
+
 def extract_pdf_text(filepath: str) -> str:
     """从 PDF 文件提取全部文本"""
     try:
@@ -148,6 +179,34 @@ def extract_pdf_text(filepath: str) -> str:
         return "\n\n".join(p for p in pages if p)
     except Exception as e:
         return f"[PDF 提取失败: {e}]"
+
+
+def extract_pdf_images(filepath: str, output_dir: str) -> list[str]:
+    """从 PDF 中提取页面图片资源，返回导出的图片路径列表。"""
+    exported: list[str] = []
+    out_dir = Path(output_dir)
+    out_dir.mkdir(parents=True, exist_ok=True)
+
+    try:
+        import fitz
+
+        doc = fitz.open(filepath)
+        counter = 1
+        for page_index in range(len(doc)):
+            page = doc[page_index]
+            for image_info in page.get_images(full=True):
+                xref = image_info[0]
+                image = doc.extract_image(xref)
+                ext = _normalize_image_suffix(f".{image.get('ext', '')}")
+                target = out_dir / f"pdf-page-{page_index + 1}-image-{counter}{ext}"
+                target.write_bytes(image["image"])
+                exported.append(str(target))
+                counter += 1
+        doc.close()
+    except Exception:
+        return []
+
+    return exported
 
 
 def extract_article_text_from_html(html_text: str) -> str:

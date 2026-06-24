@@ -32,7 +32,9 @@ from utils import (
     format_date_path,
     format_date,
     extract_docx_text,
+    extract_docx_images,
     extract_pdf_text,
+    extract_pdf_images,
     extract_article_text_from_html,
 )
 
@@ -42,7 +44,7 @@ DATA_DIR = BASE_DIR / "data"
 
 def download_and_extract_files(client: ZsxqClient, files: list, channel_key: str,
                                 date_path: str) -> dict:
-    """下载附件并提取文本内容。返回 {filename: {local_path, extracted_text}}"""
+    """下载附件并提取文本/图片。返回 {filename: {local_path, extracted_text, extracted_images}}"""
     results = {}
     if not files:
         return results
@@ -63,22 +65,54 @@ def download_and_extract_files(client: ZsxqClient, files: list, channel_key: str
                 print(f"    📥 下载: {name}")
             except Exception as e:
                 print(f"    ❌ 下载失败 {name}: {e}")
-                results[name] = {"local_path": "", "extracted_text": ""}
+                results[name] = {"local_path": "", "extracted_text": "", "extracted_images": []}
                 continue
 
         extracted = ""
+        extracted_images: list[str] = []
         suffix = local_path.suffix.lower()
+        image_dir = save_dir / f"{local_path.stem}_images"
         if suffix == ".docx":
             extracted = extract_docx_text(str(local_path))
+            extracted_images = extract_docx_images(str(local_path), str(image_dir))
         elif suffix == ".pdf":
             extracted = extract_pdf_text(str(local_path))
+            extracted_images = extract_pdf_images(str(local_path), str(image_dir))
 
         results[name] = {
             "local_path": str(local_path.relative_to(BASE_DIR)),
             "extracted_text": extracted,
+            "extracted_images": [
+                str(Path(path).relative_to(BASE_DIR))
+                for path in extracted_images
+                if Path(path).exists()
+            ],
         }
 
     return results
+
+
+def prepare_markdown_images(file_results: dict, markdown_dir: Path, markdown_name: str) -> dict:
+    """把附件提取出的图片复制到 Markdown 同目录，便于预览与版本管理。"""
+    if not file_results:
+        return file_results
+
+    markdown_dir.mkdir(parents=True, exist_ok=True)
+
+    for attachment_index, (attachment_name, info) in enumerate(file_results.items(), start=1):
+        markdown_images: list[str] = []
+        for idx, image_path in enumerate(info.get("extracted_images", []), start=1):
+            src = BASE_DIR / image_path
+            if not src.exists():
+                continue
+            suffix = src.suffix.lower() or ".png"
+            target_name = f"embedded-{attachment_index:02d}-{idx:02d}{suffix}"
+            target_path = markdown_dir / target_name
+            shutil.copy2(src, target_path)
+            markdown_images.append(target_name)
+        info["markdown_images"] = markdown_images
+
+    return file_results
 
 
 def download_voice(client: ZsxqClient, voice: dict, channel_key: str,
@@ -267,6 +301,12 @@ def _build_body(topic_type: str, raw_text: str, images: list, files: list,
             text = info.get("extracted_text", "")
             if text and not text.startswith("["):
                 parts.append(f"---\n\n## 📄 {fname}\n\n{text}")
+            images = info.get("markdown_images", [])
+            if images:
+                image_lines = [f"![{fname}]({img_path})" for img_path in images]
+                parts.append(
+                    f"---\n\n## 🖼️ {fname} 图片提取\n\n" + "\n\n".join(image_lines)
+                )
 
     if voice:
         duration_min = voice['duration'] // 60
@@ -287,10 +327,14 @@ def _build_body(topic_type: str, raw_text: str, images: list, files: list,
             local = ""
             if file_results and name in file_results:
                 local = file_results[name].get("local_path", "")
-            status = "✅ 已提取" if (file_results and name in file_results
-                                      and file_results[name].get("extracted_text")) else ""
+            status_parts = []
+            if file_results and name in file_results and file_results[name].get("extracted_text"):
+                status_parts.append("✅ 已提取正文")
+            if file_results and name in file_results and file_results[name].get("extracted_images"):
+                status_parts.append(f"🖼️ {len(file_results[name]['extracted_images'])} 张图")
             if name.lower().endswith((".mp3", ".m4a", ".wav")):
-                status = "🎙️ 语音"
+                status_parts = ["🎙️ 语音"]
+            status = " ".join(status_parts)
             loc_str = f" → `{local}`" if local else ""
             file_lines.append(f"- {name} ({size_kb}KB{loc_str}) {status}")
         parts.append("\n".join(file_lines))
@@ -374,6 +418,7 @@ def save_topic(topic: dict, channel_key: str, channel_name: str,
 
     # 下载附件并提取文本
     file_results = download_and_extract_files(client, files, channel_key, date_path)
+    file_results = prepare_markdown_images(file_results, target_dir, filepath.stem)
     voice_path = download_voice(client, voice_info, channel_key, date_path)
 
     md_content = topic_to_markdown(

@@ -1,0 +1,132 @@
+{
+  "snapshot_date": "2026-05-24",
+  "source": "stock-sdk live quotes plus user-provided shares for 国联偏债攒钱",
+  "notes": [
+    "公募基金净值主要来自 stock-sdk 查询结果，净值日期以返回字段为准。",
+    "estimated_shares 为用当前市值除以最近净值反推的估算份额，不等同于券商账单精确份额。",
+    "国联偏债攒钱为投顾组合产品，使用用户提供份额反推隐含净值。"
+  ],
+  "items": [
+    {
+      "code": "110020",
+      "name": "易方达沪深300ETF联接A",
+      "nav_date": "2026-05-22",
+      "nav": 1.951,
+      "market_value": 285919.36,
+      "estimated_shares": 146550.15889287545
+    },
+    {
+      "code": "018947",
+      "name": "汇添富沪深300安中动态策略指数C",
+      "nav_date": "2026-05-22",
+      "nav": 2.47,
+      "market_value": 64006.22,
+      "estimated_shares": 25913.449392712548
+    },
+    {
+      "code": "022434",
+      "name": "南方中证A500ETF联接A",
+      "nav_date": "2026-05-22",
+      "nav": 1.3037,
+      "market_value": 81342.51,
+      "estimated_shares": 62393.57981130628
+    },
+    {
+      "code": "006327",
+      "name": "易方达中概互联网ETF联接（QDII）A",
+      "nav_date": "2026-05-21",
+      "nav": 0.91,
+      "market_value": 121290.83,
+      "estimated_shares": 133286.62637362638
+    },
+    {
+      "code": "013402",
+      "name": "华夏恒生科技ETF联接（QDII）A",
+      "nav_date": "2026-05-22",
+      "nav": 0.8102,
+      "market_value": 85138.32,
+      "estimated_shares": 105083.09059491484
+    },
+    {
+      "code": "016630",
+      "name": "易方达中证1000ETF联接A",
+      "nav_date": "2026-05-22",
+      "nav": 1.2369,
+      "market_value": 326795.5,
+      "estimated_shares": 264205.27124262264
+    },
+    {
+      "code": "007028",
+      "name": "易方达中证500ETF联接A",
+      "nav_date": "2026-05-22",
+      "nav": 2.0327,
+      "market_value": 151627.47,
+      "estimated_shares": 74594.12111969301
+    },
+    {
+      "code": "160119",
+      "name": "南方中证500ETF联接（LOF）A",
+      "nav_date": "2026-05-22",
+      "nav": 2.3967,
+      "market_value": 79598.77,
+      "estimated_shares": 33211.82041974382
+    },
+    {
+      "code": "007466",
+      "name": "华泰柏瑞中证红利低波动ETF联接A",
+      "nav_date": "2026-05-22",
+      "nav": 1.6058,
+      "market_value": 147909.19,
+      "estimated_shares": 92109.34736579898
+    },
+    {
+      "code": "009051",
+      "name": "易方达中证红利ETF联接A",
+      "nav_date": "2026-05-22",
+      "nav": 1.2541,
+      "market_value": 49669.02,
+      "estimated_shares": 39605.31058129336
+    },
+    {
+      "code": "012708",
+      "name": "东方红中证东方红红利低波动指数A",
+      "nav_date": "2026-05-22",
+      "nav": 1.3395,
+      "market_value": 264268.83,
+      "estimated_shares": 197289.16013437853
+    },
+    {
+      "code": "004097",
+      "name": "余额宝",
+      "nav_date": "2026-05-22",
+      "nav": 1.0,
+      "market_value": 103513.34,
+      "estimated_shares": 103513.34
+    },
+    {
+      "code": "485111",
+      "name": "工银瑞信双利债券A",
+      "nav_date": "2026-05-22",
+      "nav": 2.008,
+      "market_value": 11905.51,
+      "estimated_shares": 5929.038844621514
+    },
+    {
+      "code": "202101",
+      "name": "南方宝元债券A",
+      "nav_date": "2026-05-22",
+      "nav": 2.907,
+      "market_value": 11838.79,
+      "estimated_shares": 4072.511179910561
+    },
+    {
+      "code": "gllife_combo",
+      "name": "国联偏债攒钱",
+      "nav_date": "2026-05-24",
+      "nav": 1.422858,
+      "market_value": 573490.24,
+      "estimated_shares": 403055.02,
+      "note": "用户提供持有份额，净值为反推隐含值。"
+    }
+  ]
+}
